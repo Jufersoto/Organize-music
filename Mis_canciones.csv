@@ -1,0 +1,1172 @@
+,track_id,playlist_name,track_name,artist,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+0,0Tq9r08MqjyXqgqeuUxpxS,Pa las caderas y el corazón,Sexy Movimiento,Wisin & Yandel,0.815,0.755,10,-6.13,0,0.0373,0.357,1.23e-05,0.14,0.752,104.989,213013
+1,2z9YkcLojiOE7Eu2p9lPZR,Pa las caderas y el corazón,Normal,Feid,0.712,0.557,4,-4.861,0,0.115,0.0397,0.0,0.27,0.594,170.079,171987
+2,1JYKbarxvGPD5ml1P2O9H7,Pa las caderas y el corazón,Pobre Diabla,Don Omar,0.741,0.748,9,-7.006,0,0.0568,0.423,0.0109,0.0849,0.85,92.052,252480
+3,7MmrcXVA7A5zZ2CbDuGHNa,Pa las caderas y el corazón,A Mí,Rels B,0.846,0.548,1,-6.397,1,0.256,0.241,0.0713,0.0419,0.516,94.925,209680
+4,0dsEp1KSdosEyse7xtoZwn,Pa las caderas y el corazón,Mexicana,Charles Ans,0.653,0.66,1,-8.775,1,0.0615,0.419,6.73e-05,0.113,0.697,97.015,263001
+5,3juWJYfkbhPpI4QvgXOdyc,Pa las caderas y el corazón,Ella Baila,Alexis Play,0.62,0.876,6,-5.7,1,0.22,0.0547,0.0,0.657,0.93,138.93,143498
+6,6Yxwkhk5LW0uiurTMT7jLL,Pa las caderas y el corazón,Repent,Shaggy,0.909,0.73,8,-7.731,1,0.284,0.0213,9.87e-06,0.0364,0.929,95.963,221960
+7,42LFpmFNacf6rAIZqaCiWt,Pa las caderas y el corazón,"Llora, Llora",Tego Calderón,0.729,0.844,10,-7.207,0,0.205,0.288,0.0,0.0839,0.872,94.846,209613
+8,60O7AerEvNrB7HMjmp1xan,Pa las caderas y el corazón,Sin Exagerar (feat. Tego Calderón),Calle 13,0.734,0.896,4,-4.413,0,0.281,0.375,0.0,0.475,0.923,95.026,206427
+9,1lxswgIpzV6HhENRvkflES,Pa las caderas y el corazón,Chillax (feat. Ky-Mani Marley),Farruko,0.827,0.646,1,-4.727,0,0.0766,0.0724,0.0,0.247,0.512,92.057,197840
+10,2DUCbfLsEnxrNibAorMUkt,Pa las caderas y el corazón,Déjalo,Piso 21,0.872,0.579,5,-4.336,1,0.136,0.214,2.37e-05,0.264,0.759,88.95,179663
+11,4adPgo19PueMLIF65DLgVE,Pa las caderas y el corazón,Pa La Pared,Darell,0.798,0.805,5,-6.787,0,0.139,0.384,0.0,0.559,0.87,94.946,257684
+12,2iHr1co9ElgzHredwMNKOy,Pa las caderas y el corazón,Siente El Boom,"Tito ""El Bambino""",0.804,0.745,4,-5.805,0,0.0744,0.112,0.0,0.0924,0.512,95.024,188733
+13,2hsA9YWuF3C9Gosi4dpjJN,Pa las caderas y el corazón,Negro,J Balvin,0.795,0.911,0,-2.228,1,0.0875,0.0157,0.206,0.131,0.8,164.081,182093
+14,1wVvZThozhzvKbwv1gNce3,Pa las caderas y el corazón,Sexy Robotica,Don Omar,0.742,0.865,6,-5.137,1,0.0335,0.000446,6.22e-06,0.45,0.554,112.008,233987
+15,1dm6z1fWB0cErMszU25dy2,Pa las caderas y el corazón,Después de la Playa,Bad Bunny,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,230400
+16,2tTmW7RDtMQtBk7m2rYeSw,Pa las caderas y el corazón,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,198938
+17,75wlqiEzb6V0PbWyU66Va8,Pa las caderas y el corazón,No Necesito,Ñejo & Dalmata,0.773,0.632,9,-5.621,0,0.0689,0.265,0.0898,0.0868,0.97,92.002,210034
+18,4r9jkMEnArtWGH2rL2FZl0,Pa las caderas y el corazón,A Tu Merced,Bad Bunny,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,175918
+19,3YT1coaqAGWLRBIBJOu8AN,Pa las caderas y el corazón,En Su Nota,Don Omar,0.657,0.843,6,-5.927,0,0.272,0.00498,2.5e-05,0.156,0.883,192.043,219333
+20,675w3ACw5xZR3ODhUJlEVN,Pa las caderas y el corazón,Sola,Manuel Turizo,0.704,0.706,11,-5.233,0,0.111,0.483,0.0,0.0965,0.856,92.965,195044
+21,6d2tO6IFffoj9waEeEy4nF,Pa las caderas y el corazón,Estrellita De Madrugada - Dance Remix (Ft. Daddy Yankee),Omega,0.655,0.908,8,-5.064,1,0.0352,0.00276,0.0449,0.0418,0.815,133.011,182293
+22,3GaGWoU1KfVqgl7vnRHP55,Pa las caderas y el corazón,Demasiadas Mujeres,C. Tangana,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,0.358,126.043,153960
+23,7q72vajxaywdWMdena6o54,Pa las caderas y el corazón,El Cielo Se Me Cayó,DEKKO,0.786,0.772,9,-4.014,1,0.0959,0.00708,0.0,0.0781,0.741,110.496,123041
+24,1W5notTNkApwcnfgN5YnRG,Pa las caderas y el corazón,Chango Blanco,Tego Calderón,0.768,0.813,7,-6.056,1,0.0507,0.397,2.74e-05,0.0897,0.966,99.408,311013
+25,73r68MiSnQR3YsjEAwOLZt,Pa las caderas y el corazón,San Dunga,Pj Sin Suela,0.793,0.841,11,-5.77,0,0.0872,0.0284,0.0,0.0716,0.65,100.023,217057
+26,5sC0youR92ljJRn6VatElb,Pa las caderas y el corazón,Salud y Vida,Daddy Yankee,0.945,0.49,5,-5.766,0,0.107,0.606,0.0,0.323,0.906,100.011,206800
+27,59D4j5PrF6szUbL06uC7Ir,Pa las caderas y el corazón,Fiesta De Locos,Calle 13,0.771,0.927,9,-4.876,1,0.292,0.268,0.0,0.0998,0.734,104.94,267633
+28,4gzsuuZypVbxs0Af1LSZyB,Pa las caderas y el corazón,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,207301
+29,5rR3EYcEqhnDO2SuBZvPin,Pa las caderas y el corazón,Salio El Sol,Don Omar,0.887,0.701,4,-5.892,0,0.0872,0.106,0.00948,0.0466,0.965,110.002,315293
+30,3Ke1NVElHXQpBeuWz6QOt8,Pa las caderas y el corazón,Una Cita - Remix,Alkilados,0.78,0.845,10,-4.748,1,0.0724,0.195,0.0,0.284,0.694,95.981,275946
+31,4vhkI8x68EaGQR3Kn7Pwhc,Pa las caderas y el corazón,Esta Noche,Mike Bahía,0.727,0.848,5,-5.727,1,0.0584,0.013,0.0,0.102,0.792,130.007,168521
+32,5py3FJrHEuR67BjR7wm8uj,Pa las caderas y el corazón,Me Maten - Live at NPR's Tiny Desk,C. Tangana,0.614,0.583,7,-10.012,1,0.523,0.526,0.0,0.718,0.794,79.04,242497
+33,5IbxKO5UfeWkkS9EeOLPul,Pa las caderas y el corazón,Movimiento De Caderas,Rayo & Toby,0.707,0.637,9,-5.652,0,0.448,0.129,0.0,0.138,0.695,180.172,185547
+34,1MfqPCs3Y722VK6zkWZ98Z,Pa las caderas y el corazón,Pasarela,Ñejo & Dalmata,0.798,0.821,7,-6.143,1,0.0596,0.0985,5.84e-06,0.178,0.525,95.004,227467
+35,0X5jHsNHshuHNfAWs1sxQ5,Pa las caderas y el corazón,Permitame,Tony Dize,0.629,0.668,8,-6.974,1,0.15,0.0287,0.0,0.159,0.904,214.025,185013
+36,5YJ4BVvTFmVCxUyhKejHfR,Pa las caderas y el corazón,Pa' Que Retozen,Tego Calderón,0.815,0.856,1,-3.825,0,0.122,0.4,8.34e-05,0.244,0.872,91.995,151667
+37,4f49sFQko7jHLEFd3tCf5p,Pa las caderas y el corazón,Ojitos Chiquitos,Don Omar,0.801,0.839,1,-3.267,0,0.24,0.0206,7.65e-05,0.0946,0.792,170.011,229027
+38,69Ej1xrGjOcHvIMtMKxK0G,Pa las caderas y el corazón,Dile,Don Omar,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,204600
+39,4eDjNcAyIuJFhQ31Fvvoc1,Pa las caderas y el corazón,"Sexo, Sudor y Calor",J Alvarez,0.743,0.891,0,-4.696,1,0.0461,0.192,0.0,0.0859,0.962,167.946,250227
+40,3NgDulHteTVdF026IxY5bW,Pa las caderas y el corazón,RX,Don Omar,0.7,0.869,11,-4.452,0,0.284,0.109,0.0,0.13,0.907,180.124,225013
+41,1q8NdCAQ9QUjpYiqzdd3mv,Pa las caderas y el corazón,Atrévete-Te-Te,Calle 13,0.829,0.878,9,-5.951,1,0.101,0.0959,0.0,0.776,0.883,87.991,239307
+42,6DxS2ZRl8G3EagHkovYXA2,Pa las caderas y el corazón,Zun Da Da,Zion,0.782,0.767,9,-7.981,0,0.0871,0.266,3.64e-05,0.0947,0.622,88.005,304091
+43,79zvVrn65ksbiGQxrtV4I5,Pa las caderas y el corazón,Guaya Guaya,Don Omar,0.788,0.873,7,-2.322,1,0.117,0.00607,0.00052,0.0908,0.703,91.981,193613
+44,1Koxb4StDE2K7XsuDunx76,Pa las caderas y el corazón,Algo Musical,Ñejo & Dalmata,0.881,0.639,1,-6.682,1,0.101,0.0708,3.33e-06,0.0547,0.706,107.013,234907
+45,3u2jlo9kygiIAq7SPVuw6S,Pa las caderas y el corazón,Dile a Tu Amiga,Dalmata,0.794,0.576,2,-12.111,1,0.0591,0.225,0.00381,0.0854,0.914,94.993,214121
+46,4fFgpzgSkmn3wajioLBPOr,Pa las caderas y el corazón,Mis Ojos Lloran Por Ti,Big Boy,0.794,0.831,8,-9.235,1,0.331,0.0135,1.12e-06,0.11,0.328,172.407,295533
+47,3eg6Yi9x0gN3k4nD4h6il3,Tangos y boleros,Dos Gardenias,Buena Vista Social Club,0.547,0.2,4,-16.734,0,0.0392,0.826,3.84e-05,0.135,0.551,91.768,182973
+48,4jM0v4ReOQh5RntXfiG3NN,Tangos y boleros,Moliendo café,Vieja Trova Santiaguera,0.447,0.623,6,-6.136,0,0.0485,0.716,0.0,0.19,0.703,91.914,295400
+49,7dRfobhDNnsEgB2ZArxA1f,Tangos y boleros,El Cuarto de Tula,Buena Vista Social Club,0.552,0.664,9,-13.167,1,0.0454,0.595,0.000409,0.299,0.858,104.776,444533
+50,6hGfBBs2yvBcMbfTMsARGx,Tangos y boleros,Patria Querida,Los Guaracheros De Oriente,0.84,0.565,0,-9.145,1,0.0666,0.703,1.18e-05,0.127,0.726,124.247,189962
+51,2OQnzGYIOhcyWkfzckNPp5,Tangos y boleros,Mueve la Cintura Mulata,Cuarteto Oriente,0.65,0.556,4,-11.344,0,0.0457,0.0657,0.000566,0.0632,0.763,103.109,487867
+52,5kw0PCwGS9QCMwvmsXyvxx,Tangos y boleros,Era,Estopa,0.696,0.558,2,-7.85,0,0.0437,0.711,0.000204,0.102,0.429,90.82,182480
+53,47haQcqBOue2RAsVXER52f,Tangos y boleros,Historia de un Amor,Eydie Gormé,0.61,0.336,2,-11.797,0,0.0327,0.843,0.0,0.0677,0.622,100.735,150867
+54,1rsD5809qvVFMa0dhoVoSx,Tangos y boleros,Amor de Loca Juventud,Buena Vista Social Club,0.572,0.408,3,-14.563,1,0.036,0.839,0.0043,0.461,0.723,142.374,201667
+55,4LuPdTen7rjDe7MghbLBZU,Tangos y boleros,La sitiera,Omara Portuondo,0.618,0.286,6,-10.162,1,0.0366,0.873,0.00129,0.102,0.708,97.346,235467
+56,3LUCCjAyXpgpH250Fylcpb,Tangos y boleros,Historia de un amor,Diego El Cigala,0.588,0.25,9,-15.081,0,0.0595,0.783,0.00169,0.178,0.553,128.075,197947
+57,4zCsjPyHGJz8Vx0luwq4M1,Tangos y boleros,La negra Tomasa,Compay Segundo,0.565,0.623,6,-6.297,0,0.134,0.549,0.0,0.099,0.79,94.641,238413
+58,3zS87IyV97u0BJGGpPixyL,Tangos y boleros,Corazón Loco,Bebo Valdés,0.636,0.239,9,-12.096,0,0.0545,0.881,0.000405,0.104,0.303,120.238,195893
+59,1euRYSBwftamqajk6Qh0CE,Tangos y boleros,Hoy para Siempre,Los Rolling Ruanas,0.471,0.538,7,-6.211,0,0.0305,0.765,0.0,0.149,0.799,124.943,273000
+60,3k2qOgZygd9YxrYGqkK6Dj,Tangos y boleros,Por Las Buenas,Billo's,0.574,0.562,9,-6.65,0,0.0688,0.162,9.98e-05,0.106,0.853,201.353,155539
+61,1FFwPJxL60iQPSmXK81t6q,Tangos y boleros,Entre Luca Y Juan Mejía,Vicente Garcia,0.863,0.7,2,-5.04,1,0.0408,0.811,0.327,0.176,0.923,122.945,227013
+62,0TCgYIbphnGDyOrdTHRvtJ,Tangos y boleros,Robarle tiempo al tiempo,Café Quijano,0.795,0.697,10,-6.362,1,0.0347,0.834,0.00111,0.217,0.851,93.987,252656
+63,1xlyMt6tEJPNAB48zgY6FU,Tangos y boleros,"El Cuarto de Tula - Ao Vivo Em Teatro Karl Marx,Cuba/2011",Diogo Nogueira,0.492,0.669,7,-8.208,0,0.127,0.576,0.0,0.76,0.663,109.99,273067
+64,6XKvP9q9B4RGIVmvZ22MwT,Tangos y boleros,Calle la Pantomima,Melendi,0.465,0.869,11,-5.9,0,0.0746,0.678,9.03e-06,0.136,0.544,158.217,188293
+65,1nVCAvTvxAZ7oPh0eWEv83,Tangos y boleros,Meurte Del Angel,Astor Piazzolla,0.444,0.589,9,-13.875,0,0.562,0.724,0.276,0.945,0.574,154.234,199240
+66,1PXmOgfoM78vdhBjrjrTzu,Tangos y boleros,Trenzas,Angelito Martinez,0.648,0.23,9,-10.578,0,0.0886,0.771,0.0,0.122,0.337,111.113,204715
+67,52gnzovIQX4fc8CzmXV3qI,Tangos y boleros,La Bicicleta Blanca,Horacio Ferrer,0.594,0.209,0,-13.287,1,0.249,0.774,0.0,0.07,0.531,104.854,231520
+68,3Z34yqQzVeD8wExZGCw9po,Tangos y boleros,Por una Cabeza,Angelito Martinez,0.575,0.315,9,-9.48,0,0.135,0.774,0.0,0.0978,0.429,81.363,154795
+69,2tGrykC11z4OMBFfKCq0kt,Tangos y boleros,El Choclo,Tita Merello,0.543,0.419,11,-8.915,1,0.129,0.817,0.0,0.0693,0.659,148.881,183040
+70,2bR0drb2tOaznRIfOTHzwF,Tangos y boleros,Chiquilín de Bachín,Amelita Baltar,0.383,0.251,1,-13.056,1,0.0442,0.826,0.0,0.115,0.14,78.434,221934
+71,0Hja9zlVQHC768PsPjWscW,Tangos y boleros,Sabor a Mí,Eydie Gormé,0.651,0.376,8,-11.32,1,0.0435,0.809,1.72e-06,0.13,0.593,97.011,168400
+72,4faOsdm3wPyhqSgkM9jZ9D,Tangos y boleros,Dos Gardenias,Daniel Santos,0.768,0.304,5,-7.898,0,0.0447,0.916,0.0898,0.501,0.948,116.054,183182
+73,3HRqqfLJXMvEcqflLpy5Os,Tangos y boleros,Cancionero,Alvaro Carrillo,0.374,0.108,2,-15.849,1,0.0561,0.959,5.04e-05,0.104,0.463,177.727,126413
+74,3ubZ2SxShewBQ6Ou6R7iyX,Tangos y boleros,Garúa - Romaphonic,Andrés Calamaro,0.583,0.407,2,-6.77,0,0.0578,0.879,0.0,0.123,0.428,90.691,220333
+75,6aF9yldqlWgCJctmIAe2an,Tangos y boleros,Los aviones - Romaphonic,Andrés Calamaro,0.669,0.248,9,-9.747,0,0.0296,0.964,5.27e-05,0.261,0.226,110.125,304909
+76,7EiQvgP5717XWkMwNFZlGq,Tangos y boleros,Milonga del trovador - Romaphonic,Andrés Calamaro,0.466,0.363,10,-6.28,1,0.0345,0.923,0.0,0.126,0.234,98.153,295516
+77,7ozOXH5WVVLL0VCXNDLgut,Tangos y boleros,Absurdo - Romaphonic,Andrés Calamaro,0.532,0.399,7,-7.12,0,0.0371,0.918,2.15e-06,0.0925,0.425,134.919,193570
+78,0mAS4AbtK9KHE9QJQbPuZN,Tangos y boleros,Lágrimas Negras (feat. Omara Portuondo),Buena Vista Social Club,0.546,0.544,0,-8.708,0,0.0413,0.722,0.0,0.0807,0.856,82.558,244917
+79,3mNKgwNiyOkGPWCo3jV1Ap,Tangos y boleros,¿Dónde estabas tú?,Omara Portuondo,0.732,0.314,0,-11.633,0,0.0532,0.727,0.00528,0.268,0.636,116.968,223133
+80,6QTsakwuxHCS58zrmWVQ8M,Tangos y boleros,Aquellos Ojos Verdes,Ibrahim Ferrer,0.355,0.258,2,-12.952,1,0.0294,0.846,0.003,0.155,0.27,82.183,294293
+81,3253prbfEMwMJUKxKvlSBI,Tangos y boleros,He perdido contigo,Omara Portuondo,0.694,0.253,5,-13.613,0,0.0359,0.925,0.0213,0.149,0.775,126.63,227400
+82,4UOt0ObZ4Oqi7LSU1Gzzkq,Tangos y boleros,Por Una Cabeza,Carlos Gardel,0.373,0.264,8,-7.393,0,0.0571,0.969,0.00869,0.296,0.435,63.924,153120
+83,1zzUTT4TjWwggngA5l6si3,Tangos y boleros,El Milagro,Astor Piazzolla,0.456,0.362,1,-10.664,0,0.0443,0.923,0.0132,0.0807,0.318,116.524,200867
+84,3Bm4LUMGUQAuAtlwjjBVnC,Tangos y boleros,Neotango,Astor Piazzolla,0.434,0.625,2,-7.496,0,0.0394,0.787,0.0138,0.0865,0.586,125.109,200282
+85,72C0VoLiKRJO3eLtDAr53E,Tangos y boleros,Las Cuatro Estaciones Porteñas / Invierno Porteño,Gryphon Trio,0.219,0.19,3,-16.298,1,0.039,0.915,0.774,0.121,0.151,78.848,358067
+86,2YBOTCEdUXpeYfI0qgNOwA,Tangos y boleros,Cafetin de Buenos Aires,Astor Piazzolla,0.351,0.423,4,-8.025,0,0.0538,0.976,0.598,0.323,0.447,80.311,191067
+87,0cV8PjcgBcKFU0eP7jjApM,Tangos y boleros,Otoño porteño (Autumn),Orfeum Trio,0.204,0.0671,4,-19.82,0,0.0446,0.961,0.846,0.14,0.037,74.435,349320
+88,3c7m2Kzg1q9iKa4yhKbuea,Tangos y boleros,Lágrimas Negras,Bebo Valdés,0.435,0.268,2,-12.552,0,0.0506,0.962,0.873,0.168,0.748,87.76,224173
+89,0dRlYMVZVSW6MBpeP5mH71,Tangos y boleros,Montserrat,Orquesta Del Plata,0.719,0.599,7,-9.146,1,0.0364,0.0061,0.867,0.124,0.422,120.007,310120
+90,527GSISK0TFtGuUnscgS5y,Tangos y boleros,Los Tangueros,Orquesta Del Plata,0.79,0.84,11,-7.659,0,0.0379,0.0404,0.628,0.117,0.378,127.583,312520
+91,4NLWlxYCPrw2PhfJvfxRWI,Tangos y boleros,Mandinga,Ruben Gonzalez,0.584,0.473,7,-11.248,1,0.037,0.693,0.659,0.109,0.708,91.503,507067
+92,3ciDewwDbazjc7UnDtY4nA,Tangos y boleros,La Flor De La Canela,Chabuca Granda,0.58,0.479,9,-10.901,0,0.0558,0.821,4.78e-06,0.1,0.598,154.019,201493
+93,0FpBO0Pyoh4MZVmNO3zwnc,Tangos y boleros,Sofrito,Mongo Santamaria,0.644,0.519,10,-8.895,1,0.0373,0.275,0.0192,0.0793,0.453,117.739,366200
+94,3dSWasxGfqo583KtNvqrXf,Tangos y boleros,Déjame Así,Maite Hontelé,0.789,0.673,9,-9.155,0,0.0359,0.352,0.00179,0.0983,0.914,144.028,258747
+95,0cWrotZwqQAUrYpEeliVuR,Tangos y boleros,La Comparsa,Chucho Valdés,0.491,0.658,1,-9.693,1,0.0516,0.383,0.772,0.111,0.655,105.56,416933
+96,1Nkq4Ks8Q3aXlmxD3iLx9v,Tangos y boleros,El Día Que Me Quieras (Remasterizado 2022),Carlos Gardel,0.381,0.23,0,-12.03,0,0.0414,0.963,0.00598,0.111,0.413,113.411,201933
+97,6BSfZ5AJg5OzUXQfMgCOkI,Tangos y boleros,El Aguacate,Julio Jaramillo,0.708,0.252,2,-12.475,0,0.0511,0.876,1.15e-05,0.173,0.718,95.6,181211
+98,5Rd7QtzR7pq2Xpfm2DBChB,Tangos y boleros,El Aguacate,Luz Pinos,0.619,0.191,7,-12.723,0,0.0394,0.902,0.00101,0.109,0.318,79.972,274663
+99,3V4bMgeel5aUjLPMuDxMN3,Tangos y boleros,Que Nadie Sepa Mi Sufrir,Los Tres Reyes,0.648,0.346,1,-11.387,0,0.0975,0.756,8.6e-06,0.14,0.76,155.868,190400
+100,1gDZARp2QrP8t2IVrgdSbO,Tangos y boleros,Que Nadie Sepa Mi Sufrir,Julio Jaramillo,0.718,0.408,2,-7.662,0,0.152,0.467,0.0,0.0975,0.703,165.061,162640
+101,6EJCOji2hItbxSfkDQhzIW,Tangos y boleros,Que Nadie Sepa Mi Sufrir,Puerto Candelaria,0.711,0.447,2,-8.754,0,0.0602,0.721,2.01e-06,0.0954,0.787,160.073,248216
+102,6e02pDi21TH63YBn39VqA4,Tangos y boleros,Senderito De Amor,Puerto Candelaria,0.83,0.548,2,-8.266,0,0.074,0.462,0.000302,0.0617,0.965,160.031,223847
+103,2AW7BpJBv9AWlTiZwrP3pV,Tangos y boleros,The Peanut Vendor,Pérez Prado,0.527,0.768,5,-6.815,1,0.0736,0.668,0.806,0.161,0.908,172.531,161344
+104,2N5y804mPVooHyrPB7FcmS,Tangos y boleros,Al vaivén de mi carreta,Afro-Cuban All Stars,0.654,0.544,9,-9.52,0,0.0392,0.239,0.000231,0.0673,0.679,125.174,461227
+105,6Ds9miFD06FwpFdAuqDo0h,Tangos y boleros,Amor verdadero,Afro-Cuban All Stars,0.591,0.497,2,-11.801,1,0.0397,0.354,7.09e-06,0.136,0.756,136.568,396440
+106,5sQGo3fB2NoFalyy4uZjiu,Tangos y boleros,Ojalá,Silvio Rodríguez,0.526,0.235,7,-14.074,0,0.0991,0.907,4.44e-06,0.111,0.377,91.24,212482
+107,4z5w8e6TwbSUuVlZX3mOhO,Tangos y boleros,Cuando Cuando,Jimmy Sabater,0.584,0.499,0,-9.797,0,0.0373,0.636,7.18e-05,0.101,0.957,102.563,243120
+108,5UvNaP0WEOLc5FKJfkjm5n,Tangos y boleros,Juan Tenorio,Grupo Fantasma,0.722,0.64,5,-4.735,0,0.0373,0.727,0.0245,0.547,0.832,80.02,317293
+109,6SRi807ie3ZIp81j8usrRx,Tangos y boleros,La Casa de Fernando,Pacho Galan,0.825,0.644,10,-8.325,0,0.0454,0.498,0.000795,0.0474,0.961,102.579,195933
+110,7zN8hXNAZE2gLImTiHFyyD,Tangos y boleros,Ay Cosita Linda,Pacho Galan,0.719,0.534,7,-8.429,0,0.0554,0.222,0.0,0.053,0.965,106.086,202818
+111,7M2vQRhYz5lqlE6kf2j9kJ,Tangos y boleros,La Reina Del Swing,La-33,0.776,0.525,0,-9.315,1,0.0325,0.795,3.84e-05,0.093,0.891,126.549,276027
+112,77AzAvK1ztYLDrHPt8Lv0f,Tangos y boleros,Bachata Rosa,Natalie Cole,0.658,0.414,9,-8.522,1,0.0311,0.79,2.64e-06,0.199,0.51,111.904,242200
+113,3SsPVhEHMoOlVwHMtng5mH,Tangos y boleros,Libertango,Astor Piazzolla,0.438,0.612,9,-9.05,0,0.0614,0.846,0.283,0.955,0.493,158.938,251493
+114,3tRpe4penetzVTWNjsdVyB,Tangos y boleros,Jeanne Y Paul,Astor Piazzolla,0.395,0.476,9,-9.606,0,0.0367,0.754,0.295,0.108,0.303,108.409,249747
+115,1ZAYsScO4yNVYPD07TSpXN,Tangos y boleros,Jamaica Farewell,Harry Belafonte,0.598,0.195,2,-16.053,1,0.0925,0.951,0.0,0.101,0.745,145.178,181893
+116,3XEtw7t4V5sfd2vtkp0ql7,Tangos y boleros,Smooth Operator - Single Version,Sade,0.734,0.58,9,-6.619,0,0.0321,0.238,0.0006,0.0298,0.962,119.336,258693
+117,1gDZARp2QrP8t2IVrgdSbO,Tangos y boleros,Que Nadie Sepa Mi Sufrir,Julio Jaramillo,0.718,0.408,2,-7.662,0,0.152,0.467,0.0,0.0975,0.703,165.061,162640
+118,5t1kk7lxxBjAwm1hOYZX3b,Tangos y boleros,Te Esperare,Julio Jaramillo,0.508,0.452,7,-6.49,0,0.0523,0.378,0.0,0.233,0.523,168.918,153653
+119,6BSfZ5AJg5OzUXQfMgCOkI,Tangos y boleros,El Aguacate,Julio Jaramillo,0.708,0.252,2,-12.475,0,0.0511,0.876,1.15e-05,0.173,0.718,95.6,181211
+120,6UIHk7W6LNSRsMmu5hUdjb,Tangos y boleros,He pecado (feat. Bunbury y Orishas),Cabas,0.785,0.788,0,-5.857,0,0.0528,0.533,0.0,0.379,0.925,96.998,256107
+121,3H0PlcSmQ6z4DDCBFkD7Wx,Cumbiones,Te Mentiría,La K'onga,0.651,0.731,7,-6.889,1,0.0549,0.116,0.0,0.0708,0.653,153.104,218431
+122,38tuNK1B1WYVsggS3aDqLf,Cumbiones,Alejate de Mi - Versión Bachata,Camila,0.624,0.731,4,-7.383,1,0.0328,0.0652,2.37e-06,0.285,0.95,145.205,270653
+123,1S2YPBElcf2CnHc59Xh52o,Cumbiones,Cachipay,Jorge Ariza,0.757,0.66,7,-7.205,1,0.0496,0.363,0.917,0.0757,0.979,66.658,147627
+124,4wL59G4Nur3paBanDT6egw,Cumbiones,La Entrevista - Remasterizado,David Calzado y su Charanga Habanera,0.747,0.954,8,-2.892,1,0.0348,0.135,2.72e-06,0.434,0.87,98.007,292213
+125,5g5lurZtBGXooVqshQP3k9,Cumbiones,Quiero Cumbia,Los Caligaris,0.639,0.886,11,-4.588,0,0.0377,0.0104,0.0,0.287,0.779,100.018,219150
+126,2Mc6ADyceJoespgsQLW1e1,Cumbiones,Eco de Mis Ancestros,Nelda Piña y sus Tambores,0.703,0.747,11,-5.911,1,0.276,0.62,0.0,0.097,0.883,84.086,205500
+127,7MmrcXVA7A5zZ2CbDuGHNa,Cumbiones,A Mí,Rels B,0.846,0.548,1,-6.397,1,0.256,0.241,0.0713,0.0419,0.516,94.925,209680
+128,0NHt6ZbsksyTlwTcCeWDxk,Cumbiones,Mambo Con Boogaloo,La-33,0.693,0.806,0,-7.206,1,0.0647,0.53,0.000415,0.146,0.865,155.144,253120
+129,3RCEkrCEWAcL8tk4f0zU63,Cumbiones,Sigue Felíz,Willie Colón,0.712,0.56,0,-10.747,1,0.0592,0.492,0.317,0.202,0.962,105.126,255173
+130,1c7GpIXR8F85rFxFj90Z63,Cumbiones,Panameña,Willie Colón,0.736,0.485,0,-10.864,0,0.0443,0.428,0.0013,0.204,0.794,94.899,354600
+131,2N5H8pIB12voccA8FPEHZ8,Cumbiones,Abuelita,Willie Colón,0.662,0.588,7,-10.073,0,0.0725,0.651,0.000507,0.294,0.757,93.53,263773
+132,3LHLIzmE6AGHOraeuNObhA,Cumbiones,Pa’ Colombia,Willie Colón,0.858,0.524,10,-9.896,1,0.0569,0.466,0.0512,0.113,0.853,113.894,351947
+133,1fIjc50dmcl9PkH3E4iG4E,Cumbiones,El Malo,Willie Colón,0.596,0.871,0,-6.007,0,0.0496,0.699,5.07e-05,0.0487,0.965,113.947,240147
+134,1pdz7V7bK6qOjvapoa4jWY,Cumbiones,Willie Baby,Willie Colón,0.697,0.809,0,-5.827,1,0.0369,0.793,0.00101,0.226,0.775,127.24,168000
+135,16z8r9uBq6V6VkC73QnJkY,Cumbiones,Chonqui,Willie Colón,0.532,0.784,0,-6.883,0,0.0501,0.655,0.000456,0.165,0.775,145.223,250920
+136,5rdDVT2OI1x8it6QgMhek2,Cumbiones,Jazzy,Willie Colón,0.446,0.734,0,-10.14,1,0.0356,0.805,0.705,0.0721,0.96,110.28,245960
+137,0IejbpRLIQS2NezKzMvaZz,Cumbiones,Cuatro Elementos,El Caribefunk,0.513,0.666,3,-6.954,0,0.0684,0.319,1.48e-06,0.336,0.845,158.079,223258
+138,5UCnz9Q6GSFLl6oeCSaSSZ,Cumbiones,Bandolera,Héctor Lavoe,0.594,0.562,2,-9.38,0,0.0339,0.752,7.29e-05,0.168,0.72,105.795,574800
+139,2JlyQBk8fOVy7HfNCXrQjQ,Cumbiones,Sin Prisa,El Caribefunk,0.729,0.684,11,-6.711,1,0.0491,0.482,7.65e-06,0.14,0.807,96.885,191472
+140,7dVAPt7flREDferVKMjWOd,Cumbiones,El Area de Noé,Rumbatá,0.823,0.527,0,-11.374,1,0.0591,0.415,1.95e-05,0.299,0.902,95.657,286267
+141,7GBKatFFO8xPt9cgT0H74D,Cumbiones,El Pájaro Cú,Sonex,0.549,0.938,0,-4.603,1,0.131,0.776,3.96e-05,0.066,0.909,98.03,231187
+142,7rkw3zKIijcrCaXCzrfcYn,Cumbiones,Balada Jarocha,Sonex,0.776,0.632,7,-6.602,1,0.0338,0.642,0.0,0.346,0.97,120.031,225739
+143,7wqh2WCkFMgS3hejAZosd8,Cumbiones,La luz,Sonex,0.756,0.938,7,-7.382,1,0.0653,0.198,0.000415,0.0309,0.866,100.5,284120
+144,5jzIg2FrZim3fu07ZyqZ4K,Cumbiones,Guanábana,Sonex,0.617,0.618,2,-8.727,0,0.0451,0.0529,0.000242,0.1,0.962,158.804,259520
+145,5eCmWi8XpHi4Kt2KVNvKbS,Cumbiones,La bamba,Sonex,0.728,0.805,7,-8.959,1,0.146,0.0192,3.51e-06,0.0875,0.858,104.762,231867
+146,46MsDn3VIiOyPWHeSkSbHv,Cumbiones,Con un beso,Sonex,0.665,0.722,2,-8.782,1,0.228,0.219,0.0,0.0689,0.586,159.032,284653
+147,2lYBbYY6tI0OPdOC1RSaN0,Cumbiones,La gallina,Sonex,0.772,0.798,7,-8.129,1,0.0746,0.0147,8.88e-05,0.0542,0.91,113.96,239907
+148,6xepovPqjvrkEw9Y5AMmTm,Cumbiones,Lambada - Original Version 1989,Kaoma,0.756,0.8,5,-5.158,1,0.0329,0.211,0.000724,0.0466,0.967,118.924,207467
+149,3juWJYfkbhPpI4QvgXOdyc,Cumbiones,Ella Baila,Alexis Play,0.62,0.876,6,-5.7,1,0.22,0.0547,0.0,0.657,0.93,138.93,143498
+150,055bnEzorPcnlLq1fJqHQK,Cumbiones,Maranguango,El Caribefunk,0.644,0.868,11,-7.254,0,0.0467,0.208,0.000562,0.278,0.843,108.005,169496
+151,36SLvR17LY37IL81bcsW48,Cumbiones,Telón,El Caribefunk,0.706,0.688,9,-6.476,1,0.0504,0.374,0.0,0.0988,0.599,97.03,231026
+152,1riwPlXQvWOsfT79y0eGQn,Cumbiones,Bailando,Pedro Pastor,0.626,0.916,7,-6.555,1,0.055,0.574,7.29e-05,0.36,0.791,130.032,154520
+153,04mq28ok538qTCtlcApfs9,Cumbiones,Fastidiado De Lo Bien,El Caribefunk,0.764,0.779,11,-7.664,0,0.0594,0.178,0.0,0.179,0.878,112.015,189543
+154,4na0S4dyXadwQ1pIseS42Q,Cumbiones,La Chamuyera,El Caribefunk,0.725,0.795,1,-6.795,1,0.0452,0.22,0.0,0.0348,0.962,126.03,203295
+155,4bndkI1TTh7itdsyixtDoD,Cumbiones,Baianá,Barbatuques,0.777,0.573,10,-12.078,0,0.335,0.47,0.0138,0.177,0.622,95.087,279680
+156,0DwuNFM9PCFrxQSRDVjmuL,Cumbiones,Vente Negra,Habana con kola,0.594,0.54,7,-5.37,1,0.0581,0.164,8.46e-06,0.176,0.512,84.366,239000
+157,4iCTmJi34Oqm6LJKvN7Sqz,Cumbiones,Yo se ya,La Mambanegra,0.764,0.556,7,-9.154,1,0.15,0.826,1.16e-06,0.394,0.603,99.973,302162
+158,468KewwnYDaGofS7CHhR3K,Cumbiones,Margie,Ray Barretto,0.484,0.503,5,-9.83,0,0.0868,0.756,1.1e-05,0.144,0.882,98.461,199560
+159,0TrY3m2S9hlj0FnUa3WhOw,Cumbiones,72 Hacheros Pa' Un Palo,Manolito Simonet y su Trabuco,0.867,0.553,0,-8.709,1,0.0395,0.245,1.87e-05,0.0525,0.948,130.073,219350
+160,7uQOfh1O1a6IA8g4VWFrd8,Cumbiones,Disco Azúcar,Juan Formell y Los Van Van,0.73,0.855,5,-7.902,1,0.0635,0.678,1.29e-06,0.132,0.861,109.347,324840
+161,6pbCkvCENw0suVGr4Ckkae,Cumbiones,Like Glue,Sean Paul,0.757,0.78,1,-5.038,1,0.319,0.0811,0.0,0.113,0.59,97.917,232507
+162,6iqWLU8bqAuviRRol0hD2g,Cumbiones,Fuego,Jacobo Velez,0.735,0.701,7,-8.064,0,0.16,0.612,1.12e-06,0.577,0.899,168.02,225233
+163,2heG20ThfguqAgUXNsy7dT,Cumbiones,Una Broma Seria,Habana Abierta,0.802,0.568,0,-9.843,1,0.05,0.427,1.06e-05,0.315,0.718,103.99,182640
+164,76tFzRYmKjURYhCM8j1CrV,Cumbiones,El Gato y el Ratón,Habana Abierta,0.679,0.685,7,-8.979,1,0.0535,0.467,3.69e-06,0.378,0.653,114.096,238067
+165,5X4EAUGRDw6U7D057evbQs,Cumbiones,Asere ¿Qué Volá?,Habana Abierta,0.771,0.86,2,-6.534,1,0.0464,0.426,0.0,0.1,0.849,112.041,278187
+166,6k3GZGZksbEf7k3nmEDfjP,Cumbiones,Son Iguales,Habana Abierta,0.832,0.695,2,-7.861,1,0.0333,0.339,0.0,0.0992,0.777,129.953,260280
+167,4ZXfTIeCdWBuZCbKgicVcY,Cumbiones,Bailala Bien,Habana Abierta,0.8,0.858,4,-8.329,1,0.11,0.559,4.3e-05,0.103,0.951,118.011,207080
+168,7GpLrSiwgo8MdbhlYMiDE5,Cumbiones,Como Soy Cubano,Habana Abierta,0.758,0.93,11,-7.119,0,0.0571,0.349,0.000739,0.0896,0.67,117.935,328267
+169,24J7YHAgSGxCRI4Kpd9xk3,Cumbiones,Basta Que Lo Digas Tú,Habana Abierta,0.747,0.72,0,-6.809,0,0.064,0.552,0.0,0.0857,0.628,104.963,234440
+170,2X33D3wMAX35Atf7dQmkpU,Cumbiones,Corazón Boomerang,Habana Abierta,0.797,0.537,0,-6.958,1,0.0356,0.348,0.0,0.132,0.577,129.979,254160
+171,1BmCHEhtAe8TXWGjPxlPwy,Cumbiones,La Novia de Superman,Habana Abierta,0.741,0.68,4,-8.932,0,0.0769,0.214,0.0,0.101,0.88,89.96,252720
+172,7JdYz8glqZiToSRAsKPJW8,Cumbiones,El Relajito,Habana Abierta,0.809,0.699,2,-8.618,1,0.0517,0.312,0.0,0.0895,0.633,105.019,240640
+173,3HzZIN8oncO0hw3FhtYGBX,Cumbiones,Lo Bueno No Sale Barato,Habana Abierta,0.751,0.841,9,-6.898,1,0.0504,0.198,4.3e-06,0.302,0.725,103.977,244013
+174,0zZDt7p7ETtUrWgELG8VoF,Cumbiones,Boca Abajo,Habana Abierta,0.768,0.898,1,-6.55,1,0.0393,0.465,0.0,0.0629,0.896,118.069,209307
+175,31Pwa4vxNUEtxYQIhZfc3B,Cumbiones,Dime Cuánto - Remasterizado,El Niño y la Verdad,0.705,0.861,5,-6.002,0,0.0419,0.181,0.0,0.0956,0.885,169.957,315520
+176,2HZ67WFKUDZkvYVfjXmfli,Cumbiones,Conga Pá Cerrar,Alexander Abreu,0.795,0.843,4,-4.377,0,0.0643,0.473,1.8e-05,0.135,0.755,124.999,333827
+177,3oauXpkAKyzYWkAiZAkVUH,Cumbiones,Que Pasa Loco ?,Issac Delgado,0.735,0.728,0,-9.033,1,0.0574,0.249,1.64e-05,0.0622,0.956,87.655,378070
+178,1DF9XPespiTUJKh5MRRStG,Cumbiones,Fever,La Lupe,0.506,0.547,0,-6.395,0,0.0527,0.595,1.66e-05,0.099,0.744,98.837,165213
+179,7xpJQcmsnGG9ojztoCNe54,Cumbiones,Dónde Va Chichi?,Sierra Maestra,0.536,0.72,9,-9.258,1,0.0386,0.0996,0.00023,0.0502,0.838,116.183,313133
+180,7Cukyed54aN3Cdz0KbI90f,Cumbiones,"Temba, tumba y timba",Mayito Rivera,0.574,0.894,2,-5.971,1,0.0429,0.234,0.0,0.175,0.962,108.128,412000
+181,5v5BV2fOtSJFbMTlptSxQB,Cumbiones,El Tembla,David Calzado y su Charanga Habanera,0.571,0.898,0,-8.531,1,0.0424,0.442,0.00339,0.263,0.964,98.988,355814
+182,5Yz6JnzlUxvj8cix5DU6ax,Cumbiones,Olvidar Bailando,La-33,0.672,0.604,0,-6.83,0,0.298,0.632,1.61e-06,0.283,0.632,180.249,187826
+183,2zSaRaop42B6bInzcBcyaD,Cumbiones,#Sádico,Rawayana,0.81,0.622,1,-10.985,1,0.15,0.272,0.000688,0.0963,0.688,122.026,344863
+184,1qROMoGOaag7LrXhukbDRZ,Cumbiones,Bemba Colorá - Live,Fania All Stars,0.506,0.8,5,-5.684,0,0.134,0.635,0.00385,0.959,0.839,119.452,712920
+185,7Lln3fbuYhNpTQ9IdNXzEW,Cumbiones,El Yerberito Moderno,Sonora Matancera (En Vivo),0.599,0.934,9,-4.673,1,0.0387,0.461,0.00341,0.296,0.805,118.406,244637
+186,6ijh9JrrEYvXsVl45ohmgJ,Cumbiones,Dulce Habanera,Osvaldo Farrés,0.579,0.737,8,-4.386,1,0.0545,0.187,0.0821,0.0324,0.847,125.542,218547
+187,0TGLRGD4ZRp6sM5jy8EOjR,Cumbiones,Soy El Rey,Pete Rodriguez,0.51,0.643,5,-6.415,1,0.0369,0.77,0.00346,0.251,0.599,109.527,185547
+188,4jM0v4ReOQh5RntXfiG3NN,Cumbiones,Moliendo café,Vieja Trova Santiaguera,0.447,0.623,6,-6.136,0,0.0485,0.716,0.0,0.19,0.703,91.914,295400
+189,7EgF5XXa4TZQT1HTpMRHNj,Cumbiones,Julito Maraña,Voltio,0.714,0.834,7,-6.857,1,0.219,0.13,1.06e-05,0.382,0.833,89.883,204333
+190,3SK45LddxlEkzI8OWO9Eyo,Cumbiones,Ingobernable,C. Tangana,0.705,0.757,6,-5.608,0,0.0656,0.195,0.000228,0.0524,0.737,104.973,187053
+191,4adPgo19PueMLIF65DLgVE,Cumbiones,Pa La Pared,Darell,0.798,0.805,5,-6.787,0,0.139,0.384,0.0,0.559,0.87,94.946,257684
+192,7bkjK7dGUaRtJEsBiSUQOO,Cumbiones,Bámbula,La Tribu de Abrante,0.727,0.515,10,-11.812,0,0.204,0.284,0.0,0.0557,0.888,91.919,296629
+193,4U9EIwcQFvQittYAsZq1HQ,Cumbiones,Bobo,C. Tangana,0.826,0.735,11,-4.33,0,0.0383,0.511,2.23e-05,0.258,0.828,124.056,160893
+194,561EGTfkvD1yr5L8Aicpcq,Cumbiones,Agüela,La Muchacha,0.516,0.236,9,-8.822,1,0.121,0.887,0.0,0.12,0.468,193.738,108440
+195,4LuPdTen7rjDe7MghbLBZU,Cumbiones,La sitiera,Omara Portuondo,0.618,0.286,6,-10.162,1,0.0366,0.873,0.00129,0.102,0.708,97.346,235467
+196,1lTXpbq6RFcTvkNVTh8oPh,Cumbiones,No Vale La Pena,Issac Delgado,0.588,0.908,10,-4.051,0,0.0426,0.225,2.92e-05,0.134,0.96,174.266,283160
+197,7gvrsINoNbkAeI7u7KV1QB,Cumbiones,Papote's Guajira,Los Hacheros,0.477,0.702,9,-5.46,0,0.0288,0.542,0.000193,0.39,0.738,99.362,416027
+198,2GXCmc3A6ahTNnBsrkrRuh,Cumbiones,SI ELLA SUPIERA,India Martinez,0.728,0.608,7,-6.384,1,0.0713,0.326,0.0,0.139,0.658,138.923,233633
+199,2pGrvFiWSrqw2POyEEeFui,Cumbiones,Como Mi Salsa Ninguna,Pirulo y la Tribu,0.739,0.816,7,-4.885,1,0.0575,0.326,0.000922,0.0965,0.925,161.887,381160
+200,17LtI912llWpVFvDaDCcW7,Cumbiones,Bugalú Pa' Mi Abuela,Spanglish Fly,0.671,0.866,2,-3.684,1,0.0549,0.656,0.000245,0.0701,0.981,87.028,179861
+201,3HABXJxDp5x4jIWaQruTj5,Cumbiones,Así Es el Amor,Doctor Krápula,0.639,0.89,7,-6.398,1,0.0556,0.013,5.06e-06,0.684,0.767,147.964,259840
+202,4QQjH8oWd3P1aEDXcEbk2A,Cumbiones,Mi Pueblo,La Pacifican Power,0.705,0.797,7,-6.359,1,0.0376,0.686,0.00363,0.0826,0.89,149.988,294312
+203,4y7MogcFeMrp4QXPVHloyB,Cumbiones,Temes,iLe,0.677,0.221,6,-13.398,0,0.0461,0.754,0.000192,0.115,0.518,96.038,196985
+204,1UwP0GRuC1LEH7DpR3c0tY,Cumbiones,Bonita,Los Choclok,0.611,0.493,7,-7.93,0,0.0527,0.497,1.2e-05,0.0588,0.544,107.142,304917
+205,6PJ11hU6MSUwm8aB0SYXO0,Cumbiones,Playa Azul,Los Amigos Invisibles,0.629,0.745,1,-8.188,1,0.04,0.229,0.266,0.0624,0.704,175.979,279800
+206,08xgGsYAdYs3Jcdt234xSC,Cumbiones,Chocolate Con Churro,Habana Abierta,0.74,0.771,2,-7.25,1,0.0365,0.418,0.0,0.0746,0.942,146.053,214253
+207,69gBnFLDtc2lub6xL0sfi9,Cumbiones,Por Tu Olor,El Kanka,0.789,0.499,7,-10.111,1,0.0772,0.68,0.00403,0.156,0.786,161.171,221893
+208,2rzmjshYYjApHT7W9zRep7,Cumbiones,Siempre Juntos (feat. Herencia de Timbiquí),Naty Botero,0.692,0.817,4,-4.035,0,0.0517,0.279,0.000369,0.23,0.445,147.959,285547
+209,1bBmF5nqaoyKKFXPT60pUg,Cumbiones,Café,Sonex,0.518,0.668,11,-9.255,0,0.195,0.308,1.58e-05,0.0337,0.813,171.0,226427
+210,5HPG44CDiAAEMX8e3TS7Tx,Cumbiones,Mi Maria Luisa,La Tribu de Abrante,0.577,0.757,10,-8.446,0,0.164,0.391,7.5e-05,0.272,0.913,160.716,288720
+211,5xhdx3wVzVGi1ch20eWhJt,Cumbiones,Llorarás,Salsangroove,0.733,0.805,1,-7.239,0,0.0787,0.309,0.00382,0.124,0.494,93.02,381360
+212,1W5notTNkApwcnfgN5YnRG,Cumbiones,Chango Blanco,Tego Calderón,0.768,0.813,7,-6.056,1,0.0507,0.397,2.74e-05,0.0897,0.966,99.408,311013
+213,3P1I7yZQKx90T3PpMsKdeO,Cumbiones,Cuando Te Veo - Salsa Version,ChocQuibTown,0.663,0.744,11,-5.671,1,0.069,0.426,1.86e-06,0.139,0.808,184.828,224347
+214,6aO3n7OS7mwG16POvsWsGw,Cumbiones,Ya no sé,Toño Barrio,0.754,0.88,10,-6.502,0,0.0489,0.361,0.000638,0.0725,0.918,99.874,224707
+215,2eEicg2SIEUBetcsoSg1Mf,Cumbiones,Para Mi,Boogaloo Assassins,0.861,0.764,10,-5.051,1,0.0377,0.646,0.0,0.0803,0.925,125.045,298493
+216,1euRYSBwftamqajk6Qh0CE,Cumbiones,Hoy para Siempre,Los Rolling Ruanas,0.471,0.538,7,-6.211,0,0.0305,0.765,0.0,0.149,0.799,124.943,273000
+217,3exaU0zwq9PgWsMITKfSRI,Cumbiones,La Mojarra,Mojarra Electrica,0.732,0.875,10,-6.538,0,0.0738,0.202,3.47e-06,0.226,0.931,111.086,245347
+218,7fsj6h62aREMAE3tlZK5Uc,Cumbiones,Mi Caribe,Systema Solar,0.738,0.852,7,-9.816,1,0.0565,0.00665,3.91e-05,0.098,0.631,116.069,206734
+219,2qbOCEFhUQrun7JHlGZNC1,Cumbiones,Conga Pasajera,Yusa,0.792,0.607,1,-7.374,1,0.0955,0.533,0.0,0.0996,0.921,94.993,186907
+220,59LZV0gyCWITCP5QKLH7ac,Cumbiones,1143 Tomates Contigo,Doctor Krápula,0.614,0.816,0,-4.878,1,0.209,0.269,0.0,0.226,0.903,73.237,231667
+221,5SV2Eqg43uPMX9x9g1XoAL,Iluminación,Divina Ciencia,Morodo,0.854,0.497,5,-10.352,0,0.162,0.25,0.0,0.0763,0.808,80.003,213627
+222,4OFpQOhQgHVzHbl69EabdZ,Iluminación,Lejos de Casa,Antidoping,0.898,0.591,2,-8.536,1,0.0384,0.0327,0.0,0.0466,0.968,128.05,234773
+223,4lvnCzIL9RTUOkgriZ0qBN,Iluminación,Ilegal,Cultura Profética,0.684,0.782,10,-3.239,0,0.0485,0.44,3.68e-05,0.972,0.669,120.294,316440
+224,00rBZrXRiVFTq21bksu4Xd,Iluminación,Momento - Versión 25 Años [Live],Los Cafres,0.45,0.684,2,-6.714,1,0.0443,0.227,0.0,0.649,0.302,88.182,285187
+225,5r1m7xqUFnlShwbSwzEiv7,Iluminación,No estes triste,Zona Ganjah,0.784,0.796,4,-4.596,0,0.0513,0.664,0.0,0.84,0.737,123.044,270947
+226,1SssFw74DdHVjRa6ADggdD,Iluminación,Sweat (A La La La La Long),Inner Circle,0.787,0.728,0,-7.705,1,0.218,0.0124,0.0,0.157,0.94,173.026,227067
+227,4htoV9pXQmKENfn3LIKvVW,Iluminación,Viernes de Webeo - En Vivo,Panteon Rococo,0.338,0.945,7,-8.664,1,0.212,0.0197,0.786,0.496,0.378,199.618,240187
+228,1eQU5ex4RcVjz55hWPeJzc,Iluminación,Momento,Los Cafres,0.72,0.693,2,-6.226,1,0.088,0.18,9.19e-06,0.0626,0.713,86.983,349520
+229,3H0PlcSmQ6z4DDCBFkD7Wx,Iluminación,Te Mentiría,La K'onga,0.651,0.731,7,-6.889,1,0.0549,0.116,0.0,0.0708,0.653,153.104,218431
+230,1lq2OOQB6ayaHvsbWZhtqQ,Iluminación,Ciclo,Simon Grossmann,0.881,0.641,7,-6.11,1,0.0418,0.198,9.55e-05,0.274,0.92,130.055,169141
+231,4YU0xHroexMt4ohhPVbKla,Iluminación,Mamita (feat. Natalia Lafourcade),Rawayana,0.808,0.53,2,-10.358,1,0.0365,0.0547,0.000379,0.107,0.584,118.998,267200
+232,0dsEp1KSdosEyse7xtoZwn,Iluminación,Mexicana,Charles Ans,0.653,0.66,1,-8.775,1,0.0615,0.419,6.73e-05,0.113,0.697,97.015,263001
+233,2JlyQBk8fOVy7HfNCXrQjQ,Iluminación,Sin Prisa,El Caribefunk,0.729,0.684,11,-6.711,1,0.0491,0.482,7.65e-06,0.14,0.807,96.885,191472
+234,1YnVYHXoak0syv4xBRHQRb,Iluminación,Kingston Town,UB40,0.957,0.226,8,-14.606,1,0.0594,0.119,0.0358,0.0796,0.768,102.072,231733
+235,35lAjvsvS9k9HHuP1fjDT8,Iluminación,Human Nature,Michael Jackson,0.638,0.511,2,-10.041,1,0.0289,0.541,0.00478,0.26,0.68,93.108,245560
+236,3MbWaYdtpVVtpGQqWBmeMq,Iluminación,Circunvalación,El Kuelgue,0.604,0.637,9,-5.725,1,0.0332,0.237,0.0,0.113,0.616,154.889,234307
+237,3xOZWx6fJc65Z4R2Hrq06N,Iluminación,Eso Que Me Das,Juan Pablo Vega,0.733,0.688,9,-7.464,1,0.0681,0.0606,0.000144,0.289,0.828,110.01,227658
+238,1oyneUr4WC3tgVrvA6lhMa,Iluminación,Vocabulario Básico,Rawayana,0.774,0.503,6,-11.304,1,0.122,0.155,2.75e-05,0.108,0.565,87.01,249987
+239,3MhdH8PxqH1FuQp3HBptUI,Iluminación,I'm Still in Love with You (feat. Sasha),Sean Paul,0.765,0.666,7,-5.384,1,0.172,0.102,0.0,0.116,0.756,87.002,273360
+240,6Yxwkhk5LW0uiurTMT7jLL,Iluminación,Repent,Shaggy,0.909,0.73,8,-7.731,1,0.284,0.0213,9.87e-06,0.0364,0.929,95.963,221960
+241,4bndkI1TTh7itdsyixtDoD,Iluminación,Baianá,Barbatuques,0.777,0.573,10,-12.078,0,0.335,0.47,0.0138,0.177,0.622,95.087,279680
+242,4U0gBPfjAzs7V0IR6UhOM6,Iluminación,Travelling Without Moving - Remastered,Jamiroquai,0.67,0.96,1,-9.371,0,0.0596,0.0179,0.64,0.122,0.605,126.312,220080
+243,0udUVjtkBzlCvZcfcYQzS4,Iluminación,Close To You,Dancing Mood,0.592,0.418,5,-11.409,1,0.0401,0.21,0.000877,0.0977,0.738,122.151,329027
+244,6pbCkvCENw0suVGr4Ckkae,Iluminación,Like Glue,Sean Paul,0.757,0.78,1,-5.038,1,0.319,0.0811,0.0,0.113,0.59,97.917,232507
+245,6iqWLU8bqAuviRRol0hD2g,Iluminación,Fuego,Jacobo Velez,0.735,0.701,7,-8.064,0,0.16,0.612,1.12e-06,0.577,0.899,168.02,225233
+246,0HD5gvrDsRp4tAsMFxTzJ3,Iluminación,Así Se Siente,Temple Sour,0.516,0.571,3,-8.117,0,0.0411,0.285,0.0,0.113,0.577,151.847,276827
+247,53qU2K55RJgfs9F50irpB3,Iluminación,Just Jammin',Gramatik,0.815,0.681,10,-5.785,0,0.0854,0.0675,0.012,0.117,0.803,90.008,389500
+248,2zSaRaop42B6bInzcBcyaD,Iluminación,#Sádico,Rawayana,0.81,0.622,1,-10.985,1,0.15,0.272,0.000688,0.0963,0.688,122.026,344863
+249,35uxk7hvSZBfEgScbcagZI,Iluminación,Cometas,Bacalao Men,0.606,0.802,2,-4.985,1,0.0363,0.662,3e-05,0.369,0.95,179.06,256880
+250,0TZEk8nm7e3sttwSBe3V91,Iluminación,It’s Time,Bobby Alu,0.92,0.371,7,-10.731,1,0.0623,0.129,0.000317,0.0841,0.401,95.933,226947
+251,6PJ11hU6MSUwm8aB0SYXO0,Iluminación,Playa Azul,Los Amigos Invisibles,0.629,0.745,1,-8.188,1,0.04,0.229,0.266,0.0624,0.704,175.979,279800
+252,59LZV0gyCWITCP5QKLH7ac,Iluminación,1143 Tomates Contigo,Doctor Krápula,0.614,0.816,0,-4.878,1,0.209,0.269,0.0,0.226,0.903,73.237,231667
+253,2ntUj3hnSU7GQTKA9oZWW1,Iluminación,"Los Que Se Quedan, los Que Se Van",Desorden Público,0.624,0.806,10,-4.891,1,0.0343,0.103,2.13e-06,0.0572,0.97,156.006,208067
+254,2E0lLCaIMCAcUBW6P58QaG,Iluminación,Bisou,Profetas,0.749,0.807,1,-5.603,1,0.046,0.0185,1.95e-06,0.146,0.827,105.042,229830
+255,5koBWoS2PnjWSOsiHVlXQv,Iluminación,Vas a encontrarte,Muerdo,0.903,0.324,0,-11.296,1,0.0445,0.574,0.00075,0.098,0.647,135.047,247014
+256,2Oo76xvoCSe70i0hRwaFK6,Iluminación,Máquina de Enojos,Habana Abierta,0.77,0.647,2,-8.38,0,0.108,0.294,0.0,0.0994,0.624,91.066,218133
+257,0ktdDicr9gROMSWrVga8Qz,Iluminación,Bohío,Vicente Garcia,0.741,0.652,0,-8.876,1,0.0845,0.705,0.0177,0.0905,0.557,179.914,195947
+258,3zmkTFvCLTIa6JfPr8F8QX,Iluminación,La Vida la Vida,Jósean Log,0.704,0.846,0,-7.748,1,0.0439,0.00608,3.66e-05,0.288,0.834,100.014,188320
+259,0TCgYIbphnGDyOrdTHRvtJ,Iluminación,Robarle tiempo al tiempo,Café Quijano,0.795,0.697,10,-6.362,1,0.0347,0.834,0.00111,0.217,0.851,93.987,252656
+260,59NAAlMPDeeYzKvDgCvuq4,Iluminación,De La Mano,Lucas Arnau,0.783,0.472,2,-12.562,0,0.0417,0.62,0.0,0.0963,0.784,95.026,227093
+261,6lMmEPTbkiVeWixfw34yIF,Iluminación,Desde Que Te Perdí,Kevin Johansen,0.403,0.607,11,-12.348,0,0.0832,0.737,0.0234,0.71,0.389,88.166,282493
+262,5tpAcJ47UgF4udM5YXcDd2,Iluminación,Dharma,Sebastian Yatra,0.484,0.962,10,-3.25,1,0.256,0.137,0.0,0.174,0.766,154.666,195760
+263,5XR1WyZ0uOSHRNhP85QxT4,Iluminación,La Mujer Perfecta,KURT,0.824,0.496,9,-9.126,1,0.0704,0.223,1.31e-05,0.115,0.894,155.072,217467
+264,2ohQN4UOfgXGwtF2ISUkFb,Iluminación,Mi Mayor Fortuna (with ChocQuibTown),Melendi,0.644,0.776,0,-4.631,1,0.077,0.0476,0.0,0.138,0.419,171.881,260560
+265,02QLmfHOTdKBha0QzK6Axv,Iluminación,Volero,Rawayana,0.839,0.815,4,-5.948,1,0.027,0.512,0.00152,0.167,0.715,107.032,191916
+266,6XKvP9q9B4RGIVmvZ22MwT,Iluminación,Calle la Pantomima,Melendi,0.465,0.869,11,-5.9,0,0.0746,0.678,9.03e-06,0.136,0.544,158.217,188293
+267,155XcCEwMrHE3YcJciCnvi,Iluminación,Juanita la Chismosa,El Caribefunk,0.761,0.606,9,-4.686,1,0.0376,0.652,0.0,0.281,0.956,90.028,298451
+268,4zI20oWjDbnkpaXny0J3b5,Iluminación,Espuma y Arrecife (feat. Los Gaiteros de San Jacinto),Vicente Garcia,0.776,0.555,0,-6.634,0,0.115,0.321,1.97e-05,0.0569,0.92,97.928,244067
+269,1kOzw10XqOtFA7Qar4Bjpu,Iluminación,Véngase I,Rawayana,0.769,0.592,7,-7.259,1,0.0437,0.0499,3.67e-05,0.108,0.808,129.899,262772
+270,5KQVSvivJ89ZFAPdsLLtyq,Iluminación,High (feat. Apache),Rawayana,0.798,0.791,10,-7.05,0,0.0601,0.134,0.0,0.109,0.82,104.044,288388
+271,1QgfZsvA8tpsMVs1EylzYU,Iluminación,La chica de Ipanema,Jarabe De Palo,0.779,0.613,9,-7.24,1,0.0673,0.533,8.94e-05,0.118,0.812,152.066,251480
+272,05SZ279Bnz9Zst21BMoZWg,Iluminación,Mi Balcon,Vicente Garcia,0.835,0.559,0,-8.09,1,0.0438,0.202,2.16e-06,0.0881,0.751,126.046,259063
+273,3fk5fBFB27GbWGATdBpOgr,Iluminación,Carmesí,Vicente Garcia,0.809,0.508,1,-9.182,1,0.0328,0.654,0.000224,0.105,0.732,121.968,181467
+274,2Ae1gF5FPNlCZ4zATObW1e,Iluminación,Cuando Te Tengo Cerca,Juan Pablo Vega,0.407,0.53,9,-6.947,1,0.0709,0.543,7.05e-06,0.0987,0.664,76.457,281160
+275,0qsErYozeong3G91FmOg4I,Iluminación,Silvestre,Maréh,0.817,0.623,9,-6.996,1,0.0389,0.257,1.13e-06,0.108,0.616,119.937,259823
+276,6iXFvUoKFKguj2xKoG1C9I,Iluminación,Encantador de Serpientes,El Caribefunk,0.447,0.585,6,-5.497,0,0.0399,0.662,4.3e-05,0.157,0.699,92.035,242602
+277,1W5pqaFCBbtw2eu8gQ17bk,Iluminación,Antonima,El Caribefunk,0.735,0.614,9,-4.536,1,0.0376,0.468,0.0,0.104,0.926,95.022,245876
+278,7Li9u5C7CNLvqOqhrhZEML,Iluminación,Dulcito e Coco,Vicente Garcia,0.788,0.434,5,-7.815,0,0.0302,0.83,3.62e-06,0.0999,0.585,93.003,189067
+279,0jr2ZsIcB1GePjA8JsfJeT,Iluminación,Love,La Garfield,0.779,0.682,6,-4.593,0,0.0471,0.264,0.000422,0.0565,0.51,120.058,294019
+280,4na0S4dyXadwQ1pIseS42Q,Iluminación,La Chamuyera,El Caribefunk,0.725,0.795,1,-6.795,1,0.0452,0.22,0.0,0.0348,0.962,126.03,203295
+281,004q4eDxR33ci4f8m4flwl,Iluminación,El Yeyo,Vicente Garcia,0.838,0.703,1,-6.195,0,0.05,0.768,1.56e-06,0.0861,0.658,104.982,171627
+282,4lfwM9i07jPYy2iHyBmHTP,Iluminación,Te Soñé - Bonus Track,Vicente Garcia,0.91,0.656,2,-6.456,1,0.0376,0.0399,2.38e-05,0.293,0.906,122.954,205973
+283,1Z0zOAIq0DXxSH9vHSU4IY,Iluminación,Agüitaecoco,Simon Grossmann,0.64,0.258,6,-8.189,1,0.152,0.843,0.0,0.146,0.641,124.083,199061
+284,4MyRn8BZCIZucQ3uYUmida,Iluminación,Paraíso,La Garfield,0.66,0.611,1,-7.311,0,0.0724,0.337,1.24e-06,0.0725,0.397,80.596,212000
+285,7jcXQXxo0lvpwg2twqJpqc,Iluminación,Quiero Que Me Llames,Conociendo Rusia,0.665,0.839,1,-4.383,1,0.0375,0.254,2.75e-06,0.249,0.636,123.982,258107
+286,4yFh5okeS2u5iO5vAsBsHc,Iluminación,Bossa & People,El Kuelgue,0.56,0.683,9,-7.917,0,0.0514,0.599,0.000114,0.0851,0.643,127.438,302613
+287,7lFcRLIrpzjPd2Ytp13Ml3,Iluminación,Chachachá - acústico,Jósean Log,0.766,0.33,5,-10.066,1,0.0473,0.904,2.52e-05,0.103,0.508,109.788,208272
+288,0MArhYeFvgi8V2Pj3ecwBs,Iluminación,La Declaración,El Zar,0.823,0.486,0,-9.111,0,0.0421,0.197,0.0021,0.0696,0.588,113.006,277573
+289,3ZbbcpcCcgsWjTNVRzVZ5c,Iluminación,La Luna,Jósean Log,0.815,0.309,7,-9.952,1,0.0435,0.327,0.000117,0.17,0.706,174.064,243420
+290,4HtaHPURmO7mjq0yvg7cr1,Iluminación,Llegué hasta ti,Muerdo,0.685,0.87,2,-7.992,1,0.0479,0.328,9.85e-05,0.119,0.513,98.006,194102
+291,2qXwXciJwW4Qdg7KDesOCQ,Iluminación,Alguien Como Tú,Jósean Log,0.717,0.685,4,-10.224,0,0.105,0.427,0.000101,0.204,0.479,120.086,225747
+292,4PpuZIMmeng6qPicveSI22,Iluminación,Beso,Jósean Log,0.793,0.56,7,-8.922,0,0.0324,0.599,0.0,0.0952,0.862,123.011,211022
+293,3vML1841z2xsqywhqRl0Op,Iluminación,Mala,La Garfield,0.621,0.616,3,-5.989,0,0.0429,0.342,0.0,0.0935,0.268,85.99,211155
+294,1uIZHPH2uYBCdvRen1c6rb,Iluminación,Love,La Garfield,0.779,0.682,6,-4.593,0,0.0471,0.264,0.000422,0.0565,0.51,120.058,294019
+295,23fwr7i5nwkYEo5E8ivZ4e,Iluminación,Óyeme Bien,La Garfield,0.774,0.677,0,-7.966,0,0.0671,0.0255,1.42e-05,0.117,0.909,108.028,229998
+296,23jyoURJjYoTEl3qlJrw1V,Iluminación,Luna de Plata - Single Version,La Garfield,0.833,0.889,0,-6.172,0,0.081,0.171,1.32e-05,0.0776,0.819,117.978,208594
+297,49HB6swcoMMkNYmsa3wltv,Iluminación,Entre Palmeras,La Garfield,0.853,0.556,7,-5.717,1,0.0632,0.124,0.00131,0.0896,0.878,132.014,258229
+298,3Je4PARC2eGUMrcnTH4NQp,Iluminación,Un Poquito Más,La Garfield,0.832,0.701,7,-7.134,0,0.0386,0.0973,8.83e-06,0.0939,0.788,105.019,247275
+299,7mPgkn14P7Ts2hB62XmgtT,Iluminación,Viviré para Ti (feat. Natalia Lafourcade) - Versión Acústica,Los Amigos Invisibles,0.451,0.881,6,-7.737,0,0.103,0.635,1.73e-05,0.955,0.605,105.937,236480
+300,3v1DiW08A2A8SVX3XzSUME,Iluminación,Me Gusta,El Kanka,0.769,0.511,2,-9.44,1,0.0908,0.611,5.85e-05,0.179,0.837,102.064,219147
+301,69gBnFLDtc2lub6xL0sfi9,Iluminación,Por Tu Olor,El Kanka,0.789,0.499,7,-10.111,1,0.0772,0.68,0.00403,0.156,0.786,161.171,221893
+302,4hi9OTFKomNUlAIhp1fmap,Iluminación,Bailar Contigo,Monsieur Periné,0.795,0.623,1,-7.592,0,0.0479,0.738,0.000856,0.141,0.681,101.011,218773
+303,6fMvEUSO3yUAw4fLe5VUP0,Iluminación,Mi Destino,Maréh,0.842,0.425,0,-9.804,1,0.0385,0.766,0.0,0.138,0.764,115.957,221897
+304,4QPjGYaXenaoyE6cfHyWLh,Iluminación,Sabor a Mi,Monsieur Periné,0.693,0.588,4,-12.945,0,0.0606,0.355,0.0704,0.24,0.52,105.971,195749
+305,6ZVmxaRs1pGFjDApQO2jEZ,Iluminación,Caramelo,Vicente Garcia,0.666,0.499,0,-7.811,1,0.0487,0.183,5.09e-06,0.334,0.699,120.06,308653
+306,6eEnycLcdQWSkgg12wjN4o,Iluminación,Me Vas a Hacer Falta,Monsieur Periné,0.71,0.393,5,-9.495,0,0.0447,0.685,0.000271,0.322,0.63,85.033,240973
+307,7zSBOSD4w5LGv1bIblkVFp,Iluminación,Telefonía,Jorge Drexler,0.915,0.592,6,-9.47,0,0.0965,0.829,5.79e-05,0.111,0.841,126.06,184964
+308,1vV2FBKYvu6sJDqzSCNgbI,Iluminación,Hablar de Ti,Gepe,0.592,0.487,9,-9.052,1,0.251,0.485,0.0,0.0768,0.638,170.285,205569
+309,563EHELbGcAwXlAHbWmK3f,Iluminación,La trama y el desenlace,Jorge Drexler,0.579,0.491,11,-7.965,0,0.0342,0.0936,5.7e-05,0.119,0.721,150.005,246013
+310,25wkmsggPrmVeDHv0QBMgW,Iluminación,Universos paralelos (feat. Ana Tijoux),Jorge Drexler,0.738,0.831,7,-5.987,1,0.0381,0.554,0.000696,0.0771,0.613,107.977,222170
+311,4AvEpgFqPMZxGvB5PAMwSm,Iluminación,Déjame Vivir,Monsieur Periné,0.896,0.441,11,-13.543,0,0.0599,0.618,0.128,0.185,0.936,129.03,214440
+312,4mXfHJAMHBFwq4MdQxne2L,Iluminación,Canela en Rama,El Kanka,0.585,0.483,0,-7.205,1,0.0761,0.734,0.0,0.104,0.621,103.023,201507
+313,3BCayFOh2xF0AuYjcWgSVd,Iluminación,Nada Personal,Juan Pablo Vega,0.695,0.729,4,-5.648,1,0.0348,0.732,0.000336,0.226,0.561,114.929,281960
+314,65CAR4xohs4mvni3rjbAUY,Iluminación,Ay Vida Mía,El Kanka,0.89,0.605,4,-6.99,1,0.0397,0.393,1.9e-06,0.134,0.926,134.957,223773
+315,236RkCUAucOj7QXfeVWOfA,Iluminación,La Mujer Que Bota Fuego,Manuel Medrano,0.695,0.377,2,-9.65,1,0.121,0.798,6.45e-06,0.123,0.465,169.884,248688
+316,1gJVkWwEft2vwJTWhzgagx,Iluminación,Vida de Mis Vidas,Santiago Cruz,0.758,0.618,2,-7.736,1,0.0345,0.737,3.25e-06,0.179,0.826,124.984,210545
+317,4yFh5okeS2u5iO5vAsBsHc,Iluminación,Bossa & People,El Kuelgue,0.56,0.683,9,-7.917,0,0.0514,0.599,0.000114,0.0851,0.643,127.438,302613
+318,0g5zRl16ebc0Fz5Ypiu8V5,Iluminación,Never Gonna Give You Up,Barry White,0.614,0.857,2,-8.85,0,0.0859,0.0913,0.0,0.069,0.945,85.125,286315
+319,21rpBPAlXAvBavvu5kCQzs,"Canciones en ingles que me depriman o me duerman, lo que pase primero",After Midnight,Phoenix,0.618,0.811,11,-6.654,1,0.0322,0.00245,0.199,0.0779,0.779,100.01,191733
+320,6cdslY3YKjh7pImxFhSBVG,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Settle Down,Kimbra,0.763,0.666,0,-6.34,1,0.0537,0.0791,2.98e-06,0.0733,0.449,93.994,241507
+321,2vAts2sr7wl8NJwd8qmUEo,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Myth,Beach House,0.445,0.705,3,-6.257,1,0.0292,0.0325,0.0917,0.0828,0.409,141.953,258653
+322,1aOxOpH4AkGAd8OMrKjyNY,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Why Are Sundays So Depressing,The Strokes,0.579,0.714,0,-4.455,1,0.0347,0.00258,0.0269,0.111,0.299,109.971,275667
+323,5OHbgQbHzTjolHzWffSrvn,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Glass in the park,Alex Turner,0.553,0.19,2,-14.961,1,0.0298,0.903,0.000227,0.0993,0.299,100.002,239653
+324,2t0wwvR15fc3K1ey8OiOaN,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Selfless,The Strokes,0.538,0.679,4,-4.297,1,0.0333,0.191,0.00175,0.0889,0.0888,121.99,222093
+325,0tNuJpBgtE65diL6Q8Q7fI,"Canciones en ingles que me depriman o me duerman, lo que pase primero",On & On,Erykah Badu,0.762,0.403,11,-10.423,0,0.158,0.0396,0.0113,0.256,0.346,80.476,226133
+326,3Ty7OTBNSigGEpeW2PqcsC,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Glory Box,Portishead,0.51,0.434,1,-10.004,1,0.0361,0.177,0.516,0.0603,0.207,119.695,308627
+327,5hReWjUHqPqkHi31G7izL4,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Inner City Blues (Make Me Wanna Holler),Marvin Gaye,0.63,0.455,1,-13.667,1,0.0322,0.792,0.132,0.133,0.645,94.08,327707
+328,3vKynMGZSCaBPKjqXudzk9,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Old Friends,Circa Waves,0.677,0.413,9,-11.139,1,0.0301,0.084,0.0404,0.309,0.313,146.102,202800
+329,5ygEUpyZy5qtZ1423zymBW,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Hello You,Arctic Monkeys,0.394,0.452,4,-9.923,0,0.0321,0.276,0.00998,0.193,0.653,169.298,244932
+330,1zx6GSqLYI2ynzAHnPRKBR,"Canciones en ingles que me depriman o me duerman, lo que pase primero",There’d Better Be A Mirrorball,Arctic Monkeys,0.521,0.365,3,-10.914,1,0.0317,0.626,0.012,0.185,0.324,143.789,265798
+331,42GuKw49pPxNAkIhWGwgFs,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Body Paint,Arctic Monkeys,0.556,0.315,7,-11.651,0,0.0625,0.568,0.0,0.0774,0.256,143.327,290584
+332,4KPi4VNvPOfKqIp1sx19Xf,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Big Ideas,Arctic Monkeys,0.548,0.328,9,-9.973,0,0.0296,0.663,0.00365,0.0972,0.343,67.023,237984
+333,7DPhusadsTZ2VrXOGcuX2y,"Canciones en ingles que me depriman o me duerman, lo que pase primero",I Ain’t Quite Where I Think I Am,Arctic Monkeys,0.544,0.337,10,-9.846,1,0.0653,0.357,6.34e-05,0.085,0.667,192.685,191174
+334,2yJ5SBKkxC7MLHbrEPFQjK,"Canciones en ingles que me depriman o me duerman, lo que pase primero",I Do Really Love You,Chuck Berry,0.639,0.24,7,-15.078,1,0.0356,0.755,0.000907,0.0303,0.856,83.407,150333
+335,1zNXF2svmdlNxfS5XeNUgr,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Don't Know Why,Norah Jones,0.745,0.219,5,-11.216,1,0.0276,0.851,1.8e-05,0.0678,0.635,88.609,186251
+336,0KUSMBpldIsIXAIDC3TkwJ,"Canciones en ingles que me depriman o me duerman, lo que pase primero",It's A Hard Life - Remastered 2011,Queen,0.42,0.599,3,-6.188,1,0.0291,0.422,0.0,0.159,0.299,82.336,246973
+337,55Jh2TYm1m102RgdAMZ4Hs,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Clap Your Hands - Addal Remix,Whilk & Misky,0.755,0.662,4,-6.814,0,0.0426,0.0612,0.00199,0.182,0.268,118.996,266500
+338,44ZKnfWEkp7wPs035j4Tua,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Casio,Jungle,0.816,0.492,10,-7.464,0,0.0752,0.431,0.0896,0.0995,0.765,115.989,234370
+339,0udUVjtkBzlCvZcfcYQzS4,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Close To You,Dancing Mood,0.592,0.418,5,-11.409,1,0.0401,0.21,0.000877,0.0977,0.738,122.151,329027
+340,7F6pMP39RL3eLP4SDTDHbm,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Awkward,San Cisco,0.589,0.867,6,-5.791,0,0.106,0.0765,8.19e-05,0.108,0.903,161.899,153960
+341,1qEmFfgcLObUfQm0j1W2CK,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Late Night Talking,Harry Styles,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,177955
+342,7nzsY8vlnKdvGOEE0rjAXZ,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Arabella,Arctic Monkeys,0.579,0.558,2,-6.986,1,0.0895,0.0202,1.26e-06,0.212,0.506,179.949,207357
+343,3THFKx88trZuOFlssVLJ5G,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Broken,Gorillaz,0.493,0.918,0,-4.618,1,0.034,0.00452,0.0858,0.427,0.703,158.897,197053
+344,4JvFNFTjEtZyEzh8w0YzHF,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Tonight (feat. Ezra Koenig),Phoenix,0.671,0.736,8,-6.705,1,0.0344,0.0547,0.00381,0.111,0.89,141.967,246707
+345,64dLd6rVqDLtkXFYrEUHIU,"Canciones en ingles que me depriman o me duerman, lo que pase primero",New Gold (feat. Tame Impala and Bootie Brown),Gorillaz,0.695,0.923,1,-3.93,0,0.0522,0.0425,0.0469,0.116,0.551,108.014,215150
+346,73bDvrmSBh2fr53tLDH9oA,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Nightcall,Kavinsky,0.509,0.856,9,-5.091,0,0.0553,0.00895,0.0108,0.424,0.427,91.02,257320
+347,7klPHv3HnXdUY3dSfTccNc,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Time,Free Nationals,0.469,0.771,5,-7.071,1,0.338,0.518,0.000197,0.0789,0.298,88.968,210385
+348,0LtOwyZoSNZKJWHqjzADpW,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Feels Like We Only Go Backwards,Tame Impala,0.303,0.9,2,-2.352,0,0.0574,0.0277,0.635,0.11,0.491,149.508,192960
+349,1lRyZDsGGOm8fFRhaz0un4,"Canciones en ingles que me depriman o me duerman, lo que pase primero",When I Am With You,Warhaus,0.682,0.534,1,-7.704,0,0.0452,0.253,0.657,0.0565,0.603,159.876,337700
+350,3zzZVLdBKRW8JH7GhFPyvu,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Hold On,Alabama Shakes,0.575,0.666,5,-5.425,1,0.0301,0.206,0.341,0.0852,0.546,88.311,226187
+351,2jZgzSxNSg1hTCq0ewWHGJ,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Junk Of The Heart (Happy),The Kooks,0.604,0.894,2,-5.0,1,0.037,0.0212,0.0,0.0299,0.901,145.017,187253
+352,3AA8xNhDC0MpqwkGX3EP5V,"Canciones en ingles que me depriman o me duerman, lo que pase primero",If I Ever Feel Better,Phoenix,0.755,0.553,6,-9.449,0,0.107,0.0492,0.00607,0.0646,0.836,119.7,266600
+353,7zkDEBSxkcBVsStS4qBFpK,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Lisztomania,Phoenix,0.635,0.786,0,-6.46,1,0.0377,0.0349,0.00767,0.497,0.305,97.54,241547
+354,7rL602DQps4QmrrjbinLzP,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Afterlife,Arcade Fire,0.64,0.868,11,-5.527,1,0.0341,0.0986,0.0454,0.242,0.798,115.968,353086
+355,4XTTwW06rMgud7yS1nySZf,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Animal,Miike Snow,0.763,0.721,1,-6.767,0,0.0986,0.0117,7.69e-06,0.0752,0.657,118.049,263880
+356,1mvyqSb1tOvtVP1qfWEyPa,"Canciones en ingles que me depriman o me duerman, lo que pase primero",1901,Phoenix,0.607,0.835,0,-5.427,1,0.0415,0.0588,4.71e-05,0.195,0.719,144.087,193120
+357,3qaSqrrevBrb84xl5JlptU,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Dakota,Stereophonics,0.506,0.93,4,-3.499,1,0.0675,0.129,0.00682,0.0931,0.305,146.994,297427
+358,0ccCwNzXvr1Yoz91vKz31Z,"Canciones en ingles que me depriman o me duerman, lo que pase primero","Yoshimi Battles the Pink Robots, Pt. 1",The Flaming Lips,0.555,0.902,0,-7.918,1,0.0958,0.337,0.0,0.152,0.62,156.108,287507
+359,5bsnLiT00hG37qd8p2jdVl,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Cornerstone,Arctic Monkeys,0.287,0.721,9,-5.81,1,0.0387,0.00764,0.0,0.328,0.763,169.252,197973
+360,61JDaStnXY3vbaEjliB5WA,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Ghost Ship,Blur,0.804,0.722,2,-6.421,1,0.0377,0.0328,0.00269,0.0763,0.858,140.003,299133
+361,67wcAJeaNwGm0fcB4HzzYm,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Everything Goes My Way,Metronomy,0.864,0.558,2,-8.196,0,0.0399,0.102,0.00105,0.178,0.544,129.969,210080
+362,0eDQj41kzBhMKQIkTt6OJR,"Canciones en ingles que me depriman o me duerman, lo que pase primero",A Certain Romance,Arctic Monkeys,0.455,0.881,11,-5.587,1,0.0401,0.000566,6.06e-05,0.11,0.201,137.949,331200
+363,2FaWQz2vMNS788ZlxyhGpO,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Around Town,The Kooks,0.579,0.934,9,-3.464,0,0.0563,0.0234,1.81e-05,0.374,0.549,106.994,250692
+364,2j9JpBQk7VhzYDOqToxhlA,"Canciones en ingles que me depriman o me duerman, lo que pase primero","She Moves In Her Own Way - Acoustic / Live At Abbey Road, 2005",The Kooks,0.53,0.598,5,-7.178,1,0.0516,0.874,0.0,0.114,0.687,74.652,181693
+365,2akjLHnHjDGsgqxuf48VYs,"Canciones en ingles que me depriman o me duerman, lo que pase primero",The Bay,Metronomy,0.803,0.47,6,-7.232,0,0.0387,0.587,0.091,0.0723,0.887,121.226,290173
+366,6zfczP87XO2SxWlQtnjFNa,"Canciones en ingles que me depriman o me duerman, lo que pase primero",The Look,Metronomy,0.638,0.535,9,-7.792,0,0.0415,0.623,0.0391,0.0837,0.504,84.947,277653
+367,7aiKdAM9WYW3GzWSA9OXIl,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Batphone,Arctic Monkeys,0.675,0.681,5,-5.728,0,0.0356,0.312,0.0,0.304,0.675,106.521,271613
+368,6hkfgHhYXyDVYahUOZhGRd,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Science Fiction,Arctic Monkeys,0.542,0.766,7,-5.411,1,0.0282,0.0295,0.0802,0.396,0.643,88.062,185907
+369,60T4FDF1tTcFlXkI08FFhL,"Canciones en ingles que me depriman o me duerman, lo que pase primero",She Looks Like Fun,Arctic Monkeys,0.514,0.773,0,-3.754,1,0.0388,0.00944,0.00326,0.387,0.445,103.943,182560
+370,5Z5nbOXhsSbySVC7WUc6y9,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Four Out Of Five,Arctic Monkeys,0.601,0.863,0,-4.31,1,0.0685,0.0626,0.0,0.0717,0.676,130.189,312347
+371,0b93tWwuoAC0nXe1CfR30I,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Star Treatment,Arctic Monkeys,0.581,0.767,7,-5.026,0,0.0527,0.243,0.00131,0.141,0.673,120.07,354640
+372,4TC0dnB5DxvoKcsalffFZe,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Bigger Boys and Stolen Sweethearts,Arctic Monkeys,0.494,0.587,9,-7.323,1,0.0324,0.00518,0.0,0.0892,0.605,131.774,180640
+373,6mOiT65GFmXgBAviM3lrsE,"Canciones en ingles que me depriman o me duerman, lo que pase primero",No Buses,Arctic Monkeys,0.481,0.524,4,-9.051,1,0.0369,0.155,0.000147,0.0523,0.425,101.883,197320
+374,5KGbRvZyVyKP2AEJMHErB4,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Old Yellow Bricks,Arctic Monkeys,0.66,0.837,0,-4.315,1,0.0682,0.000147,6.62e-06,0.0788,0.757,135.158,193227
+375,0pKrMTlDlW54abYkdBsgxj,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Knee Socks,Arctic Monkeys,0.669,0.54,11,-8.322,0,0.0339,0.137,0.00374,0.339,0.549,97.993,257573
+376,2x8evxqUlF0eRabbW2JBJd,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Fluorescent Adolescent,Arctic Monkeys,0.654,0.828,1,-5.377,0,0.0281,0.00146,0.000144,0.122,0.79,112.056,183893
+377,4kTd0TND65MUY4BlcmJ2cM,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Why'd You Only Call Me When You're High?,Arctic Monkeys,0.698,0.627,2,-6.481,1,0.036,0.0423,7.16e-06,0.0834,0.796,91.989,161133
+378,2fyIS6GXMgUcSv4oejx63f,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Mardy Bum,Arctic Monkeys,0.634,0.599,2,-5.447,1,0.0365,0.0288,0.0,0.197,0.312,112.215,175440
+379,3cUxncrTWSA9lhlQbuIwUY,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Stuck on the puzzle,Alex Turner,0.58,0.682,4,-8.523,1,0.0332,0.0792,0.0316,0.161,0.774,77.53,211053
+380,3KRJUa3Z1Zfupr7Zs6JByx,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Entertainment,Phoenix,0.392,0.723,8,-3.973,1,0.0475,0.00151,0.0254,0.332,0.498,75.305,220240
+381,5URiEZGRfV2XXfrgRURmiL,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Rome,Phoenix,0.62,0.686,2,-6.88,1,0.0321,0.317,0.0942,0.0982,0.417,126.218,278107
+382,2OxcH2hvo4SrVGO3gd7RJO,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Run Run Run,Phoenix,0.632,0.819,1,-5.912,1,0.156,0.032,0.0094,0.0473,0.454,176.01,230453
+383,2eoZr92GWsqCaYkkCGWuxl,"Canciones en ingles que me depriman o me duerman, lo que pase primero",J-Boy,Phoenix,0.527,0.916,0,-6.693,1,0.0452,0.0313,0.00681,0.164,0.675,98.03,248213
+384,4atMrAadB7dS8xn9vfk9PQ,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Fireside,Arctic Monkeys,0.538,0.953,9,-5.611,0,0.056,0.0234,0.00126,0.113,0.74,100.033,181049
+385,0LxeKwg9t7HOnyfv4bTALT,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Suck It and See,Arctic Monkeys,0.339,0.932,4,-5.017,1,0.057,0.00105,0.114,0.255,0.586,128.291,225987
+386,4YBB0OnRUy5aUYM7zVIqpW,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Out of the Woods,Foals,0.698,0.8,0,-8.099,1,0.0452,0.0722,0.00669,0.243,0.855,131.96,204947
+387,5h27GYpKZWWhFov8fOunF6,"Canciones en ingles que me depriman o me duerman, lo que pase primero",What Went Down,Foals,0.231,0.919,2,-6.182,0,0.0728,0.00314,0.00451,0.0643,0.131,146.944,300720
+388,53L6A3I9vf7rgEZnMzx54E,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Mountain at My Gates,Foals,0.495,0.931,2,-5.336,0,0.0469,0.0025,0.0783,0.246,0.617,104.05,244293
+389,4c9WmjVlQMr0s1IjbYO52Z,"Canciones en ingles que me depriman o me duerman, lo que pase primero",My Number,Foals,0.639,0.744,6,-8.377,0,0.0368,0.0319,0.000458,0.466,0.825,128.047,240533
+390,2n3JZ0r4oIQaDQDW4yjVpq,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Mountain at My Gates,Foals,0.495,0.931,2,-5.336,0,0.0469,0.0025,0.0783,0.246,0.617,104.05,244293
+391,4g3Ax56IslQkI6XVfYKVc5,"Canciones en ingles que me depriman o me duerman, lo que pase primero",The Less I Know The Better,Tame Impala,0.64,0.755,1,-4.077,0,0.0287,0.0138,0.0208,0.12,0.744,116.883,216319
+392,068LmtzI6xJJDPfPnMje0U,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Let It Happen,Tame Impala,0.602,0.874,1,-5.906,0,0.0428,0.00476,0.0192,0.108,0.612,125.017,467585
+393,62tGzw9OJOwDcjPBnMPCuj,"Canciones en ingles que me depriman o me duerman, lo que pase primero",No More Lies,Thundercat,0.602,0.835,10,-4.573,0,0.0413,0.0921,6.43e-05,0.138,0.496,97.992,327218
+394,0nJW01T7XtvILxQgC5J7Wh,"Canciones en ingles que me depriman o me duerman, lo que pase primero",When I Was Your Man,Bruno Mars,0.612,0.28,0,-8.648,1,0.0434,0.932,0.0,0.088,0.387,72.795,213827
+395,6xWHnAyVncKpBQ4EYEhaG6,"Canciones en ingles que me depriman o me duerman, lo que pase primero",Yesterday Once More,Carpenters,0.467,0.366,4,-12.928,1,0.0249,0.366,0.0,0.0547,0.259,83.103,239360
+396,4FZOSDwALdWxcGcRbwXWJ8,Popsito,Tyrant (feat. Jorja Smith),Kali Uchis,0.422,0.471,3,-8.784,0,0.18,0.142,0.0,0.112,0.62,82.433,204290
+397,3X2Aw6bQ7TfMMKsTzjTlDg,Popsito,Waterfall,Disclosure,0.691,0.733,11,-6.887,0,0.0572,0.0212,5.61e-05,0.0894,0.834,128.038,232120
+398,1bgKMxPQU7JIZEhNsM1vFs,Popsito,Words (feat. Zara Larsson),Alesso,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,142677
+399,22sS7JkzeVeq4vOPCB6Fbj,Popsito,Someone New,Hozier,0.593,0.539,7,-5.946,1,0.0349,0.407,2.31e-06,0.286,0.577,91.98,222814
+400,3Ty7OTBNSigGEpeW2PqcsC,Popsito,Glory Box,Portishead,0.51,0.434,1,-10.004,1,0.0361,0.177,0.516,0.0603,0.207,119.695,308627
+401,1trC8L8YpawkU553ymy2zC,Popsito,Calling (Lose My Mind) - Radio Edit,Sebastian Ingrosso,0.416,0.849,1,-4.909,0,0.0455,0.00864,0.000138,0.204,0.147,125.098,205440
+402,5jSz894ljfWE0IcHBSM39i,Popsito,Raspberry Beret,Prince,0.761,0.67,2,-12.759,1,0.0438,0.21,0.000426,0.0685,0.91,120.752,215173
+403,35lAjvsvS9k9HHuP1fjDT8,Popsito,Human Nature,Michael Jackson,0.638,0.511,2,-10.041,1,0.0289,0.541,0.00478,0.26,0.68,93.108,245560
+404,1PckUlxKqWQs3RlWXVBLw3,Popsito,About Damn Time,Lizzo,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,191822
+405,1l4iQsOZ5sOXZPMQLvouaB,Popsito,Coast (feat. Anderson .Paak),Hailee Steinfeld,0.701,0.875,11,-4.1,1,0.0757,0.0262,7.32e-06,0.137,0.84,111.976,166720
+406,6xdLJrVj4vIXwhuG8TMopk,Popsito,Crazy Little Thing Called Love - Remastered 2011,Queen,0.599,0.761,0,-6.887,1,0.0421,0.713,4.74e-06,0.349,0.712,77.015,163373
+407,55Jh2TYm1m102RgdAMZ4Hs,Popsito,Clap Your Hands - Addal Remix,Whilk & Misky,0.755,0.662,4,-6.814,0,0.0426,0.0612,0.00199,0.182,0.268,118.996,266500
+408,2kSc33d2kleICMfJ1IAwnw,Popsito,Waterguns,Caravan Palace,0.722,0.596,4,-6.1,1,0.0458,0.584,0.0,0.188,0.794,97.508,210280
+409,0oayy8OHHzuT1URyldeu9P,Popsito,I Know,Drake Bell,0.54,0.731,7,-5.623,1,0.039,0.00511,0.0,0.103,0.444,77.483,225267
+410,5CuD5wCHs8QfEYn6nUJi4f,Popsito,Free Man,Screaming Headless Torsos,0.675,0.913,8,-5.307,1,0.0527,0.0133,0.00895,0.367,0.697,116.441,267853
+411,4bL5GNTF2zw5WyEle7irMf,Popsito,Shake It On,Jamiroquai,0.767,0.624,1,-7.496,1,0.0543,0.0183,0.171,0.0674,0.218,120.003,314493
+412,0lQaRBNcl3xf0jRdzTdbtQ,Popsito,Funky Train,The Poets Of Rhythm,0.725,0.887,0,-6.084,1,0.143,0.22,0.0243,0.0911,0.795,100.024,286813
+413,44ZKnfWEkp7wPs035j4Tua,Popsito,Casio,Jungle,0.816,0.492,10,-7.464,0,0.0752,0.431,0.0896,0.0995,0.765,115.989,234370
+414,3SnGymj6ijE2iuUfWxLo1q,Popsito,I'm Coming Out,Diana Ross,0.72,0.828,5,-9.211,1,0.0462,0.185,0.429,0.0839,0.768,110.071,323347
+415,7F6pMP39RL3eLP4SDTDHbm,Popsito,Awkward,San Cisco,0.589,0.867,6,-5.791,0,0.106,0.0765,8.19e-05,0.108,0.903,161.899,153960
+416,4pNiE4LCVV74vfIBaUHm1b,Popsito,Sir Duke,Stevie Wonder,0.588,0.568,6,-9.766,1,0.0672,0.16,0.0,0.0792,0.952,106.938,232760
+417,1qEmFfgcLObUfQm0j1W2CK,Popsito,Late Night Talking,Harry Styles,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,177955
+418,29rBJWizgnVht4qXpHyDxh,Popsito,Willing & Able,Disclosure,0.571,0.632,5,-6.884,0,0.752,0.252,0.0,0.104,0.943,199.987,292760
+419,0usm8p309eb1kUDBy26u3t,Popsito,I Want Your Lovin’ - Edit,Whilk & Misky,0.725,0.522,6,-8.108,0,0.0702,0.895,0.0703,0.135,0.878,91.996,200392
+420,1SwdyY367WF7OwvOZl2yml,Popsito,Remedy,Breakbot,0.754,0.597,5,-6.472,1,0.0554,0.61,0.000269,0.172,0.499,107.038,268520
+421,17IrhV0fINXu3GCA3Ssz4Y,Popsito,Tot Està per Fer,Acció,0.786,0.597,4,-6.735,0,0.0341,0.192,2.37e-05,0.152,0.752,124.035,240131
+422,5MjUkhqCpr5uZ39xZmLZxe,Popsito,Me And Those Dreamin' Eyes Of Mine,D'Angelo,0.511,0.402,4,-10.695,0,0.219,0.702,0.00014,0.11,0.503,83.339,286800
+423,7HW5WIw7ZgZORCzUxv5gW5,Popsito,Don't Go Breaking My Heart,Elton John,0.729,0.844,5,-8.824,1,0.0344,0.149,2.87e-06,0.0604,0.777,131.459,275440
+424,51UA67mEMSdjeIvbfBf2Q1,Popsito,Melancolia,Caravan Palace,0.71,0.688,6,-6.622,1,0.0305,0.656,1.62e-06,0.0972,0.768,136.032,243387
+425,5jr6pG3khBcBXZRm8NogSe,Popsito,Baby I'm Yours,Breakbot,0.831,0.794,2,-3.701,0,0.0752,0.705,3.4e-05,0.0978,0.735,118.075,215787
+426,2SDx0PooHZI1SQKR0y44bs,Popsito,Grace Kelly,MIKA,0.675,0.828,0,-5.799,1,0.0454,0.0242,0.0102,0.364,0.669,122.229,187733
+427,0TZEk8nm7e3sttwSBe3V91,Popsito,It’s Time,Bobby Alu,0.92,0.371,7,-10.731,1,0.0623,0.129,0.000317,0.0841,0.401,95.933,226947
+428,3dPtXHP0oXQ4HCWHsOA9js,Popsito,夜に駆ける,YOASOBI,0.67,0.874,8,-5.221,1,0.0305,0.00231,1.72e-05,0.3,0.789,130.041,261013
+429,0wsis8nb0CLqWoRvEPvwiS,Popsito,Two Coins,DISPATCH,0.536,0.305,7,-8.645,1,0.121,0.858,2.9e-06,0.101,0.643,175.184,186520
+430,2BJy5YrRMhVCqaLNY5cbv2,Popsito,Free,Donavon Frankenreiter,0.793,0.464,5,-6.624,1,0.0386,0.112,0.0,0.109,0.851,124.994,148600
+431,6sK644HYqkBsoy8cLpLENA,Popsito,I'Ll Be Fine,fatsO,0.624,0.436,9,-5.975,1,0.0308,0.53,0.000519,0.0905,0.455,109.792,335187
+432,1obcIZHLcmTxNJGTM1FtY6,Popsito,Ruthless,YOUNGTONES,0.791,0.954,2,-3.766,0,0.113,0.235,0.0,0.237,0.871,94.052,217574
+433,7DM5k4ql2H94jNn0kN0SaU,Popsito,Clap Your Hands,Whilk & Misky,0.823,0.638,4,-11.364,0,0.055,0.232,0.211,0.0961,0.382,117.984,305532
+434,09jscLcwa4usINbtfzo5FL,Popsito,When You Gonna Learn?,Jamiroquai,0.651,0.925,5,-3.389,0,0.053,0.12,0.0,0.057,0.658,106.286,230053
+435,78orLDLxWpOZINipGYrV0g,Popsito,Who Are You,C2C,0.681,0.83,7,-6.352,0,0.248,0.177,8.25e-05,0.141,0.555,68.012,290627
+436,1oERlssLrpssCAY6Yqqs6c,Popsito,Smokin Out The Window,Bruno Mars,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,197443
+437,4pryE6cN2gFL1FVF5fYINl,Popsito,Leave The Door Open,Bruno Mars,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,242096
+438,7suB6D6uKX5DfPukdGaz0W,Popsito,Fly As Me,Bruno Mars,0.783,0.627,2,-8.521,1,0.102,0.00756,0.0,0.0606,0.48,100.025,219389
+439,7klPHv3HnXdUY3dSfTccNc,Popsito,Time,Free Nationals,0.469,0.771,5,-7.071,1,0.338,0.518,0.000197,0.0789,0.298,88.968,210385
+440,22e6sT2Pu8kXpJeItO0xGg,Popsito,My Game,Deluxe,0.79,0.726,1,-4.919,1,0.0604,0.25,0.0,0.0787,0.889,114.953,215411
+441,3ZDS9iPHxfmsUWACvJUd1F,Popsito,Know Your Worth,Disclosure,0.789,0.694,9,-7.667,0,0.0733,0.127,0.00137,0.262,0.432,103.005,181436
+442,1LnEy9O3sYTeO6KiPHKGHq,Popsito,Birthday,Disclosure,0.692,0.728,5,-8.686,0,0.0822,0.0926,4.58e-06,0.125,0.668,136.205,219520
+443,47OnQIAx7QHkm1SbfXcjfP,Popsito,Juice - Breakbot Mix,Lizzo,0.779,0.741,0,-5.503,1,0.0961,0.0261,0.0,0.25,0.929,119.971,172453
+444,6y0Etr2KJr0sdcEp7ajoUK,Popsito,Cosmic Girl - Remastered,Jamiroquai,0.633,0.921,11,-7.719,0,0.0495,0.0261,0.00102,0.309,0.925,119.865,244147
+445,1lRyZDsGGOm8fFRhaz0un4,Popsito,When I Am With You,Warhaus,0.682,0.534,1,-7.704,0,0.0452,0.253,0.657,0.0565,0.603,159.876,337700
+446,6XKvP9q9B4RGIVmvZ22MwT,Popsito,Calle la Pantomima,Melendi,0.465,0.869,11,-5.9,0,0.0746,0.678,9.03e-06,0.136,0.544,158.217,188293
+447,5py3FJrHEuR67BjR7wm8uj,Popsito,Me Maten - Live at NPR's Tiny Desk,C. Tangana,0.614,0.583,7,-10.012,1,0.523,0.526,0.0,0.718,0.794,79.04,242497
+448,0LdAEUc7gyEY6xIG9y3lLM,Popsito,Candle Flame,Jungle,0.673,0.72,9,-7.318,0,0.039,0.143,1.82e-05,0.913,0.588,123.032,174021
+449,6mfQHV1tPWUpme1qi9vYpI,Popsito,Keep Moving,Jungle,0.724,0.603,10,-6.261,0,0.0317,0.183,0.000469,0.0948,0.569,111.493,240880
+450,6D1Yl6NEp9SSGWKBCFTlZX,Popsito,Give Over,Jungle,0.553,0.387,1,-8.673,1,0.0342,0.68,0.053,0.0992,0.148,137.983,213394
+451,0Y30sCKxtNQ2MRpl00aA03,Popsito,Cherry,Jungle,0.613,0.427,8,-8.324,1,0.221,0.889,0.0279,0.129,0.467,82.523,196139
+452,5cV6XZ4GspMzVFEgRdv5wa,Popsito,Home,Jungle,0.376,0.134,4,-10.981,0,0.0437,0.986,0.698,0.0946,0.232,76.684,132202
+453,43A8FeaAetF2Imc28DX29I,Popsito,Julia,Jungle,0.623,0.647,10,-7.511,0,0.0301,0.022,0.00108,0.109,0.277,107.996,195294
+454,0Gpq0lllEPZf98gVo9C4uS,Popsito,"Heavy, California",Jungle,0.674,0.713,6,-7.46,0,0.036,0.0733,0.139,0.169,0.704,111.017,184600
+455,3g86N0SqyfxEVNMHlmW3RE,Popsito,Busy Earnin',Jungle,0.457,0.883,10,-5.61,0,0.0376,0.209,5.11e-06,0.0912,0.736,99.937,181773
+456,2Foc5Q5nqNiosCNqttzHof,Popsito,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047,248413
+457,1CmUZGtH29Kx36C1Hleqlz,Popsito,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,0.781,0.526,6,-6.985,0,0.293,0.0619,0.0,0.0457,0.662,94.992,235613
+458,5YNFRKdTj5JG18ZWNDPDnD,Popsito,Royals,Lorde,0.665,0.432,7,-9.579,1,0.133,0.115,0.0,0.135,0.333,84.899,190185
+459,0dEIca2nhcxDUV8C5QkPYb,Popsito,Give Life Back to Music,Daft Punk,0.788,0.616,9,-10.671,0,0.0337,0.00286,0.549,0.0952,0.696,119.037,275387
+460,4WjH9Bzt3kx7z8kl0awxh4,Popsito,Lean On (feat. MØ & DJ Snake),Major Lazer,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,176561
+461,6fQcqEcXfnY0L6VwS0c3gT,Popsito,Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,0.827,0.576,4,-7.774,1,0.0372,0.184,0.029,0.0656,0.41,118.04,180021
+462,494OU6M7NOf4ICYb4zWCf5,Popsito,Sugar,Maroon 5,0.748,0.788,1,-7.055,1,0.0334,0.0591,0.0,0.0863,0.884,120.076,235493
+463,34gCuhDGsG4bRPIf9bb02f,Popsito,Thinking out Loud,Ed Sheeran,0.781,0.445,2,-6.061,1,0.0295,0.474,0.0,0.184,0.591,78.998,281560
+464,7y2YUIyCuVhBidENVT0068,Popsito,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,0.258,0.631,5,-6.617,0,0.0541,0.281,0.0,0.127,0.266,189.583,252539
+465,2sNvitW3TxiTeC9xT9f2ZZ,Popsito,Firestone,Kygo,0.486,0.652,11,-7.226,0,0.052,0.408,6.63e-05,0.077,0.391,113.055,273684
+466,7dS5EaCoMnN7DzlpT6aRn2,Popsito,Take Me To Church,Hozier,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,241688
+467,6RtPijgfPKROxEzTHNRiDp,Popsito,Rude,MAGIC!,0.773,0.758,1,-4.993,1,0.0381,0.0422,0.0,0.305,0.925,144.033,224840
+468,7cgu4JBW3hq1GwTM1ilkKQ,Popsito,Talking Body,Tove Lo,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,238427
+469,6pIZ0u32c2Lku8PmCWtnMy,Popsito,King,Years & Years,0.563,0.864,4,-4.066,0,0.0386,0.0585,0.0,0.419,0.439,119.964,213424
+470,1i1rNVtxbE7rdFfpHuNq2j,Popsito,Hold My Hand,Jess Glynne,0.642,0.823,0,-5.717,1,0.0289,0.00159,0.0,0.0776,0.431,122.977,227344
+471,1KZyVnyptQcPzkx7ELCnZC,Popsito,Hold Back The River,James Bay,0.715,0.715,5,-7.364,1,0.0902,0.0526,0.0,0.0936,0.507,134.922,238747
+472,4iZPNYqzI2L0uwuUKun7Aa,Popsito,Stole the Show,Kygo,0.679,0.662,8,-6.069,0,0.174,0.155,0.0,0.152,0.438,99.879,222801
+473,3H3cOQ6LBLSvmcaV7QkZEu,Popsito,Aerodynamic,Daft Punk,0.624,0.911,7,-7.482,1,0.0524,0.329,0.861,0.0727,0.135,122.902,212547
+474,2VEZx7NWsZ1D0eJ4uv5Fym,Popsito,Digital Love,Daft Punk,0.644,0.664,9,-8.398,1,0.0332,0.048,0.867,0.342,0.53,124.726,301373
+475,5W3cjX2J3tjhG8zb6u0qHn,Popsito,"Harder, Better, Faster, Stronger",Daft Punk,0.817,0.716,6,-8.898,0,0.144,0.0427,0.00263,0.358,0.692,123.474,224693
+476,1NeLwFETswx8Fzxl2AFl91,Popsito,Something About Us,Daft Punk,0.875,0.475,9,-12.673,0,0.0986,0.44,0.72,0.046,0.384,99.958,232667
+477,5yxIenY5kSLlgTr3XGYw9p,Popsito,Rock With You,Michael Jackson,0.793,0.741,1,-6.494,1,0.0393,0.0794,0.00029,0.116,0.856,114.489,220040
+478,52xaypL0Kjzk0ngwv3oBPR,Popsito,Beat It,Michael Jackson,0.762,0.8,3,-6.244,0,0.0449,0.027,5.83e-05,0.17,0.9,138.823,258267
+479,6RQgvscK17WsaMj3N5RTer,Popsito,Remember the Time,Michael Jackson,0.834,0.908,8,-3.404,1,0.0646,0.128,0.00382,0.181,0.801,107.931,239627
+480,4GCGH6TJ69neckwITeBFXK,Popsito,Earth Song,Michael Jackson,0.501,0.439,3,-7.521,0,0.0313,0.482,0.000117,0.087,0.145,138.377,406040
+481,3MnBlnCbjYubZfhggHcPzz,Popsito,Kangaroo Court,Capital Cities,0.767,0.575,5,-5.087,0,0.0364,0.00717,0.000678,0.0304,0.975,99.988,223187
+482,6BnONjR7itGMEqwxKTIlRM,Popsito,Safe And Sound,Capital Cities,0.653,0.822,0,-4.857,1,0.033,0.00021,0.0047,0.0838,0.762,117.949,192790
+483,2CAK2t1reUgPK6OMgAMURB,Popsito,Wasted,Tiësto,0.638,0.816,2,-5.503,1,0.0308,0.00149,0.00115,0.195,0.386,112.014,190014
+484,4ivxQTDPvf8nrUh8H2pfnr,Popsito,Shots,Imagine Dragons,0.565,0.768,2,-6.803,1,0.0365,0.00723,0.00458,0.309,0.381,104.949,232347
+485,3PRLM4FzhplXfySa4B7bxS,Popsito,Money On My Mind,Sam Smith,0.65,0.845,2,-5.23,1,0.175,0.192,0.0004,0.231,0.734,133.664,192670
+486,2UzMpPKPhbcC8RbsmuURAZ,Popsito,Do I Wanna Know?,Arctic Monkeys,0.55,0.532,5,-7.591,1,0.032,0.174,0.000347,0.218,0.41,85.032,272387
+487,7Jzsc04YpkRwB1zeyM39wE,Popsito,R U Mine?,Arctic Monkeys,0.509,0.763,11,-5.724,0,0.0302,0.00708,0.0,0.224,0.635,97.076,201733
+488,55h7vJchibLdUkxdlX3fK7,Popsito,Treasure,Bruno Mars,0.874,0.692,5,-5.28,0,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,178560
+489,3w3y8KPTfNeOKPiqUTakBh,Popsito,Locked out of Heaven,Bruno Mars,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,233478
+490,6b8Be6ljOzmkOmFslEb23P,Popsito,24K Magic,Bruno Mars,0.818,0.803,1,-4.282,1,0.0797,0.034,0.0,0.153,0.632,106.97,225983
+491,1I6pKIyaBp4OebTGLJpCCC,Popsito,Perm,Bruno Mars,0.853,0.871,8,-3.715,1,0.0851,0.0145,6.84e-05,0.198,0.863,124.021,210053
+492,0kN8xEmgMW9mh7UmDYHlJP,Popsito,Versace on the Floor,Bruno Mars,0.578,0.574,2,-6.209,1,0.0454,0.196,0.0,0.083,0.301,174.152,261240
+493,0KKkJNfGyhkQ5aFogxQAPU,Popsito,That's What I Like,Bruno Mars,0.853,0.56,1,-4.961,1,0.0406,0.013,0.0,0.0944,0.86,134.066,206693
+494,3G5iN5QBqMeXx3uZPy8tgB,Popsito,Young Girls,Bruno Mars,0.561,0.749,6,-4.951,0,0.032,0.461,1.82e-06,0.205,0.501,125.986,228720
+495,48td6xvpokdYwvbl3JIiXP,Popsito,Love Never Felt So Good,Michael Jackson,0.775,0.719,7,-6.212,0,0.0435,0.132,1.79e-06,0.0662,0.712,117.513,246027
+496,3X2Aw6bQ7TfMMKsTzjTlDg,TimeTronica,Waterfall,Disclosure,0.691,0.733,11,-6.887,0,0.0572,0.0212,5.61e-05,0.0894,0.834,128.038,232120
+497,06U3tIapsJ0X6dZx5nhLtt,TimeTronica,Wildfire,SBTRKT,0.841,0.481,0,-7.188,0,0.387,0.0308,0.000515,0.0896,0.341,139.574,201000
+498,3Ty7OTBNSigGEpeW2PqcsC,TimeTronica,Glory Box,Portishead,0.51,0.434,1,-10.004,1,0.0361,0.177,0.516,0.0603,0.207,119.695,308627
+499,1trC8L8YpawkU553ymy2zC,TimeTronica,Calling (Lose My Mind) - Radio Edit,Sebastian Ingrosso,0.416,0.849,1,-4.909,0,0.0455,0.00864,0.000138,0.204,0.147,125.098,205440
+500,2kSc33d2kleICMfJ1IAwnw,TimeTronica,Waterguns,Caravan Palace,0.722,0.596,4,-6.1,1,0.0458,0.584,0.0,0.188,0.794,97.508,210280
+501,4bL5GNTF2zw5WyEle7irMf,TimeTronica,Shake It On,Jamiroquai,0.767,0.624,1,-7.496,1,0.0543,0.0183,0.171,0.0674,0.218,120.003,314493
+502,4LkJXlCD9AYjScPywhUjZs,TimeTronica,Dynamite,Jamiroquai,0.85,0.707,1,-6.026,0,0.0604,0.0642,3.49e-06,0.139,0.706,114.387,295400
+503,2akjLHnHjDGsgqxuf48VYs,TimeTronica,The Bay,Metronomy,0.803,0.47,6,-7.232,0,0.0387,0.587,0.091,0.0723,0.887,121.226,290173
+504,6zfczP87XO2SxWlQtnjFNa,TimeTronica,The Look,Metronomy,0.638,0.535,9,-7.792,0,0.0415,0.623,0.0391,0.0837,0.504,84.947,277653
+505,4pNiE4LCVV74vfIBaUHm1b,TimeTronica,Sir Duke,Stevie Wonder,0.588,0.568,6,-9.766,1,0.0672,0.16,0.0,0.0792,0.952,106.938,232760
+506,4DgPcCPpxVN28ZOQBZBhu4,TimeTronica,Gym tonic - Original,Bob Sinclar,0.794,0.638,1,-4.041,1,0.0887,0.0065,1.96e-05,0.04,0.374,130.015,371566
+507,1qEmFfgcLObUfQm0j1W2CK,TimeTronica,Late Night Talking,Harry Styles,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,177955
+508,29rBJWizgnVht4qXpHyDxh,TimeTronica,Willing & Able,Disclosure,0.571,0.632,5,-6.884,0,0.752,0.252,0.0,0.104,0.943,199.987,292760
+509,1SwdyY367WF7OwvOZl2yml,TimeTronica,Remedy,Breakbot,0.754,0.597,5,-6.472,1,0.0554,0.61,0.000269,0.172,0.499,107.038,268520
+510,51UA67mEMSdjeIvbfBf2Q1,TimeTronica,Melancolia,Caravan Palace,0.71,0.688,6,-6.622,1,0.0305,0.656,1.62e-06,0.0972,0.768,136.032,243387
+511,3THFKx88trZuOFlssVLJ5G,TimeTronica,Broken,Gorillaz,0.493,0.918,0,-4.618,1,0.034,0.00452,0.0858,0.427,0.703,158.897,197053
+512,0UHhtA7tNKZaEPh7hYZVGP,TimeTronica,Feeling for You,Cassius,0.828,0.769,6,-10.409,1,0.0828,0.000141,0.741,0.184,0.73,133.055,277800
+513,5jr6pG3khBcBXZRm8NogSe,TimeTronica,Baby I'm Yours,Breakbot,0.831,0.794,2,-3.701,0,0.0752,0.705,3.4e-05,0.0978,0.735,118.075,215787
+514,64dLd6rVqDLtkXFYrEUHIU,TimeTronica,New Gold (feat. Tame Impala and Bootie Brown),Gorillaz,0.695,0.923,1,-3.93,0,0.0522,0.0425,0.0469,0.116,0.551,108.014,215150
+515,7fsj6h62aREMAE3tlZK5Uc,TimeTronica,Mi Caribe,Systema Solar,0.738,0.852,7,-9.816,1,0.0565,0.00665,3.91e-05,0.098,0.631,116.069,206734
+516,7DM5k4ql2H94jNn0kN0SaU,TimeTronica,Clap Your Hands,Whilk & Misky,0.823,0.638,4,-11.364,0,0.055,0.232,0.211,0.0961,0.382,117.984,305532
+517,6X4f2HyaLrwTVi5juD27jY,TimeTronica,Stereo,BoomBox,0.887,0.408,2,-10.89,1,0.116,0.118,0.254,0.076,0.555,111.015,346000
+518,09jscLcwa4usINbtfzo5FL,TimeTronica,When You Gonna Learn?,Jamiroquai,0.651,0.925,5,-3.389,0,0.053,0.12,0.0,0.057,0.658,106.286,230053
+519,78orLDLxWpOZINipGYrV0g,TimeTronica,Who Are You,C2C,0.681,0.83,7,-6.352,0,0.248,0.177,8.25e-05,0.141,0.555,68.012,290627
+520,73bDvrmSBh2fr53tLDH9oA,TimeTronica,Nightcall,Kavinsky,0.509,0.856,9,-5.091,0,0.0553,0.00895,0.0108,0.424,0.427,91.02,257320
+521,22e6sT2Pu8kXpJeItO0xGg,TimeTronica,My Game,Deluxe,0.79,0.726,1,-4.919,1,0.0604,0.25,0.0,0.0787,0.889,114.953,215411
+522,3ZDS9iPHxfmsUWACvJUd1F,TimeTronica,Know Your Worth,Disclosure,0.789,0.694,9,-7.667,0,0.0733,0.127,0.00137,0.262,0.432,103.005,181436
+523,1LnEy9O3sYTeO6KiPHKGHq,TimeTronica,Birthday,Disclosure,0.692,0.728,5,-8.686,0,0.0822,0.0926,4.58e-06,0.125,0.668,136.205,219520
+524,05JiUSr7gRPSg4cFeqc6NE,TimeTronica,Who Knew?,Disclosure,0.741,0.888,5,-6.793,0,0.156,0.0826,0.000498,0.403,0.681,138.973,229987
+525,3DWxTyMKS2ABm5kBUbJeTN,TimeTronica,Watch Your Step,Disclosure,0.834,0.897,11,-5.142,0,0.175,0.00507,0.000278,0.127,0.808,122.985,229627
+526,19Az4r4Tb5VKSnajMPg8hb,TimeTronica,Holding On,Disclosure,0.71,0.804,5,-5.207,1,0.333,0.139,0.000246,0.241,0.845,124.004,315000
+527,47OnQIAx7QHkm1SbfXcjfP,TimeTronica,Juice - Breakbot Mix,Lizzo,0.779,0.741,0,-5.503,1,0.0961,0.0261,0.0,0.25,0.929,119.971,172453
+528,6y0Etr2KJr0sdcEp7ajoUK,TimeTronica,Cosmic Girl - Remastered,Jamiroquai,0.633,0.921,11,-7.719,0,0.0495,0.0261,0.00102,0.309,0.925,119.865,244147
+529,72nJMBop58qf4xbNwZD0qO,TimeTronica,De Charco En Charco,Samuraï,0.763,0.803,5,-4.297,1,0.0374,0.351,0.0,0.27,0.685,125.036,160589
+530,3LBSFkq6w2zFMRrT4DB3Pm,TimeTronica,Arrested,Breakbot,0.805,0.543,0,-5.008,0,0.0561,0.404,1.27e-06,0.22,0.89,103.012,223893
+531,30aVFx8u8eYjy0P6flmPYp,TimeTronica,F For You,Disclosure,0.756,0.821,3,-7.464,0,0.071,0.00733,0.0269,0.107,0.242,124.022,268935
+532,0hhXziDUO0wNYPsstDQWN6,TimeTronica,Overnight,Parcels,0.815,0.819,8,-9.494,0,0.0521,0.364,0.0555,0.115,0.864,119.986,219604
+533,34wcz4mpAActEc6gtqX3wz,TimeTronica,"Heavy, California",Jungle,0.674,0.713,6,-7.46,0,0.0359,0.0733,0.139,0.169,0.71,111.017,184600
+534,44ZKnfWEkp7wPs035j4Tua,TimeTronica,Casio,Jungle,0.816,0.492,10,-7.464,0,0.0752,0.431,0.0896,0.0995,0.765,115.989,234370
+535,7cMFjxhbXBpOlais7KMF3j,TimeTronica,Voyager,Daft Punk,0.669,0.743,7,-11.488,1,0.0494,0.288,0.805,0.309,0.28,119.881,227867
+536,27tQgsWuNaFswSGGvHbohM,TimeTronica,The Sound of Violence (Cosmo Vitelli),Cassius,0.576,0.803,8,-6.835,0,0.234,0.00387,0.0104,0.281,0.847,119.685,312293
+537,45pvLeeK3mcKz1O8hPmYMX,TimeTronica,Molecules,Disclosure,0.848,0.606,5,-6.263,0,0.106,0.0283,0.00689,0.129,0.758,108.02,236152
+538,6o2Yj3Usc7tfNW9XJQy6eB,TimeTronica,Fantasy,Breakbot,0.898,0.58,5,-4.712,1,0.077,0.0981,0.00347,0.0571,0.888,124.945,196146
+539,1aKPbD7aGsySdLz27P92Gt,TimeTronica,Make You Mine,Breakbot,0.831,0.555,9,-7.634,0,0.0364,0.0238,0.0253,0.0869,0.8,94.985,203333
+540,0IedgQjjJ8Ad4B3UDQ5Lyn,TimeTronica,Fragments of Time (feat. Todd Edwards),Daft Punk,0.807,0.51,0,-9.729,1,0.0433,0.041,0.115,0.104,0.961,130.118,279773
+541,3G9DXOdZHws7eFslJrJvKY,TimeTronica,Pharaohs,SBTRKT,0.794,0.578,5,-8.507,0,0.0571,0.00972,0.748,0.115,0.636,127.013,218147
+542,1PpfOKfKJR5gVfz7yejNB7,TimeTronica,Hold On,SBTRKT,0.768,0.393,0,-11.737,1,0.04,0.226,0.361,0.0923,0.443,131.989,206600
+543,1LSGOMbiDuu6QtuWqPWpmP,TimeTronica,Need You Now,Hot Chip,0.689,0.705,7,-9.235,1,0.0485,0.0122,0.815,0.108,0.144,120.043,285520
+544,6q6PeTloTbL2vb1Gt9sQQc,TimeTronica,Ready For The Floor,Hot Chip,0.764,0.759,1,-5.443,0,0.0413,0.00903,0.0,0.0746,0.937,128.999,234240
+545,75P61qDL1jMCHW13Su8bee,TimeTronica,Black Betty,Caravan Palace,0.832,0.948,4,-3.979,0,0.0502,0.192,0.000117,0.0806,0.864,121.973,189957
+546,6kK2YbF8boQl32Lqkai3Ca,TimeTronica,All Night,Parov Stelar,0.797,0.618,7,-7.672,0,0.0429,0.107,0.845,0.243,0.826,125.02,166400
+547,5hq3wJbtAoyXmLLxGShWbl,TimeTronica,Brotherswing,Caravan Palace,0.615,0.87,7,-4.792,0,0.143,0.00225,0.00618,0.0898,0.671,132.005,221960
+548,4GZbEuFWqwq6IGIqtQRYb7,TimeTronica,Aftermath,Caravan Palace,0.614,0.663,8,-7.105,1,0.0406,0.23,0.00328,0.297,0.403,140.015,185870
+549,55KhvVzqoaNEgaRTDmu6Zg,TimeTronica,Hold the Night,Lyre Le Temps,0.727,0.965,11,-4.186,0,0.0909,0.0259,2.29e-06,0.166,0.941,130.023,260307
+550,2ZXWOCdQ2IJ63RBOjuQVR3,TimeTronica,Happy,C2C,0.753,0.92,5,-4.657,0,0.0933,0.0266,0.174,0.624,0.549,120.014,234640
+551,1SayqEg8HKK2IeIEWjdYxY,TimeTronica,Down The Road,C2C,0.72,0.595,2,-6.109,0,0.0976,0.0672,4.73e-05,0.0775,0.486,111.0,207187
+552,6CkLCVosy0zNl0hT6qURmx,TimeTronica,Nocturnal,Disclosure,0.679,0.681,2,-6.381,1,0.0368,0.0211,0.000139,0.126,0.266,103.008,404512
+553,4YXadYEqepJdfH4UNZtJI0,TimeTronica,Omen,Disclosure,0.695,0.675,8,-5.202,1,0.217,0.0557,0.0,0.378,0.615,106.074,230250
+554,0sWXjRFc91iTzq3fR1ce0t,TimeTronica,Latch,Disclosure,0.727,0.726,1,-5.453,1,0.0989,0.0155,9.1e-05,0.0899,0.591,121.989,255632
+555,6eNQBntWe7hh6N0h62tRcg,TimeTronica,When A Fire Starts To Burn,Disclosure,0.621,0.746,7,-6.966,1,0.22,0.0094,0.000764,0.234,0.676,123.921,283706
+556,5VTZOwQvBHC39vrmb1QAqF,TimeTronica,White Noise,Disclosure,0.67,0.846,10,-6.158,0,0.0499,0.00947,0.000184,0.317,0.894,119.978,277688
+557,5mZhaSAHri15JO6VUeiSai,TimeTronica,Afterthought,Disclosure,0.725,0.739,9,-7.019,1,0.191,0.0777,1.65e-05,0.0904,0.478,120.007,320429
+558,3jnuMN5P7fx5RSaov11GOh,TimeTronica,Moving Mountains,Disclosure,0.351,0.611,4,-8.557,0,0.0966,0.346,1.01e-05,0.112,0.42,148.289,335966
+559,4cgDeD8ivcUrSODVW5mKcz,TimeTronica,Molecules,Disclosure,0.85,0.603,5,-6.413,0,0.111,0.0254,0.00505,0.14,0.754,108.033,236152
+560,4TDwW6efxrpR5fJFCvRluQ,TimeTronica,Echoes,Disclosure,0.77,0.925,3,-7.109,0,0.125,0.00503,0.000184,0.0543,0.847,127.965,309459
+561,7JLQVnSTrNLOBO2ORhfd3t,TimeTronica,Superego,Disclosure,0.467,0.723,3,-7.529,0,0.135,0.209,0.0,0.0799,0.801,80.054,273542
+562,7wL6foQYnRiwkYvaFs6LGd,TimeTronica,Jaded,Disclosure,0.805,0.845,6,-5.112,1,0.208,0.0106,2.7e-06,0.0639,0.591,117.014,274750
+563,43Ei9NSyEjgFYXoKLISyz4,TimeTronica,Magnets,Disclosure,0.703,0.638,10,-7.879,0,0.159,0.0606,2.21e-06,0.1,0.688,92.041,199246
+564,31eL3t4POZ9Cc6YwpB5GTS,TimeTronica,Willing & Able,Disclosure,0.546,0.64,1,-6.869,1,0.785,0.242,0.0,0.106,0.934,199.984,292760
+565,0wOlfQ3xWNuD1zliiOmAOT,TimeTronica,Hourglass,Disclosure,0.697,0.831,7,-5.687,1,0.175,0.00282,0.00382,0.0918,0.545,122.06,324240
+566,2LTIrVBonJJLQHAjw41b28,TimeTronica,Help Me Lose My Mind,Disclosure,0.777,0.71,5,-5.694,0,0.0539,0.0412,0.0811,0.0577,0.306,109.029,244174
+567,1ZqeykOaDmjkldzs7XGR4b,TimeTronica,Where Angels Fear To Tread,Disclosure,0.679,0.735,2,-6.218,0,0.136,0.23,0.602,0.148,0.603,107.998,225907
+568,1il2M59aOrRTaYEyF9OcqQ,TimeTronica,Love Can Be So Hard,Disclosure,0.749,0.815,4,-7.365,0,0.161,0.0216,0.26,0.346,0.571,114.987,246973
+569,7v9Q0dAb9t7h8gJOkcJHay,TimeTronica,Face to Face,Daft Punk,0.874,0.437,1,-10.235,0,0.0708,0.00134,0.0296,0.0293,0.962,117.791,240173
+570,1H1d4dr7Hk5Rrd8Tb5y5yr,TimeTronica,One More Time / Aerodynamic,Daft Punk,0.45,0.846,11,-9.996,0,0.102,0.038,0.266,0.222,0.414,124.239,370533
+571,5RByQFt9Mlo8hDYJ921tCv,TimeTronica,"Around the World / Harder, Better, Faster, Stronger",Daft Punk,0.629,0.787,5,-8.399,0,0.0646,0.00152,0.359,0.209,0.581,125.998,342627
+572,0DiWol3AO6WpXZgp0goxAV,TimeTronica,One More Time,Daft Punk,0.613,0.697,2,-8.618,1,0.133,0.0194,0.0,0.332,0.476,122.746,320357
+573,6vuPZX9fWESg5js2JFTQRJ,TimeTronica,Crescendolls,Daft Punk,0.697,0.75,5,-8.503,0,0.0721,0.0035,0.922,0.0889,0.937,124.048,211640
+574,63JXZZRbmzooashakb0zbu,TimeTronica,Nightvision,Daft Punk,0.491,0.186,0,-29.512,1,0.0321,0.845,0.916,0.109,0.457,119.883,104467
+575,186hvCTyrni4KT9nwIQ7zS,TimeTronica,Superheroes,Daft Punk,0.619,0.74,11,-8.204,0,0.0789,0.00409,0.00356,0.102,0.674,140.874,237800
+576,4npMbTuxrUA3Wd7edACZ2L,TimeTronica,Short Circuit,Daft Punk,0.535,0.558,6,-10.756,1,0.0741,0.00461,0.824,0.0821,0.215,109.69,206867
+577,3zMvotMEQK3xvH01vA9wAP,TimeTronica,Too Long,Daft Punk,0.692,0.582,5,-10.164,0,0.301,0.00211,0.0,0.177,0.513,127.017,600293
+578,2VEZx7NWsZ1D0eJ4uv5Fym,TimeTronica,Digital Love,Daft Punk,0.644,0.664,9,-8.398,1,0.0332,0.048,0.867,0.342,0.53,124.726,301373
+579,3H3cOQ6LBLSvmcaV7QkZEu,TimeTronica,Aerodynamic,Daft Punk,0.624,0.911,7,-7.482,1,0.0524,0.329,0.861,0.0727,0.135,122.902,212547
+580,0qKX14YZHptDWiEN0CgxGz,TimeTronica,Zenith,Kavinsky,0.403,0.646,0,-8.19,0,0.0372,0.443,0.000557,0.131,0.418,93.981,281107
+581,3x2nWCAqpyAtgU7ccU0W1d,TimeTronica,Midnight,Caravan Palace,0.585,0.839,6,-6.778,1,0.0468,0.449,0.417,0.356,0.485,95.009,205826
+582,32aNloyjcFTw3ST8fkEVUX,A Andrés Cepeda le gusta esto,Amuleto,Maréh,0.809,0.226,4,-13.294,1,0.0708,0.754,2.29e-06,0.104,0.677,77.478,229693
+583,3H0PlcSmQ6z4DDCBFkD7Wx,A Andrés Cepeda le gusta esto,Te Mentiría,La K'onga,0.651,0.731,7,-6.889,1,0.0549,0.116,0.0,0.0708,0.653,153.104,218431
+584,7jcXQXxo0lvpwg2twqJpqc,A Andrés Cepeda le gusta esto,Quiero Que Me Llames,Conociendo Rusia,0.665,0.839,1,-4.383,1,0.0375,0.254,2.75e-06,0.249,0.636,123.982,258107
+585,0MArhYeFvgi8V2Pj3ecwBs,A Andrés Cepeda le gusta esto,La Declaración,El Zar,0.823,0.486,0,-9.111,0,0.0421,0.197,0.0021,0.0696,0.588,113.006,277573
+586,1lq2OOQB6ayaHvsbWZhtqQ,A Andrés Cepeda le gusta esto,Ciclo,Simon Grossmann,0.881,0.641,7,-6.11,1,0.0418,0.198,9.55e-05,0.274,0.92,130.055,169141
+587,3oqI8s2Aj0MUOop1j2vqoN,A Andrés Cepeda le gusta esto,Llamame,Emmanuel Horvilleur,0.619,0.598,0,-9.603,1,0.0501,0.218,0.0,0.223,0.697,91.551,208790
+588,7MmrcXVA7A5zZ2CbDuGHNa,A Andrés Cepeda le gusta esto,A Mí,Rels B,0.846,0.548,1,-6.397,1,0.256,0.241,0.0713,0.0419,0.516,94.925,209680
+589,4rsM2KuWGmnUZAR55rdkLw,A Andrés Cepeda le gusta esto,CAFÉ (LIVE SESSION),Junior Zamora,0.569,0.342,4,-7.798,0,0.129,0.842,0.0,0.111,0.659,147.943,289797
+590,2JlyQBk8fOVy7HfNCXrQjQ,A Andrés Cepeda le gusta esto,Sin Prisa,El Caribefunk,0.729,0.684,11,-6.711,1,0.0491,0.482,7.65e-06,0.14,0.807,96.885,191472
+591,7rkw3zKIijcrCaXCzrfcYn,A Andrés Cepeda le gusta esto,Balada Jarocha,Sonex,0.776,0.632,7,-6.602,1,0.0338,0.642,0.0,0.346,0.97,120.031,225739
+592,46MsDn3VIiOyPWHeSkSbHv,A Andrés Cepeda le gusta esto,Con un beso,Sonex,0.665,0.722,2,-8.782,1,0.228,0.219,0.0,0.0689,0.586,159.032,284653
+593,1PckUlxKqWQs3RlWXVBLw3,A Andrés Cepeda le gusta esto,About Damn Time,Lizzo,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,191822
+594,3MbWaYdtpVVtpGQqWBmeMq,A Andrés Cepeda le gusta esto,Circunvalación,El Kuelgue,0.604,0.637,9,-5.725,1,0.0332,0.237,0.0,0.113,0.616,154.889,234307
+595,6wszmCHeHNQNVBnBSAyl9X,A Andrés Cepeda le gusta esto,Por Ahora,El Kuelgue,0.737,0.715,11,-7.485,0,0.0628,0.14,0.0,0.0927,0.631,121.917,206133
+596,3xOZWx6fJc65Z4R2Hrq06N,A Andrés Cepeda le gusta esto,Eso Que Me Das,Juan Pablo Vega,0.733,0.688,9,-7.464,1,0.0681,0.0606,0.000144,0.289,0.828,110.01,227658
+597,36SLvR17LY37IL81bcsW48,A Andrés Cepeda le gusta esto,Telón,El Caribefunk,0.706,0.688,9,-6.476,1,0.0504,0.374,0.0,0.0988,0.599,97.03,231026
+598,1riwPlXQvWOsfT79y0eGQn,A Andrés Cepeda le gusta esto,Bailando,Pedro Pastor,0.626,0.916,7,-6.555,1,0.055,0.574,7.29e-05,0.36,0.791,130.032,154520
+599,04mq28ok538qTCtlcApfs9,A Andrés Cepeda le gusta esto,Fastidiado De Lo Bien,El Caribefunk,0.764,0.779,11,-7.664,0,0.0594,0.178,0.0,0.179,0.878,112.015,189543
+600,4na0S4dyXadwQ1pIseS42Q,A Andrés Cepeda le gusta esto,La Chamuyera,El Caribefunk,0.725,0.795,1,-6.795,1,0.0452,0.22,0.0,0.0348,0.962,126.03,203295
+601,5NMJBgmG9ObrKwf4geqIjY,A Andrés Cepeda le gusta esto,Pong,Piel Camaleón,0.7,0.692,9,-5.326,1,0.0402,0.0624,0.0,0.0617,0.895,99.991,208505
+602,5mscPr5RK0ivJGDfIjFnvL,A Andrés Cepeda le gusta esto,No se dice suerte,El Kanka,0.72,0.789,0,-7.068,1,0.0878,0.574,4.21e-06,0.287,0.515,92.914,263867
+603,5h6u7bYQ67roYVVBOuhrf4,A Andrés Cepeda le gusta esto,Síndrome de Fregoli,LosPetitFellas,0.537,0.919,8,-6.793,1,0.441,0.00955,1.12e-05,0.183,0.405,190.247,187427
+604,4iCTmJi34Oqm6LJKvN7Sqz,A Andrés Cepeda le gusta esto,Yo se ya,La Mambanegra,0.764,0.556,7,-9.154,1,0.15,0.826,1.16e-06,0.394,0.603,99.973,302162
+605,1FwGXG3B6RVgRPAZ6BVL59,A Andrés Cepeda le gusta esto,Don de fluir,Jorge Drexler,0.625,0.712,0,-8.2,1,0.0397,0.532,0.00889,0.219,0.903,159.912,235853
+606,6HdWaXQzYG4Q7kpKkjJaly,A Andrés Cepeda le gusta esto,Siempre Happy,Habana Abierta,0.501,0.32,5,-10.78,1,0.0413,0.862,0.0,0.109,0.413,103.142,330467
+607,2heG20ThfguqAgUXNsy7dT,A Andrés Cepeda le gusta esto,Una Broma Seria,Habana Abierta,0.802,0.568,0,-9.843,1,0.05,0.427,1.06e-05,0.315,0.718,103.99,182640
+608,76tFzRYmKjURYhCM8j1CrV,A Andrés Cepeda le gusta esto,El Gato y el Ratón,Habana Abierta,0.679,0.685,7,-8.979,1,0.0535,0.467,3.69e-06,0.378,0.653,114.096,238067
+609,5X4EAUGRDw6U7D057evbQs,A Andrés Cepeda le gusta esto,Asere ¿Qué Volá?,Habana Abierta,0.771,0.86,2,-6.534,1,0.0464,0.426,0.0,0.1,0.849,112.041,278187
+610,6k3GZGZksbEf7k3nmEDfjP,A Andrés Cepeda le gusta esto,Son Iguales,Habana Abierta,0.832,0.695,2,-7.861,1,0.0333,0.339,0.0,0.0992,0.777,129.953,260280
+611,4ZXfTIeCdWBuZCbKgicVcY,A Andrés Cepeda le gusta esto,Bailala Bien,Habana Abierta,0.8,0.858,4,-8.329,1,0.11,0.559,4.3e-05,0.103,0.951,118.011,207080
+612,7GpLrSiwgo8MdbhlYMiDE5,A Andrés Cepeda le gusta esto,Como Soy Cubano,Habana Abierta,0.758,0.93,11,-7.119,0,0.0571,0.349,0.000739,0.0896,0.67,117.935,328267
+613,24J7YHAgSGxCRI4Kpd9xk3,A Andrés Cepeda le gusta esto,Basta Que Lo Digas Tú,Habana Abierta,0.747,0.72,0,-6.809,0,0.064,0.552,0.0,0.0857,0.628,104.963,234440
+614,2X33D3wMAX35Atf7dQmkpU,A Andrés Cepeda le gusta esto,Corazón Boomerang,Habana Abierta,0.797,0.537,0,-6.958,1,0.0356,0.348,0.0,0.132,0.577,129.979,254160
+615,1BmCHEhtAe8TXWGjPxlPwy,A Andrés Cepeda le gusta esto,La Novia de Superman,Habana Abierta,0.741,0.68,4,-8.932,0,0.0769,0.214,0.0,0.101,0.88,89.96,252720
+616,7JdYz8glqZiToSRAsKPJW8,A Andrés Cepeda le gusta esto,El Relajito,Habana Abierta,0.809,0.699,2,-8.618,1,0.0517,0.312,0.0,0.0895,0.633,105.019,240640
+617,3HzZIN8oncO0hw3FhtYGBX,A Andrés Cepeda le gusta esto,Lo Bueno No Sale Barato,Habana Abierta,0.751,0.841,9,-6.898,1,0.0504,0.198,4.3e-06,0.302,0.725,103.977,244013
+618,0zZDt7p7ETtUrWgELG8VoF,A Andrés Cepeda le gusta esto,Boca Abajo,Habana Abierta,0.768,0.898,1,-6.55,1,0.0393,0.465,0.0,0.0629,0.896,118.069,209307
+619,5OVAVELGyFIICZk3DO47hY,A Andrés Cepeda le gusta esto,Una Conexión,Macaco,0.751,0.354,4,-8.158,1,0.0375,0.67,0.0,0.105,0.553,126.046,209222
+620,2U49RcNt0MSem9HUqZzFxS,A Andrés Cepeda le gusta esto,De La Mano (feat. Minek),Lucas Arnau,0.653,0.358,5,-8.949,1,0.101,0.585,0.0,0.12,0.713,79.737,235627
+621,0qYsta9iTDMNLKNg8JnKKt,A Andrés Cepeda le gusta esto,Los Chicos Sí Lloran,Diamante Eléctrico,0.694,0.696,4,-7.21,0,0.0544,0.153,0.136,0.126,0.676,95.014,222963
+622,3oauXpkAKyzYWkAiZAkVUH,A Andrés Cepeda le gusta esto,Que Pasa Loco ?,Issac Delgado,0.735,0.728,0,-9.033,1,0.0574,0.249,1.64e-05,0.0622,0.956,87.655,378070
+623,0HD5gvrDsRp4tAsMFxTzJ3,A Andrés Cepeda le gusta esto,Así Se Siente,Temple Sour,0.516,0.571,3,-8.117,0,0.0411,0.285,0.0,0.113,0.577,151.847,276827
+624,2zSaRaop42B6bInzcBcyaD,A Andrés Cepeda le gusta esto,#Sádico,Rawayana,0.81,0.622,1,-10.985,1,0.15,0.272,0.000688,0.0963,0.688,122.026,344863
+625,17IrhV0fINXu3GCA3Ssz4Y,A Andrés Cepeda le gusta esto,Tot Està per Fer,Acció,0.786,0.597,4,-6.735,0,0.0341,0.192,2.37e-05,0.152,0.752,124.035,240131
+626,3SK45LddxlEkzI8OWO9Eyo,A Andrés Cepeda le gusta esto,Ingobernable,C. Tangana,0.705,0.757,6,-5.608,0,0.0656,0.195,0.000228,0.0524,0.737,104.973,187053
+627,5gEUDNQvoQjdjklrwPdGwD,A Andrés Cepeda le gusta esto,Párteme La Cara,C. Tangana,0.761,0.296,0,-10.22,1,0.0484,0.551,0.000492,0.134,0.579,127.938,167867
+628,5kw0PCwGS9QCMwvmsXyvxx,A Andrés Cepeda le gusta esto,Era,Estopa,0.696,0.558,2,-7.85,0,0.0437,0.711,0.000204,0.102,0.429,90.82,182480
+629,0hoTpZfz9rc9lYtuyXY6bq,A Andrés Cepeda le gusta esto,Siempre Juntos,Naty Botero,0.692,0.82,4,-4.031,0,0.0537,0.292,0.000451,0.248,0.445,147.964,285547
+630,0y0OzmGNjmaTHTKyZUGwY5,A Andrés Cepeda le gusta esto,Me Resbala,Integracion Casanova,0.926,0.786,2,-2.903,1,0.126,0.145,0.00019,0.321,0.696,97.994,236487
+631,35uxk7hvSZBfEgScbcagZI,A Andrés Cepeda le gusta esto,Cometas,Bacalao Men,0.606,0.802,2,-4.985,1,0.0363,0.662,3e-05,0.369,0.95,179.06,256880
+632,5ddFjrPG8NgQQ6xlOQIVd2,A Andrés Cepeda le gusta esto,Tú Me Dejaste De Querer,C. Tangana,0.823,0.723,4,-4.778,0,0.229,0.311,0.00315,0.0998,0.505,83.97,198493
+633,4J2HLNTxiVxxs6kWgTIN43,A Andrés Cepeda le gusta esto,Porfa no te vayas,Beret,0.589,0.853,10,-5.14,1,0.0581,0.371,0.0,0.137,0.792,171.976,209712
+634,3Uz1KaJF1jegGuaBfQG3A7,A Andrés Cepeda le gusta esto,Autorretrato,El Kanka,0.571,0.37,0,-8.382,1,0.0858,0.67,0.0,0.0977,0.473,197.831,216600
+635,1dT90aTETrsgoEADOg18uy,A Andrés Cepeda le gusta esto,Merengue de Enramada,Vicente Garcia,0.764,0.613,3,-8.257,0,0.179,0.325,0.0,0.101,0.756,118.172,208973
+636,1rAhGdtRDB0tZVJPztbcVc,A Andrés Cepeda le gusta esto,Puro Goce,Superlitio,0.619,0.667,5,-8.73,0,0.0298,0.0594,0.00302,0.075,0.769,136.031,226064
+637,388JfAKCHRw3lw6J2dNJ0T,A Andrés Cepeda le gusta esto,Como el Agua,Lianna,0.407,0.344,8,-9.852,0,0.066,0.684,8.37e-06,0.104,0.715,75.744,232646
+638,2GXCmc3A6ahTNnBsrkrRuh,A Andrés Cepeda le gusta esto,SI ELLA SUPIERA,India Martinez,0.728,0.608,7,-6.384,1,0.0713,0.326,0.0,0.139,0.658,138.923,233633
+639,4scwMEdlKi8qWJzzyDB8Z3,A Andrés Cepeda le gusta esto,506,Morat,0.544,0.864,0,-5.65,1,0.048,0.00747,0.0,0.338,0.69,142.994,180547
+640,3GaGWoU1KfVqgl7vnRHP55,A Andrés Cepeda le gusta esto,Demasiadas Mujeres,C. Tangana,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,0.358,126.043,153960
+641,4qGSb2elUwIqbe4Psomxxs,A Andrés Cepeda le gusta esto,un día en París,Esteman,0.605,0.771,5,-5.646,0,0.0342,0.22,0.0,0.0929,0.637,96.976,242627
+642,4y7MogcFeMrp4QXPVHloyB,A Andrés Cepeda le gusta esto,Temes,iLe,0.677,0.221,6,-13.398,0,0.0461,0.754,0.000192,0.115,0.518,96.038,196985
+643,1UwP0GRuC1LEH7DpR3c0tY,A Andrés Cepeda le gusta esto,Bonita,Los Choclok,0.611,0.493,7,-7.93,0,0.0527,0.497,1.2e-05,0.0588,0.544,107.142,304917
+644,6PJ11hU6MSUwm8aB0SYXO0,A Andrés Cepeda le gusta esto,Playa Azul,Los Amigos Invisibles,0.629,0.745,1,-8.188,1,0.04,0.229,0.266,0.0624,0.704,175.979,279800
+645,08xgGsYAdYs3Jcdt234xSC,A Andrés Cepeda le gusta esto,Chocolate Con Churro,Habana Abierta,0.74,0.771,2,-7.25,1,0.0365,0.418,0.0,0.0746,0.942,146.053,214253
+646,69gBnFLDtc2lub6xL0sfi9,A Andrés Cepeda le gusta esto,Por Tu Olor,El Kanka,0.789,0.499,7,-10.111,1,0.0772,0.68,0.00403,0.156,0.786,161.171,221893
+647,1bBmF5nqaoyKKFXPT60pUg,A Andrés Cepeda le gusta esto,Café,Sonex,0.518,0.668,11,-9.255,0,0.195,0.308,1.58e-05,0.0337,0.813,171.0,226427
+648,7yhrQs8ZJt8AagfxRDawvD,A Andrés Cepeda le gusta esto,Si Te Mueres Mañana - Sesión en Vivo,Kanaku y El Tigre,0.485,0.769,8,-6.054,1,0.0642,0.0266,0.000303,0.227,0.583,151.774,270230
+649,5HPG44CDiAAEMX8e3TS7Tx,A Andrés Cepeda le gusta esto,Mi Maria Luisa,La Tribu de Abrante,0.577,0.757,10,-8.446,0,0.164,0.391,7.5e-05,0.272,0.913,160.716,288720
+650,3G9LCcTMWIcm30KZq1Jf6z,A Andrés Cepeda le gusta esto,Maria Claudia,Piel Camaleón,0.792,0.701,2,-5.795,1,0.0455,0.193,0.000802,0.0269,0.762,111.978,156641
+651,1ZBJ3u8cUW9HlcXCEibqAh,A Andrés Cepeda le gusta esto,Jaguar E-Type,Piel Camaleón,0.631,0.656,9,-6.334,1,0.0398,0.0303,2.24e-05,0.174,0.6,119.943,206525
+652,6cO3H592rPALlR3XoUG0P9,A Andrés Cepeda le gusta esto,El Puñal,La Derecha,0.649,0.765,11,-6.878,0,0.0453,0.188,0.00307,0.0937,0.319,100.04,263390
+653,6PzJVcCOi6kQuB7R6NNvz2,A Andrés Cepeda le gusta esto,No Se Va,LosPetitFellas,0.404,0.366,8,-7.768,0,0.105,0.146,0.0,0.0813,0.586,175.825,252512
+654,3LSkkKOlknlT97LvIjZr4i,A Andrés Cepeda le gusta esto,Me Gusta - Versión Funk,Sanalejo,0.69,0.582,0,-10.14,1,0.03,0.27,8.3e-05,0.17,0.726,127.017,218747
+655,59LZV0gyCWITCP5QKLH7ac,A Andrés Cepeda le gusta esto,1143 Tomates Contigo,Doctor Krápula,0.614,0.816,0,-4.878,1,0.209,0.269,0.0,0.226,0.903,73.237,231667
+656,42mjQVcQnlbF3zMAEZKJYA,A Andrés Cepeda le gusta esto,Ay Qué Dolor,La Derecha,0.657,0.789,6,-8.625,0,0.0423,0.0866,0.000302,0.112,0.923,108.62,250100
+657,5nISWLGbT8qsZ3YKiQ8BFr,A Andrés Cepeda le gusta esto,Sí,La Toma,0.721,0.294,4,-12.079,1,0.0741,0.716,0.0,0.148,0.705,140.052,202104
+658,5q5pVXewBtGUE3usjMgRXd,A Andrés Cepeda le gusta esto,El Tiempo Perdido,Quemarlo Todo Por Error,0.141,0.754,9,-9.117,1,0.0447,0.422,0.748,0.101,0.449,96.878,354869
+659,5koBWoS2PnjWSOsiHVlXQv,A Andrés Cepeda le gusta esto,Vas a encontrarte,Muerdo,0.903,0.324,0,-11.296,1,0.0445,0.574,0.00075,0.098,0.647,135.047,247014
+660,4HtaHPURmO7mjq0yvg7cr1,A Andrés Cepeda le gusta esto,Llegué hasta ti,Muerdo,0.685,0.87,2,-7.992,1,0.0479,0.328,9.85e-05,0.119,0.513,98.006,194102
+661,2KK9N6iBAisA0booTu3bGd,A Andrés Cepeda le gusta esto,Déjala Que Baile (with Alejandro Sanz & Arkano),Melendi,0.831,0.777,11,-4.456,0,0.174,0.356,0.0,0.0796,0.598,95.973,219600
+662,0KTuF71wDKCYOonE6iqDC3,A Andrés Cepeda le gusta esto,Mis Huellas En Tus Manos (feat. Fonseca),Sebastián Yepes,0.553,0.6,1,-6.772,0,0.034,0.562,1.24e-06,0.0955,0.769,93.883,249160
+663,7BRafDqV3qhXzNgVoWSHTk,A Andrés Cepeda le gusta esto,Ruido,La Derecha,0.771,0.67,2,-9.047,0,0.103,0.0943,0.00563,0.0731,0.298,92.066,331240
+664,1fqzpbI8PlJOn8d7PtO7LT,A Andrés Cepeda le gusta esto,Camagüey (feat. Vicente García),Superlitio,0.765,0.697,9,-8.293,0,0.0342,0.0951,0.000242,0.299,0.739,134.046,225467
+665,6khJ74gcRyxv2RyEgKuxhZ,A Andrés Cepeda le gusta esto,"Me Odia, Me Ama",Don Tetto,0.584,0.895,0,-2.929,1,0.0533,0.00325,5.02e-05,0.0756,0.514,144.895,188889
+666,5MWK4Zyg7g9kSeJYVob21M,A Andrés Cepeda le gusta esto,Media Luna,Los Amigos Invisibles,0.729,0.627,0,-8.46,1,0.0292,0.00735,0.00605,0.204,0.914,124.005,264253
+667,3zmkTFvCLTIa6JfPr8F8QX,A Andrés Cepeda le gusta esto,La Vida la Vida,Jósean Log,0.704,0.846,0,-7.748,1,0.0439,0.00608,3.66e-05,0.288,0.834,100.014,188320
+668,2qXwXciJwW4Qdg7KDesOCQ,A Andrés Cepeda le gusta esto,Alguien Como Tú,Jósean Log,0.717,0.685,4,-10.224,0,0.105,0.427,0.000101,0.204,0.479,120.086,225747
+669,0TCgYIbphnGDyOrdTHRvtJ,A Andrés Cepeda le gusta esto,Robarle tiempo al tiempo,Café Quijano,0.795,0.697,10,-6.362,1,0.0347,0.834,0.00111,0.217,0.851,93.987,252656
+670,5kM06D6o06iTiDngyN3tYP,A Andrés Cepeda le gusta esto,A Quemarropa,LosPetitFellas,0.641,0.666,5,-7.4,0,0.203,0.0586,0.0,0.283,0.608,82.951,234159
+671,7odya8sKbjnOmkMD35tmXQ,A Andrés Cepeda le gusta esto,RIDFG,LosPetitFellas,0.585,0.727,1,-5.073,1,0.197,0.0172,2.76e-06,0.357,0.845,166.052,193306
+672,4jSpcVMnm3GR96Ix7rh70g,A Andrés Cepeda le gusta esto,La Causa,LosPetitFellas,0.589,0.746,11,-7.054,0,0.361,0.0388,0.0,0.106,0.354,88.362,270307
+673,0119K2IZigzqfDcXpzn0Ai,A Andrés Cepeda le gusta esto,El Cielo,LosPetitFellas,0.432,0.612,9,-6.596,0,0.24,0.14,1.76e-06,0.0852,0.658,160.788,316859
+674,6ByzUcDnovDewBJnqXIt2C,A Andrés Cepeda le gusta esto,Los Otros,LosPetitFellas,0.568,0.718,7,-6.986,1,0.324,0.0807,0.0,0.0722,0.552,77.377,294080
+675,59NAAlMPDeeYzKvDgCvuq4,A Andrés Cepeda le gusta esto,De La Mano,Lucas Arnau,0.783,0.472,2,-12.562,0,0.0417,0.62,0.0,0.0963,0.784,95.026,227093
+676,1ZQgGkVpkKptJiYifthkFW,A Andrés Cepeda le gusta esto,Dame Tu Amor,Mauricio & PalodeAgua,0.77,0.875,4,-4.441,1,0.0526,0.301,0.0,0.0802,0.728,110.047,228360
+677,4rla9WDOzoJw0IM0arq65n,A Andrés Cepeda le gusta esto,Sufriendo por Amor,Sanalejo,0.668,0.73,0,-8.001,1,0.0712,0.0388,0.0,0.248,0.681,129.351,202270
+678,6l4lxnaMpUOsIqrtXu64o0,A Andrés Cepeda le gusta esto,Emociones,La Derecha,0.561,0.58,9,-7.26,1,0.063,0.243,5.94e-05,0.0714,0.83,184.17,229667
+679,37pK35IDidhQIDR6WORZS1,A Andrés Cepeda le gusta esto,Sexo Con Amor,Superlitio,0.539,0.892,10,-6.496,0,0.0777,0.0791,0.0,0.0747,0.852,180.105,273573
+680,1xuYajTJZh8zZrPRmUaagf,A Andrés Cepeda le gusta esto,"Latinoamérica (feat. Totó la Momposina, Susana Baca & Maria Rita)",Calle 13,0.691,0.805,2,-6.81,0,0.0947,0.59,0.0,0.0975,0.866,142.503,301427
+681,6sFwoSaylA2xmicpVQM42E,A Andrés Cepeda le gusta esto,Mi Pesadilla,Morat,0.516,0.39,4,-7.432,1,0.0394,0.859,0.0,0.12,0.559,93.926,205867
+682,233fktw6sRxoWNK7aYo0mP,De guitarras y voces,Aunque No Quiero - Vivo,Los Caligaris,0.501,0.83,7,-5.811,1,0.0446,0.0882,0.0,0.922,0.48,146.491,213280
+683,4htoV9pXQmKENfn3LIKvVW,De guitarras y voces,Viernes de Webeo - En Vivo,Panteon Rococo,0.338,0.945,7,-8.664,1,0.212,0.0197,0.786,0.496,0.378,199.618,240187
+684,0VV8wkOM4w78A2OHZOTzNP,De guitarras y voces,Live And Let Die - 2018 Remaster,Wings,0.391,0.375,7,-12.573,1,0.046,0.0797,0.013,0.143,0.116,153.802,192773
+685,0FT9hq1HZ46TdMIO0pnHuR,De guitarras y voces,Time To Shine,Queen + Paul Rodgers,0.264,0.627,8,-6.232,1,0.0361,0.389,4.69e-05,0.129,0.241,81.329,262733
+686,6FT83pFXKhDlXDsNJFAHWz,De guitarras y voces,You Never Can Tell,Chuck Berry,0.525,0.852,7,-9.519,1,0.222,0.731,5.11e-05,0.218,0.884,157.404,161907
+687,5g5lurZtBGXooVqshQP3k9,De guitarras y voces,Quiero Cumbia,Los Caligaris,0.639,0.886,11,-4.588,0,0.0377,0.0104,0.0,0.287,0.779,100.018,219150
+688,1RdDDwQ5moanrkdrKFEKoZ,De guitarras y voces,Un Montón de Amor,Los Caligaris,0.77,0.766,0,-5.89,1,0.0309,0.146,0.000113,0.204,0.961,137.962,233296
+689,1lq2OOQB6ayaHvsbWZhtqQ,De guitarras y voces,Ciclo,Simon Grossmann,0.881,0.641,7,-6.11,1,0.0418,0.198,9.55e-05,0.274,0.92,130.055,169141
+690,4cIPLtg1avt2Jm3ne9S1zy,De guitarras y voces,Killer Queen - Remastered 2011,Queen,0.535,0.651,10,-6.326,1,0.0544,0.391,0.0,0.133,0.612,117.218,179600
+691,4DDyybdhC9su038YIG6JDj,De guitarras y voces,So Far Away - Remastered 1996,Dire Straits,0.695,0.461,4,-11.731,1,0.028,0.255,0.169,0.0653,0.718,114.464,306373
+692,7qwLHOo3RImtrkb28eu1En,De guitarras y voces,Willie Whopper,Willie Colón,0.639,0.535,0,-7.398,0,0.0326,0.319,0.0,0.0861,0.593,128.384,160147
+693,1aOxOpH4AkGAd8OMrKjyNY,De guitarras y voces,Why Are Sundays So Depressing,The Strokes,0.579,0.714,0,-4.455,1,0.0347,0.00258,0.0269,0.111,0.299,109.971,275667
+694,5OHbgQbHzTjolHzWffSrvn,De guitarras y voces,Glass in the park,Alex Turner,0.553,0.19,2,-14.961,1,0.0298,0.903,0.000227,0.0993,0.299,100.002,239653
+695,1JbHO0Kx2VsukFk0tEZVJt,De guitarras y voces,"Shake, Rattle And Roll",Chuck Berry,0.648,0.84,0,-10.837,1,0.0635,0.0766,1.42e-06,0.24,0.893,158.776,137573
+696,2yJ5SBKkxC7MLHbrEPFQjK,De guitarras y voces,I Do Really Love You,Chuck Berry,0.639,0.24,7,-15.078,1,0.0356,0.755,0.000907,0.0303,0.856,83.407,150333
+697,6C7aTTCUWRK7dD379yUT3W,De guitarras y voces,Roll Over Beethoven,Chuck Berry,0.715,0.797,3,-10.154,1,0.193,0.837,0.0,0.209,0.841,92.739,144600
+698,0IHYNEHVT1zMEeNOgvyg9B,De guitarras y voces,My Mustang Ford,Chuck Berry,0.621,0.759,0,-10.235,1,0.0335,0.384,0.118,0.336,0.977,162.92,136547
+699,5jSz894ljfWE0IcHBSM39i,De guitarras y voces,Raspberry Beret,Prince,0.761,0.67,2,-12.759,1,0.0438,0.21,0.000426,0.0685,0.91,120.752,215173
+700,2QfiRTz5Yc8DdShCxG1tB2,De guitarras y voces,Johnny B. Goode,Chuck Berry,0.534,0.803,10,-9.129,1,0.0743,0.741,6.07e-05,0.307,0.969,167.983,161560
+701,3dmqIB2Qxe2XZobw9gXxJ6,De guitarras y voces,Mary Jane's Last Dance,Tom Petty and the Heartbreakers,0.464,0.655,7,-9.058,0,0.0608,0.0272,1.34e-06,0.328,0.531,169.515,273600
+702,6xdLJrVj4vIXwhuG8TMopk,De guitarras y voces,Crazy Little Thing Called Love - Remastered 2011,Queen,0.599,0.761,0,-6.887,1,0.0421,0.713,4.74e-06,0.349,0.712,77.015,163373
+703,3yuzb5ntN9laqUXC3Tj0jy,De guitarras y voces,Keep Passing The Open Windows - Remastered 2011,Queen,0.503,0.798,5,-6.155,1,0.0618,0.142,0.000106,0.14,0.63,160.787,321040
+704,2xGO2UjzxeVQSIkyg98vck,De guitarras y voces,Thank God It's Christmas - Non-Album Single,Queen,0.296,0.421,7,-8.891,1,0.0285,0.214,0.0,0.232,0.335,83.425,261627
+705,0c6nzXnJx04uNt4HunPqGB,De guitarras y voces,Is This The World We Created...? - Remastered 2011,Queen,0.394,0.209,1,-12.611,1,0.0373,0.826,0.0,0.121,0.167,79.286,134293
+706,0LLVng76exXBW3zdm9sAUv,De guitarras y voces,Machines (Or Back To Humans) - Remastered 2011,Queen,0.623,0.931,0,-6.102,1,0.0786,0.0578,0.00621,0.385,0.381,111.516,307080
+707,0KUSMBpldIsIXAIDC3TkwJ,De guitarras y voces,It's A Hard Life - Remastered 2011,Queen,0.42,0.599,3,-6.188,1,0.0291,0.422,0.0,0.159,0.299,82.336,246973
+708,2AkmdLbVKS1steeZdy8H1l,De guitarras y voces,I Want To Break Free - Single Remix,Queen,0.795,0.435,4,-8.927,1,0.0324,0.0841,0.00026,0.0763,0.596,108.95,258013
+709,7c6vMsLCd1O9vOlLFd8Ezz,De guitarras y voces,Is This The World We Created...? - Live In Rio / January 1985,Queen,0.244,0.296,1,-10.537,1,0.037,0.819,0.0,0.179,0.0663,77.325,182547
+710,38hqm4uhpXF8WWIh2PhKx1,De guitarras y voces,Hammer To Fall - Headbanger's Mix,Queen,0.407,0.862,9,-4.822,1,0.0968,0.289,0.00569,0.097,0.468,128.643,318080
+711,3na3OqxgUzZymsUWO0CDDY,De guitarras y voces,Tear It Up - Remastered 2011,Queen,0.506,0.87,2,-5.05,1,0.0626,0.172,0.0,0.132,0.304,90.12,204627
+712,4gxs9En3aoaOm2J5wNMMm9,De guitarras y voces,I Feel Fine - Remastered 2009,The Beatles,0.588,0.811,7,-7.299,1,0.0448,0.339,4.06e-06,0.412,0.802,89.862,140400
+713,0SaKhiBPgdRaQKA7Bxu3ek,De guitarras y voces,Putita,Babasónicos,0.477,0.753,0,-6.112,1,0.0343,0.514,0.00381,0.17,0.521,178.013,225707
+714,5YyetAy34sgROhslaW3BZc,De guitarras y voces,Frijolero,Molotov,0.774,0.653,2,-4.304,1,0.0361,0.107,0.0,0.0609,0.845,95.009,210133
+715,5NMJBgmG9ObrKwf4geqIjY,De guitarras y voces,Pong,Piel Camaleón,0.7,0.692,9,-5.326,1,0.0402,0.0624,0.0,0.0617,0.895,99.991,208505
+716,5h6u7bYQ67roYVVBOuhrf4,De guitarras y voces,Síndrome de Fregoli,LosPetitFellas,0.537,0.919,8,-6.793,1,0.441,0.00955,1.12e-05,0.183,0.405,190.247,187427
+717,4SlGfTlNnFpn3eaHIPGRLC,De guitarras y voces,The Sun (feat. JAWNY),Myd,0.741,0.737,5,-6.667,0,0.0348,0.077,0.0,0.408,0.835,126.024,159427
+718,2kUaQv15d6Uh86lqwejWn6,De guitarras y voces,Oye,La Derecha,0.584,0.9,0,-8.09,1,0.0463,0.00119,0.000638,0.283,0.802,139.92,157003
+719,1Q5kgpp4pmyGqPwNBzkSrw,De guitarras y voces,Roadhouse Blues,The Doors,0.623,0.633,9,-8.212,1,0.0304,0.336,4.6e-05,0.147,0.895,121.119,243827
+720,3RZMzCvYsmJ0u2ioKTOsmJ,De guitarras y voces,Honky Tonk Women - Mono Version,The Rolling Stones,0.562,0.779,7,-6.705,1,0.0592,0.363,0.0292,0.066,0.967,119.602,179387
+721,7F6pMP39RL3eLP4SDTDHbm,De guitarras y voces,Awkward,San Cisco,0.589,0.867,6,-5.791,0,0.106,0.0765,8.19e-05,0.108,0.903,161.899,153960
+722,6k3GZGZksbEf7k3nmEDfjP,De guitarras y voces,Son Iguales,Habana Abierta,0.832,0.695,2,-7.861,1,0.0333,0.339,0.0,0.0992,0.777,129.953,260280
+723,7GpLrSiwgo8MdbhlYMiDE5,De guitarras y voces,Como Soy Cubano,Habana Abierta,0.758,0.93,11,-7.119,0,0.0571,0.349,0.000739,0.0896,0.67,117.935,328267
+724,1BmCHEhtAe8TXWGjPxlPwy,De guitarras y voces,La Novia de Superman,Habana Abierta,0.741,0.68,4,-8.932,0,0.0769,0.214,0.0,0.101,0.88,89.96,252720
+725,3HzZIN8oncO0hw3FhtYGBX,De guitarras y voces,Lo Bueno No Sale Barato,Habana Abierta,0.751,0.841,9,-6.898,1,0.0504,0.198,4.3e-06,0.302,0.725,103.977,244013
+726,0qYsta9iTDMNLKNg8JnKKt,De guitarras y voces,Los Chicos Sí Lloran,Diamante Eléctrico,0.694,0.696,4,-7.21,0,0.0544,0.153,0.136,0.126,0.676,95.014,222963
+727,5v27lNcQobl03uE8bk97FF,De guitarras y voces,Alma en Pedazos,Superlitio,0.509,0.699,9,-7.827,0,0.0286,0.00679,9.33e-05,0.377,0.322,173.948,249522
+728,7w9jjtBMEtPyYPZnQ1EV4n,De guitarras y voces,Fragil al Viento,Kraken,0.472,0.684,2,-3.889,0,0.0292,0.0701,0.0,0.252,0.247,128.045,297745
+729,7nzsY8vlnKdvGOEE0rjAXZ,De guitarras y voces,Arabella,Arctic Monkeys,0.579,0.558,2,-6.986,1,0.0895,0.0202,1.26e-06,0.212,0.506,179.949,207357
+730,17IrhV0fINXu3GCA3Ssz4Y,De guitarras y voces,Tot Està per Fer,Acció,0.786,0.597,4,-6.735,0,0.0341,0.192,2.37e-05,0.152,0.752,124.035,240131
+731,7HW5WIw7ZgZORCzUxv5gW5,De guitarras y voces,Don't Go Breaking My Heart,Elton John,0.729,0.844,5,-8.824,1,0.0344,0.149,2.87e-06,0.0604,0.777,131.459,275440
+732,43DeSV93pJPT4lCZaWZ6b1,De guitarras y voces,The Boys Are Back In Town,Thin Lizzy,0.445,0.706,8,-9.803,1,0.0461,0.234,0.000252,0.205,0.768,80.823,266720
+733,4nISKMNTbWKrZpGFI44pIz,De guitarras y voces,Fuerza Natural,Gustavo Cerati,0.481,0.8,2,-7.477,1,0.0292,0.0158,0.04,0.385,0.534,78.228,289947
+734,1yKAqZoi8xWGLCf5vajroL,De guitarras y voces,The Ghost of You,My Chemical Romance,0.202,0.886,11,-3.805,0,0.0816,0.0286,0.0,0.643,0.192,145.781,194253
+735,2d6m2F4I7wCuAKtSsdhh83,De guitarras y voces,Famous Last Words,My Chemical Romance,0.467,0.883,2,-3.679,0,0.106,0.000321,0.000152,0.125,0.309,122.252,299227
+736,2ZihONVMMqAbEFpGHU9VdF,De guitarras y voces,Vestido De Cristal,Kraken,0.589,0.469,4,-12.244,0,0.0268,0.201,3.95e-06,0.169,0.514,97.136,296160
+737,0a7BloCiNzLDD9qSQHh5m7,De guitarras y voces,"Dance, Dance",Fall Out Boy,0.622,0.961,11,-3.198,0,0.154,0.00523,0.0,0.0854,0.449,114.452,180267
+738,53TJ2iMpVLYt77TapqGfbY,De guitarras y voces,Detener,Rucus,0.34,0.51,8,-8.698,0,0.0328,0.404,0.0386,0.125,0.449,103.235,220915
+739,3HABXJxDp5x4jIWaQruTj5,De guitarras y voces,Así Es el Amor,Doctor Krápula,0.639,0.89,7,-6.398,1,0.0556,0.013,5.06e-06,0.684,0.767,147.964,259840
+740,2BJy5YrRMhVCqaLNY5cbv2,De guitarras y voces,Free,Donavon Frankenreiter,0.793,0.464,5,-6.624,1,0.0386,0.112,0.0,0.109,0.851,124.994,148600
+741,744799eTMLuWvK25vgDiXw,De guitarras y voces,El Mareo,Bajofondo,0.613,0.93,11,-5.704,0,0.0882,0.101,0.404,0.101,0.472,130.019,275040
+742,51UhZz0VDJlN1AuB117zOv,De guitarras y voces,Escapemos,Tijuana Love,0.817,0.724,11,-8.455,0,0.0357,0.174,0.0,0.141,0.925,124.055,280853
+743,7yhrQs8ZJt8AagfxRDawvD,De guitarras y voces,Si Te Mueres Mañana - Sesión en Vivo,Kanaku y El Tigre,0.485,0.769,8,-6.054,1,0.0642,0.0266,0.000303,0.227,0.583,151.774,270230
+744,3G9LCcTMWIcm30KZq1Jf6z,De guitarras y voces,Maria Claudia,Piel Camaleón,0.792,0.701,2,-5.795,1,0.0455,0.193,0.000802,0.0269,0.762,111.978,156641
+745,3GjV8p1bTXFOk8mrTffCgZ,De guitarras y voces,Los Otros,LosPetitFellas,0.566,0.718,7,-6.986,1,0.325,0.0823,0.0,0.0727,0.567,77.439,294080
+746,1ZBJ3u8cUW9HlcXCEibqAh,De guitarras y voces,Jaguar E-Type,Piel Camaleón,0.631,0.656,9,-6.334,1,0.0398,0.0303,2.24e-05,0.174,0.6,119.943,206525
+747,0pwIDa9neFJEN1RJ1mvj5G,De guitarras y voces,Boca E' Caimán,Los Elefantes,0.769,0.575,9,-9.6,1,0.038,0.148,0.0,0.0485,0.963,129.943,251880
+748,6cO3H592rPALlR3XoUG0P9,De guitarras y voces,El Puñal,La Derecha,0.649,0.765,11,-6.878,0,0.0453,0.188,0.00307,0.0937,0.319,100.04,263390
+749,6PzJVcCOi6kQuB7R6NNvz2,De guitarras y voces,No Se Va,LosPetitFellas,0.404,0.366,8,-7.768,0,0.105,0.146,0.0,0.0813,0.586,175.825,252512
+750,59LZV0gyCWITCP5QKLH7ac,De guitarras y voces,1143 Tomates Contigo,Doctor Krápula,0.614,0.816,0,-4.878,1,0.209,0.269,0.0,0.226,0.903,73.237,231667
+751,36QXkiZ3fDsFqzvEZiYEUG,De guitarras y voces,Dylan por Nosotros,La Derecha,0.558,0.732,9,-9.27,1,0.1,0.00409,0.00884,0.113,0.317,105.68,203299
+752,1uOt9b7BJ7c8NN4i1ZKPK1,De guitarras y voces,Perdóname,Superlitio,0.709,0.724,7,-7.855,0,0.0671,0.11,0.000188,0.0958,0.63,87.987,240533
+753,42mjQVcQnlbF3zMAEZKJYA,De guitarras y voces,Ay Qué Dolor,La Derecha,0.657,0.789,6,-8.625,0,0.0423,0.0866,0.000302,0.112,0.923,108.62,250100
+754,0ZtPZUQziFJCdfQp0uaEPd,De guitarras y voces,Champetrónica (feat. Obie P),Superlitio,0.613,0.879,9,-7.914,0,0.0878,0.00027,8.95e-05,0.0435,0.769,143.02,240360
+755,5q5pVXewBtGUE3usjMgRXd,De guitarras y voces,El Tiempo Perdido,Quemarlo Todo Por Error,0.141,0.754,9,-9.117,1,0.0447,0.422,0.748,0.101,0.449,96.878,354869
+756,7BRafDqV3qhXzNgVoWSHTk,De guitarras y voces,Ruido,La Derecha,0.771,0.67,2,-9.047,0,0.103,0.0943,0.00563,0.0731,0.298,92.066,331240
+757,6khJ74gcRyxv2RyEgKuxhZ,De guitarras y voces,"Me Odia, Me Ama",Don Tetto,0.584,0.895,0,-2.929,1,0.0533,0.00325,5.02e-05,0.0756,0.514,144.895,188889
+758,1qzE2UdX78oxxdwrWID8cC,De guitarras y voces,El Verano,Nicolás y los Fumadores,0.393,0.533,6,-11.477,1,0.0346,0.0558,2.84e-06,0.0535,0.472,81.721,328795
+759,5MWK4Zyg7g9kSeJYVob21M,De guitarras y voces,Media Luna,Los Amigos Invisibles,0.729,0.627,0,-8.46,1,0.0292,0.00735,0.00605,0.204,0.914,124.005,264253
+760,5kM06D6o06iTiDngyN3tYP,De guitarras y voces,A Quemarropa,LosPetitFellas,0.641,0.666,5,-7.4,0,0.203,0.0586,0.0,0.283,0.608,82.951,234159
+761,7odya8sKbjnOmkMD35tmXQ,De guitarras y voces,RIDFG,LosPetitFellas,0.585,0.727,1,-5.073,1,0.197,0.0172,2.76e-06,0.357,0.845,166.052,193306
+762,4jSpcVMnm3GR96Ix7rh70g,De guitarras y voces,La Causa,LosPetitFellas,0.589,0.746,11,-7.054,0,0.361,0.0388,0.0,0.106,0.354,88.362,270307
+763,0119K2IZigzqfDcXpzn0Ai,De guitarras y voces,El Cielo,LosPetitFellas,0.432,0.612,9,-6.596,0,0.24,0.14,1.76e-06,0.0852,0.658,160.788,316859
+764,6ByzUcDnovDewBJnqXIt2C,De guitarras y voces,Los Otros,LosPetitFellas,0.568,0.718,7,-6.986,1,0.324,0.0807,0.0,0.0722,0.552,77.377,294080
+765,4rla9WDOzoJw0IM0arq65n,De guitarras y voces,Sufriendo por Amor,Sanalejo,0.668,0.73,0,-8.001,1,0.0712,0.0388,0.0,0.248,0.681,129.351,202270
+766,6l4lxnaMpUOsIqrtXu64o0,De guitarras y voces,Emociones,La Derecha,0.561,0.58,9,-7.26,1,0.063,0.243,5.94e-05,0.0714,0.83,184.17,229667
+767,37pK35IDidhQIDR6WORZS1,De guitarras y voces,Sexo Con Amor,Superlitio,0.539,0.892,10,-6.496,0,0.0777,0.0791,0.0,0.0747,0.852,180.105,273573
+768,6lMmEPTbkiVeWixfw34yIF,De guitarras y voces,Desde Que Te Perdí,Kevin Johansen,0.403,0.607,11,-12.348,0,0.0832,0.737,0.0234,0.71,0.389,88.166,282493
+769,5ZG83RxgtxxTKfXQ3TmhT0,De guitarras y voces,Padre Nuestro - Remasterizado 2008,Los Fabulosos Cadillacs,0.794,0.759,4,-5.766,0,0.274,0.391,0.0,0.0809,0.94,106.093,213867
+770,1zXlvviNTbLxqObjMhDeEx,De guitarras y voces,Delirio,Los Makenzy,0.562,0.621,10,-5.023,0,0.0456,0.00943,0.000101,0.0352,0.813,78.016,210379
+771,7k0WEFc0gENgXo9EfCEZux,De guitarras y voces,De Lo Oscuro a Lo Puro,Sebastián Yepes,0.771,0.862,11,-10.052,0,0.0398,0.0533,0.0,0.132,0.961,96.006,210693
+772,22e6sT2Pu8kXpJeItO0xGg,De guitarras y voces,My Game,Deluxe,0.79,0.726,1,-4.919,1,0.0604,0.25,0.0,0.0787,0.889,114.953,215411
+773,1SjigB481kOFIspp6ZhlmQ,De guitarras y voces,Una Sonrisa al Atardecer,Akash,0.616,0.653,3,-3.052,0,0.0269,0.02,0.0,0.101,0.262,111.971,404867
+774,0E8qIw6KblOtDQYzzHQrxL,De guitarras y voces,Como Tú (Magic Music Box),León Larregui,0.568,0.903,0,-7.647,1,0.0982,0.000292,0.724,0.0764,0.762,122.604,232120
+775,4ahWVoHIxMfoLksp36A1mf,De guitarras y voces,Ultra-Funk,Los Amigos Invisibles,0.667,0.903,0,-6.451,1,0.0398,0.0141,0.00915,0.309,0.823,109.463,218667
+776,4cSJ0IFl4xE7bukdMVyoI8,De guitarras y voces,Sigamos Caminando,Don Tetto,0.457,0.707,6,-4.436,1,0.0355,0.487,0.0,0.0914,0.257,168.004,219747
+777,6yFINQXuZLwCLgfHCtv2sv,De guitarras y voces,Perro Come Perro,Superlitio,0.631,0.832,7,-3.914,1,0.108,0.0275,0.00166,0.907,0.675,170.042,197335
+778,709ffFK4o4MtG1NKoLvOma,De guitarras y voces,Major Tom (Coming Home),Peter Schilling,0.787,0.42,4,-14.32,0,0.0645,0.153,0.164,0.169,0.838,161.247,301373
+779,2gpQi3hbcUAcEG8m2dlgfB,De guitarras y voces,Plan A,Paulo Londra,0.583,0.834,0,-4.875,1,0.0444,0.0495,0.0,0.0658,0.557,173.935,178203
+780,4SbZlzsA3uHMZiUk5Zqtsu,De guitarras y voces,Lamento Porteño,El Caribefunk,0.839,0.797,1,-6.68,0,0.0479,0.213,2.73e-05,0.117,0.595,119.479,196756
+781,6hu1f1cXSw7OAqhpSQ2zDy,De guitarras y voces,Dazed and Confused - 1990 Remaster,Led Zeppelin,0.271,0.553,2,-9.526,1,0.0472,0.044,0.0096,0.0999,0.433,86.762,386373
+782,4OFpQOhQgHVzHbl69EabdZ,Cowboy,Lejos de Casa,Antidoping,0.898,0.591,2,-8.536,1,0.0384,0.0327,0.0,0.0466,0.968,128.05,234773
+783,6004tMws4nCQqtGBaInsF0,Cowboy,Chilanga banda,Café Tacvba,0.66,0.607,8,-8.168,1,0.157,0.14,0.0,0.279,0.425,183.917,212067
+784,0VV8wkOM4w78A2OHZOTzNP,Cowboy,Live And Let Die - 2018 Remaster,Wings,0.391,0.375,7,-12.573,1,0.046,0.0797,0.013,0.143,0.116,153.802,192773
+785,1lq2OOQB6ayaHvsbWZhtqQ,Cowboy,Ciclo,Simon Grossmann,0.881,0.641,7,-6.11,1,0.0418,0.198,9.55e-05,0.274,0.92,130.055,169141
+786,0NHt6ZbsksyTlwTcCeWDxk,Cowboy,Mambo Con Boogaloo,La-33,0.693,0.806,0,-7.206,1,0.0647,0.53,0.000415,0.146,0.865,155.144,253120
+787,6cdslY3YKjh7pImxFhSBVG,Cowboy,Settle Down,Kimbra,0.763,0.666,0,-6.34,1,0.0537,0.0791,2.98e-06,0.0733,0.449,93.994,241507
+788,5rdDVT2OI1x8it6QgMhek2,Cowboy,Jazzy,Willie Colón,0.446,0.734,0,-10.14,1,0.0356,0.805,0.705,0.0721,0.96,110.28,245960
+789,42GuKw49pPxNAkIhWGwgFs,Cowboy,Body Paint,Arctic Monkeys,0.556,0.315,7,-11.651,0,0.0625,0.568,0.0,0.0774,0.256,143.327,290584
+790,7DPhusadsTZ2VrXOGcuX2y,Cowboy,I Ain’t Quite Where I Think I Am,Arctic Monkeys,0.544,0.337,10,-9.846,1,0.0653,0.357,6.34e-05,0.085,0.667,192.685,191174
+791,1gvfdGCA5QHnLL6TJj4N5a,Cowboy,Leap Frog,Charlie Parker,0.416,0.685,5,-10.761,1,0.0648,0.726,0.0595,0.0932,0.721,164.801,148400
+792,5UCnz9Q6GSFLl6oeCSaSSZ,Cowboy,Bandolera,Héctor Lavoe,0.594,0.562,2,-9.38,0,0.0339,0.752,7.29e-05,0.168,0.72,105.795,574800
+793,71aOTq3nhkebf6zJxVMoZx,Cowboy,El Vendedor Que No Fia,Tito Rojas,0.68,0.798,5,-4.032,1,0.0311,0.382,0.0,0.0586,0.963,98.72,294627
+794,7wqh2WCkFMgS3hejAZosd8,Cowboy,La luz,Sonex,0.756,0.938,7,-7.382,1,0.0653,0.198,0.000415,0.0309,0.866,100.5,284120
+795,6xepovPqjvrkEw9Y5AMmTm,Cowboy,Lambada - Original Version 1989,Kaoma,0.756,0.8,5,-5.158,1,0.0329,0.211,0.000724,0.0466,0.967,118.924,207467
+796,6wszmCHeHNQNVBnBSAyl9X,Cowboy,Por Ahora,El Kuelgue,0.737,0.715,11,-7.485,0,0.0628,0.14,0.0,0.0927,0.631,121.917,206133
+797,2kSc33d2kleICMfJ1IAwnw,Cowboy,Waterguns,Caravan Palace,0.722,0.596,4,-6.1,1,0.0458,0.584,0.0,0.188,0.794,97.508,210280
+798,7uvaAkNt835m6iPWoWc703,Cowboy,Paraphernalia,Miles Davis,0.487,0.422,0,-13.061,1,0.0469,0.376,0.0284,0.378,0.342,125.98,756133
+799,6oXOuc9sV4CHsAaZY6XyjS,Cowboy,Koko,Charlie Parker's Beboppers,0.549,0.512,5,-8.301,0,0.036,0.93,0.196,0.0771,0.575,148.721,176840
+800,2TvXEmAg9M7XbEMoYgfORy,Cowboy,Fire,La-33,0.467,0.801,7,-5.125,1,0.121,0.756,8.25e-06,0.354,0.718,168.449,142993
+801,2WABPhoT8arU264l7e8sdc,Cowboy,Me Parece Perfecto,La Mambanegra,0.673,0.794,7,-5.116,1,0.0395,0.188,0.00476,0.176,0.503,119.995,345822
+802,4qzOWxATzkBZ6OEPmX45xE,Cowboy,Good Bait,Dizzy Gillespie,0.537,0.461,0,-8.615,0,0.0367,0.688,0.243,0.0535,0.747,131.075,180960
+803,3upgttvhruFLbG344id0oc,Cowboy,Constellation,Charlie Parker,0.48,0.468,0,-12.855,0,0.126,0.863,0.00999,0.342,0.857,84.529,146600
+804,5hzBfWRccowwIig0Aeqob1,Cowboy,Passport,Charlie Parker,0.437,0.344,0,-15.468,1,0.101,0.899,0.0703,0.187,0.844,200.642,177600
+805,2FdS0qZKu1X5d7s8lYP37t,Cowboy,Ornithology - Live - Storyville,Charlie Parker,0.601,0.407,11,-13.615,0,0.0532,0.833,0.055,0.133,0.737,116.426,265853
+806,2QP17zdbzlAaFNd5Bp7Ll0,Cowboy,Sugar Hips,J.C. Heard,0.59,0.2,0,-12.765,1,0.0445,0.939,0.285,0.131,0.857,139.941,171907
+807,2QblGB2oC9PXz5JldRCkmt,Cowboy,Tautology,Lennie Tristano,0.624,0.444,7,-7.891,0,0.0382,0.792,0.0103,0.303,0.781,117.493,164613
+808,2P91JIkBSJ6eg6vdj8NPgZ,Cowboy,Parallel,Lennie Tristano,0.527,0.389,6,-10.716,0,0.037,0.993,0.856,0.123,0.77,110.084,147920
+809,1fr6e309SFCvmKmbzKy7dX,Cowboy,Focus,Tadd Dameron & His Orchestra,0.46,0.235,5,-14.289,1,0.0345,0.961,0.874,0.164,0.653,174.745,182027
+810,5CuD5wCHs8QfEYn6nUJi4f,Cowboy,Free Man,Screaming Headless Torsos,0.675,0.913,8,-5.307,1,0.0527,0.0133,0.00895,0.367,0.697,116.441,267853
+811,4U0gBPfjAzs7V0IR6UhOM6,Cowboy,Travelling Without Moving - Remastered,Jamiroquai,0.67,0.96,1,-9.371,0,0.0596,0.0179,0.64,0.122,0.605,126.312,220080
+812,4LkJXlCD9AYjScPywhUjZs,Cowboy,Dynamite,Jamiroquai,0.85,0.707,1,-6.026,0,0.0604,0.0642,3.49e-06,0.139,0.706,114.387,295400
+813,4pNiE4LCVV74vfIBaUHm1b,Cowboy,Sir Duke,Stevie Wonder,0.588,0.568,6,-9.766,1,0.0672,0.16,0.0,0.0792,0.952,106.938,232760
+814,385MtwO57oRK3pMDt0lj9c,Cowboy,Les pions se révoltent,Cissy Street,0.742,0.87,0,-8.083,1,0.0569,0.0169,0.888,0.124,0.964,107.824,235724
+815,0RtNG9yEhEWId2c9KsYN4Z,Cowboy,Bare Necessities,The Jive Aces,0.786,0.617,5,-8.16,1,0.0753,0.322,1.28e-06,0.0576,0.898,107.718,128332
+816,5L5S8FbCTNfsl3tsaLHBvk,Cowboy,Pera vrechi,The Speakeasies' Swing Band!,0.734,0.707,8,-6.892,1,0.0746,0.739,0.0,0.187,0.816,110.101,199347
+817,5t7XfP2hjyaBrAges7rPeL,Cowboy,Swingin' on Nothin',Jonathan Stout and his Campus Five,0.726,0.253,5,-13.873,0,0.0482,0.821,0.0,0.25,0.718,123.665,225080
+818,6HdWaXQzYG4Q7kpKkjJaly,Cowboy,Siempre Happy,Habana Abierta,0.501,0.32,5,-10.78,1,0.0413,0.862,0.0,0.109,0.413,103.142,330467
+819,2heG20ThfguqAgUXNsy7dT,Cowboy,Una Broma Seria,Habana Abierta,0.802,0.568,0,-9.843,1,0.05,0.427,1.06e-05,0.315,0.718,103.99,182640
+820,460e8voeb8mHQA8kl4AQMq,Cowboy,La Explosión (Instrumental) - Ao Vivo,Irakere,0.565,0.564,7,-12.871,0,0.0418,0.41,0.417,0.742,0.77,104.579,517107
+821,7qV9aXGYDuKpBSGXxQqjQj,Cowboy,La Cosquillita,Qva Libre,0.78,0.818,11,-8.635,0,0.108,0.193,0.0,0.919,0.738,107.946,252400
+822,0HD5gvrDsRp4tAsMFxTzJ3,Cowboy,Así Se Siente,Temple Sour,0.516,0.571,3,-8.117,0,0.0411,0.285,0.0,0.113,0.577,151.847,276827
+823,0usm8p309eb1kUDBy26u3t,Cowboy,I Want Your Lovin’ - Edit,Whilk & Misky,0.725,0.522,6,-8.108,0,0.0702,0.895,0.0703,0.135,0.878,91.996,200392
+824,1qROMoGOaag7LrXhukbDRZ,Cowboy,Bemba Colorá - Live,Fania All Stars,0.506,0.8,5,-5.684,0,0.134,0.635,0.00385,0.959,0.839,119.452,712920
+825,3mohgPZas4iMx0aiuH1AIl,Cowboy,Big Ugly,Snarky Puppy,0.51,0.728,7,-7.082,1,0.0304,0.0288,0.887,0.109,0.349,143.952,549219
+826,0TGLRGD4ZRp6sM5jy8EOjR,Cowboy,Soy El Rey,Pete Rodriguez,0.51,0.643,5,-6.415,1,0.0369,0.77,0.00346,0.251,0.599,109.527,185547
+827,0XKLusi3tWRd7MNizZfkPg,Cowboy,Yardbird Suite,Charlie Parker,0.792,0.256,0,-14.313,1,0.0963,0.954,0.904,0.298,0.833,106.914,175733
+828,4OhNdo11639YkCcQqNlIQh,Cowboy,Summertime,Art Blakey Quartet,0.424,0.4,2,-10.783,0,0.0426,0.638,1.32e-06,0.0993,0.56,175.768,278000
+829,5MjUkhqCpr5uZ39xZmLZxe,Cowboy,Me And Those Dreamin' Eyes Of Mine,D'Angelo,0.511,0.402,4,-10.695,0,0.219,0.702,0.00014,0.11,0.503,83.339,286800
+830,45guHTKluUtKZcdtMD8NWR,Cowboy,"Atchafalaya - Live From Dordrecht, Het Energiehuis / 2014",Snarky Puppy,0.43,0.675,10,-10.513,0,0.306,0.163,0.891,0.685,0.645,202.522,364387
+831,3eF71UnYYqNBCrPQQYrJxj,Cowboy,The World is Getting Smaller,Snarky Puppy,0.698,0.427,9,-14.092,1,0.258,0.453,0.787,0.0812,0.174,114.422,355173
+832,4jJk08lhFJFl4dGlOnInmq,Cowboy,Belmont,Snarky Puppy,0.438,0.422,9,-10.412,0,0.0304,0.168,0.695,0.0981,0.154,144.847,389047
+833,0B3DaPjUGC4T7SzWZ1VO1Q,Cowboy,La Pantera Mambo,La-33,0.539,0.697,2,-4.836,0,0.0537,0.324,0.000542,0.193,0.841,135.04,254229
+834,0q7dCoFz7QlS7vWwcuzQEO,Cowboy,Billet doux,Tchavolo Schmitt,0.758,0.47,7,-11.574,1,0.0633,0.924,0.8,0.105,0.599,110.789,224853
+835,5whsPGYSk2FMFCkluUkp6I,Cowboy,Coucou,Tchavolo Schmitt,0.909,0.4,7,-11.863,1,0.101,0.932,0.953,0.0813,0.772,103.171,176387
+836,2yzyvggVHHtSN3H57lFHuR,Cowboy,Avalon,Gustav Lundgren Trio,0.861,0.466,5,-11.811,1,0.257,0.896,0.858,0.215,0.897,125.664,126330
+837,3s2ZEQikW0gd16Oi5gjmA1,Cowboy,Re Run,Kamasi Washington,0.453,0.806,1,-7.241,0,0.0712,0.406,0.638,0.105,0.403,116.12,499640
+838,0njmnBpLGilNBHJZhaJjKs,Cowboy,"Gee, Baby, Ain't I Good To You?",Ella Fitzgerald,0.652,0.246,8,-11.332,1,0.0532,0.865,0.0,0.115,0.532,85.658,252213
+839,6sK644HYqkBsoy8cLpLENA,Cowboy,I'Ll Be Fine,fatsO,0.624,0.436,9,-5.975,1,0.0308,0.53,0.000519,0.0905,0.455,109.792,335187
+840,1UwP0GRuC1LEH7DpR3c0tY,Cowboy,Bonita,Los Choclok,0.611,0.493,7,-7.93,0,0.0527,0.497,1.2e-05,0.0588,0.544,107.142,304917
+841,5xhdx3wVzVGi1ch20eWhJt,Cowboy,Llorarás,Salsangroove,0.733,0.805,1,-7.239,0,0.0787,0.309,0.00382,0.124,0.494,93.02,381360
+842,3LSkkKOlknlT97LvIjZr4i,Cowboy,Me Gusta - Versión Funk,Sanalejo,0.69,0.582,0,-10.14,1,0.03,0.27,8.3e-05,0.17,0.726,127.017,218747
+843,59LZV0gyCWITCP5QKLH7ac,Cowboy,1143 Tomates Contigo,Doctor Krápula,0.614,0.816,0,-4.878,1,0.209,0.269,0.0,0.226,0.903,73.237,231667
+844,6TmDCcJAQ6uJZ1GP4AoZlu,Cowboy,Mujer Divina,Salsangroove,0.726,0.677,5,-6.981,0,0.0416,0.43,0.0178,0.121,0.267,94.01,303013
+845,4fjAwglloV7DpTCIk8d8YM,Cowboy,Chica buena,Interactivo,0.846,0.663,9,-5.713,0,0.211,0.714,4.16e-06,0.326,0.712,97.99,329267
+846,0dDiYaZsD2gnf7AxUJQXMB,Cowboy,Me Gusta Boogaloo,German Villareal,0.692,0.781,1,-4.023,1,0.0625,0.553,0.119,0.0385,0.958,197.007,188000
+847,1qAMY7p9Z9KuZxlZ6jjOXu,Cowboy,La Salsa Nunca Se Acaba (The Salsa Never Ends),Susie Hansen,0.854,0.753,4,-5.815,0,0.0746,0.485,0.00148,0.0643,0.921,99.109,297667
+848,7DM5k4ql2H94jNn0kN0SaU,Cowboy,Clap Your Hands,Whilk & Misky,0.823,0.638,4,-11.364,0,0.055,0.232,0.211,0.0961,0.382,117.984,305532
+849,0e7tqfuxXB9ig8QLmwkmLT,Cowboy,Calle Luna Calle Sol,Toño Barrio,0.57,0.788,8,-8.096,1,0.0552,0.172,0.00187,0.0821,0.927,93.066,269250
+850,6rrkQDUI4i7V4uG9U4Othk,Cowboy,Whiplash,Don Ellis,0.487,0.637,5,-11.754,1,0.0506,0.12,0.631,0.0765,0.811,100.564,269996
+851,2Oo76xvoCSe70i0hRwaFK6,Cowboy,Máquina de Enojos,Habana Abierta,0.77,0.647,2,-8.38,0,0.108,0.294,0.0,0.0994,0.624,91.066,218133
+852,7exCBOwlqRbyoITYlDU9qd,Cowboy,Mamacita Mi Conga,Interactivo,0.864,0.812,7,-5.481,1,0.0626,0.249,4.85e-05,0.256,0.897,95.006,220593
+853,6X4f2HyaLrwTVi5juD27jY,Cowboy,Stereo,BoomBox,0.887,0.408,2,-10.89,1,0.116,0.118,0.254,0.076,0.555,111.015,346000
+854,09jscLcwa4usINbtfzo5FL,Cowboy,When You Gonna Learn?,Jamiroquai,0.651,0.925,5,-3.389,0,0.053,0.12,0.0,0.057,0.658,106.286,230053
+855,3aJBJ4DAfTknfkzbd0G9Um,Cowboy,Jennifer Del Estero,Illya Kuryaki & The Valderramas,0.947,0.808,9,-4.178,1,0.0523,0.177,0.0183,0.086,0.958,112.028,295813
+856,639bK2ycLsANSasf3y5eG5,Cowboy,Café Paola,Habana Abierta,0.465,0.316,11,-13.216,1,0.0419,0.571,0.000435,0.122,0.308,127.978,303453
+857,4WxNlM6U3xhGB8oysjtDGm,Cowboy,Te Daré,Calacas Jazz Band,0.804,0.239,9,-10.033,1,0.0502,0.552,1.84e-05,0.113,0.519,120.087,218480
+858,2qXwXciJwW4Qdg7KDesOCQ,Cowboy,Alguien Como Tú,Jósean Log,0.717,0.685,4,-10.224,0,0.105,0.427,0.000101,0.204,0.479,120.086,225747
+859,7suB6D6uKX5DfPukdGaz0W,Cowboy,Fly As Me,Bruno Mars,0.783,0.627,2,-8.521,1,0.102,0.00756,0.0,0.0606,0.48,100.025,219389
+860,22e6sT2Pu8kXpJeItO0xGg,Cowboy,My Game,Deluxe,0.79,0.726,1,-4.919,1,0.0604,0.25,0.0,0.0787,0.889,114.953,215411
+861,257TcEjqsqs0pXPwVxQUoB,Cowboy,L.O.V.E.,Harrison Craig,0.588,0.412,11,-6.226,0,0.0363,0.72,0.0,0.153,0.703,74.961,158493
+862,7nJc3vqcU2em6FH0c3Geox,Cowboy,Birdland,Weather Report,0.585,0.565,0,-12.139,1,0.0372,0.484,0.0226,0.0808,0.577,156.208,358400
+863,74jklVKHYTmNMp0baGm6FB,Cowboy,I've Got You Under My Skin,Frank Sinatra,0.585,0.371,1,-7.398,1,0.036,0.508,0.0,0.0957,0.625,127.291,222147
+864,0rytuJ6PtOgVAzbzzkiv29,Cowboy,Tiahuanaco (Puerta Del Sol),Alfredo Linares,0.6,0.865,9,-3.755,0,0.0415,0.191,0.719,0.11,0.87,95.305,215247
+865,72DXqfZ5hHMFcb8W4kgUwz,Cowboy,Blind Faith,Haywyre,0.54,0.176,3,-13.944,0,0.0805,0.99,0.947,0.0943,0.148,110.776,174452
+866,0KSIKwUw3wgbWQbMsRjyAw,Cowboy,Tu Silueta,El Niño y la Verdad,0.745,0.904,7,-3.141,1,0.0471,0.528,0.000149,0.0685,0.809,92.484,264760
+867,62Q6bnB2PzTFLqfpq2DYrB,Cowboy,Epilogue,Justin Hurwitz,0.407,0.276,7,-11.606,1,0.0426,0.668,0.817,0.519,0.116,127.841,460841
+868,3auegbHlex889iJcOR3b92,Cowboy,Audition (The Fools Who Dream),Emma Stone,0.327,0.128,2,-12.569,0,0.0596,0.742,0.0,0.298,0.346,78.912,252340
+869,46AqogC1jSpTJkXJnNc7Yz,Cowboy,Someone In The Crowd,Emma Stone,0.611,0.545,0,-9.043,0,0.206,0.106,1.31e-05,0.114,0.229,127.975,259377
+870,28uTV1xcMTcIPTsKVbyhFV,Cowboy,Electric Sunrise,Plini,0.343,0.629,8,-7.939,1,0.0532,0.0244,0.908,0.11,0.226,95.835,305000
+871,3v3VFa7Dt32gNR27jfw7DG,Cowboy,40oz,Polyphia,0.597,0.845,1,-7.803,0,0.0335,0.00267,0.173,0.203,0.63,140.005,233819
+872,0BE86KuNuUl4MHE5zZFR2V,Cowboy,Sweet Tea,Polyphia,0.334,0.963,10,-5.967,1,0.229,1.55e-05,0.864,0.327,0.438,195.067,260001
+873,0NQX8uIipe2SbgjgKyfq59,Cowboy,Loud,Polyphia,0.536,0.739,5,-6.071,0,0.0302,0.00148,0.19,0.123,0.17,89.991,237832
+874,5l3WNlq4rag0fFP0TI9qeJ,Cowboy,The Worst,Polyphia,0.656,0.696,4,-5.935,0,0.0438,0.118,0.45,0.161,0.4,124.922,245779
+875,3nBGFgfRQ8ujSmu5cGlZIU,Cowboy,Playing God,Polyphia,0.601,0.789,4,-6.822,0,0.0328,0.0395,0.812,0.114,0.315,137.06,205926
+876,0Qj7PB41b6XgkApKPwDy1r,Cowboy,Ego Death (feat. Steve Vai),Polyphia,0.655,0.763,2,-5.202,0,0.0526,0.0374,0.678,0.0703,0.445,128.028,350086
+877,0ajJYhORqGaKmQDMkmFu84,Cowboy,Conflict Cartography,Animals As Leaders,0.265,0.982,7,-4.529,1,0.179,6.51e-05,0.839,0.21,0.373,139.65,300080
+878,6gZhmhlrI2fBKWzcEgCIOw,Cowboy,Gestaltzerfall,Animals As Leaders,0.558,0.939,7,-6.402,1,0.0584,0.00173,0.797,0.111,0.195,110.008,286360
+879,6AhwAWzSlISc5ZvGonkgdN,Cowboy,Playing God,Polyphia,0.601,0.789,4,-6.822,0,0.0328,0.0395,0.812,0.114,0.315,137.06,205926
+880,1W5zSvAeIXlw6odInPE4m5,Cowboy,Reverie,Polyphia,0.553,0.824,4,-5.261,0,0.055,0.00185,0.82,0.305,0.608,150.122,242694
+881,7y7v9K8sIqumnROmdsJg4W,Cowboy,Was lange währt - Instrumental,Equilibrium,0.382,0.974,0,-5.983,1,0.05,1.33e-05,0.848,0.385,0.231,94.991,310514
+882,21rpBPAlXAvBavvu5kCQzs,Deep in Rain,After Midnight,Phoenix,0.618,0.811,11,-6.654,1,0.0322,0.00245,0.199,0.0779,0.779,100.01,191733
+883,32aNloyjcFTw3ST8fkEVUX,Deep in Rain,Amuleto,Maréh,0.809,0.226,4,-13.294,1,0.0708,0.754,2.29e-06,0.104,0.677,77.478,229693
+884,233fktw6sRxoWNK7aYo0mP,Deep in Rain,Aunque No Quiero - Vivo,Los Caligaris,0.501,0.83,7,-5.811,1,0.0446,0.0882,0.0,0.922,0.48,146.491,213280
+885,5r1m7xqUFnlShwbSwzEiv7,Deep in Rain,No estes triste,Zona Ganjah,0.784,0.796,4,-4.596,0,0.0513,0.664,0.0,0.84,0.737,123.044,270947
+886,1eQU5ex4RcVjz55hWPeJzc,Deep in Rain,Momento,Los Cafres,0.72,0.693,2,-6.226,1,0.088,0.18,9.19e-06,0.0626,0.713,86.983,349520
+887,2uPrbZ9AYj1TZCAu04h7HV,Deep in Rain,Road Trippin',Red Hot Chili Peppers,0.378,0.474,4,-8.202,0,0.0271,0.28,0.00138,0.117,0.38,102.379,204960
+888,7jcXQXxo0lvpwg2twqJpqc,Deep in Rain,Quiero Que Me Llames,Conociendo Rusia,0.665,0.839,1,-4.383,1,0.0375,0.254,2.75e-06,0.249,0.636,123.982,258107
+889,3vKynMGZSCaBPKjqXudzk9,Deep in Rain,Old Friends,Circa Waves,0.677,0.413,9,-11.139,1,0.0301,0.084,0.0404,0.309,0.313,146.102,202800
+890,1zNXF2svmdlNxfS5XeNUgr,Deep in Rain,Don't Know Why,Norah Jones,0.745,0.219,5,-11.216,1,0.0276,0.851,1.8e-05,0.0678,0.635,88.609,186251
+891,44ZKnfWEkp7wPs035j4Tua,Deep in Rain,Casio,Jungle,0.816,0.492,10,-7.464,0,0.0752,0.431,0.0896,0.0995,0.765,115.989,234370
+892,2X33D3wMAX35Atf7dQmkpU,Deep in Rain,Corazón Boomerang,Habana Abierta,0.797,0.537,0,-6.958,1,0.0356,0.348,0.0,0.132,0.577,129.979,254160
+893,1BmCHEhtAe8TXWGjPxlPwy,Deep in Rain,La Novia de Superman,Habana Abierta,0.741,0.68,4,-8.932,0,0.0769,0.214,0.0,0.101,0.88,89.96,252720
+894,0qYsta9iTDMNLKNg8JnKKt,Deep in Rain,Los Chicos Sí Lloran,Diamante Eléctrico,0.694,0.696,4,-7.21,0,0.0544,0.153,0.136,0.126,0.676,95.014,222963
+895,5v27lNcQobl03uE8bk97FF,Deep in Rain,Alma en Pedazos,Superlitio,0.509,0.699,9,-7.827,0,0.0286,0.00679,9.33e-05,0.377,0.322,173.948,249522
+896,29rBJWizgnVht4qXpHyDxh,Deep in Rain,Willing & Able,Disclosure,0.571,0.632,5,-6.884,0,0.752,0.252,0.0,0.104,0.943,199.987,292760
+897,3eg6Yi9x0gN3k4nD4h6il3,Deep in Rain,Dos Gardenias,Buena Vista Social Club,0.547,0.2,4,-16.734,0,0.0392,0.826,3.84e-05,0.135,0.551,91.768,182973
+898,47haQcqBOue2RAsVXER52f,Deep in Rain,Historia de un Amor,Eydie Gormé,0.61,0.336,2,-11.797,0,0.0327,0.843,0.0,0.0677,0.622,100.735,150867
+899,3Uz1KaJF1jegGuaBfQG3A7,Deep in Rain,Autorretrato,El Kanka,0.571,0.37,0,-8.382,1,0.0858,0.67,0.0,0.0977,0.473,197.831,216600
+900,388JfAKCHRw3lw6J2dNJ0T,Deep in Rain,Como el Agua,Lianna,0.407,0.344,8,-9.852,0,0.066,0.684,8.37e-06,0.104,0.715,75.744,232646
+901,1bBmF5nqaoyKKFXPT60pUg,Deep in Rain,Café,Sonex,0.518,0.668,11,-9.255,0,0.195,0.308,1.58e-05,0.0337,0.813,171.0,226427
+902,1obcIZHLcmTxNJGTM1FtY6,Deep in Rain,Ruthless,YOUNGTONES,0.791,0.954,2,-3.766,0,0.113,0.235,0.0,0.237,0.871,94.052,217574
+903,3GjV8p1bTXFOk8mrTffCgZ,Deep in Rain,Los Otros,LosPetitFellas,0.566,0.718,7,-6.986,1,0.325,0.0823,0.0,0.0727,0.567,77.439,294080
+904,6cO3H592rPALlR3XoUG0P9,Deep in Rain,El Puñal,La Derecha,0.649,0.765,11,-6.878,0,0.0453,0.188,0.00307,0.0937,0.319,100.04,263390
+905,6PzJVcCOi6kQuB7R6NNvz2,Deep in Rain,No Se Va,LosPetitFellas,0.404,0.366,8,-7.768,0,0.105,0.146,0.0,0.0813,0.586,175.825,252512
+906,4l5OJLb3AsvfEyeAYAJHpe,Deep in Rain,Venga Mi Vida,Juanafé,0.698,0.542,9,-5.923,0,0.0276,0.639,0.000261,0.104,0.724,88.058,311453
+907,5nISWLGbT8qsZ3YKiQ8BFr,Deep in Rain,Sí,La Toma,0.721,0.294,4,-12.079,1,0.0741,0.716,0.0,0.148,0.705,140.052,202104
+908,5q5pVXewBtGUE3usjMgRXd,Deep in Rain,El Tiempo Perdido,Quemarlo Todo Por Error,0.141,0.754,9,-9.117,1,0.0447,0.422,0.748,0.101,0.449,96.878,354869
+909,2Oo76xvoCSe70i0hRwaFK6,Deep in Rain,Máquina de Enojos,Habana Abierta,0.77,0.647,2,-8.38,0,0.108,0.294,0.0,0.0994,0.624,91.066,218133
+910,3lfWaQLyg71Uar9gAgFVWV,Deep in Rain,Casi Te Envidio,Andy Montañez,0.67,0.567,7,-10.418,1,0.0888,0.496,0.0,0.0703,0.883,95.926,321200
+911,4HtaHPURmO7mjq0yvg7cr1,Deep in Rain,Llegué hasta ti,Muerdo,0.685,0.87,2,-7.992,1,0.0479,0.328,9.85e-05,0.119,0.513,98.006,194102
+912,0KTuF71wDKCYOonE6iqDC3,Deep in Rain,Mis Huellas En Tus Manos (feat. Fonseca),Sebastián Yepes,0.553,0.6,1,-6.772,0,0.034,0.562,1.24e-06,0.0955,0.769,93.883,249160
+913,1qzE2UdX78oxxdwrWID8cC,Deep in Rain,El Verano,Nicolás y los Fumadores,0.393,0.533,6,-11.477,1,0.0346,0.0558,2.84e-06,0.0535,0.472,81.721,328795
+914,5MWK4Zyg7g9kSeJYVob21M,Deep in Rain,Media Luna,Los Amigos Invisibles,0.729,0.627,0,-8.46,1,0.0292,0.00735,0.00605,0.204,0.914,124.005,264253
+915,3mRZH1thweyDzlMROernZk,Deep in Rain,Canela (Radio Edit) [Duck Sessions],César Mora,0.562,0.285,7,-11.616,0,0.0395,0.719,0.0,0.124,0.738,98.345,296897
+916,2qXwXciJwW4Qdg7KDesOCQ,Deep in Rain,Alguien Como Tú,Jósean Log,0.717,0.685,4,-10.224,0,0.105,0.427,0.000101,0.204,0.479,120.086,225747
+917,1FFwPJxL60iQPSmXK81t6q,Deep in Rain,Entre Luca Y Juan Mejía,Vicente Garcia,0.863,0.7,2,-5.04,1,0.0408,0.811,0.327,0.176,0.923,122.945,227013
+918,0119K2IZigzqfDcXpzn0Ai,Deep in Rain,El Cielo,LosPetitFellas,0.432,0.612,9,-6.596,0,0.24,0.14,1.76e-06,0.0852,0.658,160.788,316859
+919,4pryE6cN2gFL1FVF5fYINl,Deep in Rain,Leave The Door Open,Bruno Mars,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,242096
+920,4rla9WDOzoJw0IM0arq65n,Deep in Rain,Sufriendo por Amor,Sanalejo,0.668,0.73,0,-8.001,1,0.0712,0.0388,0.0,0.248,0.681,129.351,202270
+921,6l4lxnaMpUOsIqrtXu64o0,Deep in Rain,Emociones,La Derecha,0.561,0.58,9,-7.26,1,0.063,0.243,5.94e-05,0.0714,0.83,184.17,229667
+922,3XpXrx227vTZkjhcj7tIXF,Deep in Rain,Carro de Fuego,Guayacán Orquesta,0.743,0.703,2,-5.761,0,0.0641,0.259,0.000364,0.0197,0.847,179.913,271177
+923,0z4BiYZ95vmjSu3WDaEki8,Deep in Rain,Eres,Grupo Niche,0.726,0.825,7,-7.946,0,0.0398,0.49,0.00138,0.0586,0.882,167.004,268573
+924,4ubwzNjqHGaZZ5k06PDx1H,Deep in Rain,Sin Sentimientos,Grupo Niche,0.607,0.622,2,-9.433,0,0.0354,0.414,0.0,0.176,0.66,82.777,293893
+925,6lMmEPTbkiVeWixfw34yIF,Deep in Rain,Desde Que Te Perdí,Kevin Johansen,0.403,0.607,11,-12.348,0,0.0832,0.737,0.0234,0.71,0.389,88.166,282493
+926,1zXlvviNTbLxqObjMhDeEx,Deep in Rain,Delirio,Los Makenzy,0.562,0.621,10,-5.023,0,0.0456,0.00943,0.000101,0.0352,0.813,78.016,210379
+927,1gPxb91i6uDfHJL7K0ZSxT,Deep in Rain,Noche de Arreboles,Joe Arroyo,0.657,0.827,7,-4.838,0,0.0788,0.785,4.68e-05,0.0597,0.762,94.439,247400
+928,0E8qIw6KblOtDQYzzHQrxL,Deep in Rain,Como Tú (Magic Music Box),León Larregui,0.568,0.903,0,-7.647,1,0.0982,0.000292,0.724,0.0764,0.762,122.604,232120
+929,6Utgn4AcEjxHvGBYKUVeyv,Deep in Rain,6:00 a.m.,Santiago Cruz,0.807,0.578,2,-6.472,1,0.032,0.794,3.21e-05,0.168,0.623,96.038,250307
+930,3heEZDyPJhxNUfnI3bE9Hu,Deep in Rain,No Es Casual,Andrés Cepeda,0.611,0.766,0,-5.079,1,0.0495,0.498,0.0,0.0961,0.841,154.044,211461
+931,3ImM4OW5DAs91JVoReV6m6,Deep in Rain,Incomprendido,Ismael Rivera,0.546,0.642,0,-2.533,1,0.0395,0.712,2.47e-06,0.0797,0.832,169.073,176880
+932,4cSJ0IFl4xE7bukdMVyoI8,Deep in Rain,Sigamos Caminando,Don Tetto,0.457,0.707,6,-4.436,1,0.0355,0.487,0.0,0.0914,0.257,168.004,219747
+933,2l9l2sUyStglyl5nsJ2lde,Deep in Rain,Entre Tejados,Samuraï,0.756,0.509,0,-8.092,1,0.0388,0.433,5.11e-05,0.0961,0.283,127.965,170640
+934,1lRyZDsGGOm8fFRhaz0un4,Deep in Rain,When I Am With You,Warhaus,0.682,0.534,1,-7.704,0,0.0452,0.253,0.657,0.0565,0.603,159.876,337700
+935,4AwJSk491AvHk2AAJReGzZ,Deep in Rain,Let Me Go,Daniel Caesar,0.601,0.481,7,-8.366,0,0.0634,0.689,0.0033,0.109,0.484,152.994,216524
+936,5sQGo3fB2NoFalyy4uZjiu,Deep in Rain,Ojalá,Silvio Rodríguez,0.526,0.235,7,-14.074,0,0.0991,0.907,4.44e-06,0.111,0.377,91.24,212482
+937,5yIVcrwQXdIlDgTMc8pa6z,Deep in Rain,Contigo,Joaquín Sabina,0.49,0.418,2,-10.773,1,0.0572,0.0309,2.02e-05,0.0615,0.226,98.507,279267
+938,1A6Kwtsg3JWKU2KWM2udpM,Deep in Rain,I'm Not In Love,10cc,0.394,0.663,4,-11.117,1,0.0601,0.678,0.00156,0.212,0.21,133.464,368227
+939,5UvNaP0WEOLc5FKJfkjm5n,Deep in Rain,Juan Tenorio,Grupo Fantasma,0.722,0.64,5,-4.735,0,0.0373,0.727,0.0245,0.547,0.832,80.02,317293
+940,6Sl43DQImydxqzdJL4QRlc,Deep in Rain,Indeleble,Sanalejo,0.605,0.32,9,-9.443,1,0.0268,0.877,0.0,0.108,0.455,108.891,260960
+941,77AzAvK1ztYLDrHPt8Lv0f,Deep in Rain,Bachata Rosa,Natalie Cole,0.658,0.414,9,-8.522,1,0.0311,0.79,2.64e-06,0.199,0.51,111.904,242200
+942,6xWHnAyVncKpBQ4EYEhaG6,Deep in Rain,Yesterday Once More,Carpenters,0.467,0.366,4,-12.928,1,0.0249,0.366,0.0,0.0547,0.259,83.103,239360
+943,4WcflQcgsmYXyynZ9Yenfe,Deep in Rain,Talullah,Jamiroquai,0.714,0.724,2,-8.106,0,0.0521,0.378,3.28e-05,0.13,0.962,154.425,362067
+944,5FuHY7AFXfylJjj9ySZzUc,Deep in Rain,Antes de Morir Ft. Denise Gutierrez (Scratches Dj Pho),LosPetitFellas,0.665,0.72,8,-7.551,1,0.24,0.297,0.0,0.0701,0.608,91.695,282160
+945,563EHELbGcAwXlAHbWmK3f,Deep in Rain,La trama y el desenlace,Jorge Drexler,0.579,0.491,11,-7.965,0,0.0342,0.0936,5.7e-05,0.119,0.721,150.005,246013
+946,6eEnycLcdQWSkgg12wjN4o,Deep in Rain,Me Vas a Hacer Falta,Monsieur Periné,0.71,0.393,5,-9.495,0,0.0447,0.685,0.000271,0.322,0.63,85.033,240973
+947,3BCayFOh2xF0AuYjcWgSVd,Deep in Rain,Nada Personal,Juan Pablo Vega,0.695,0.729,4,-5.648,1,0.0348,0.732,0.000336,0.226,0.561,114.929,281960
+948,3kfXwiFSsdqyWG5C7PULIZ,Deep in Rain,Desde Que Te Perdí,Kevin Johansen,0.634,0.443,4,-14.729,1,0.0765,0.709,0.00355,0.128,0.579,90.073,228413
+949,2Ae1gF5FPNlCZ4zATObW1e,Deep in Rain,Cuando Te Tengo Cerca,Juan Pablo Vega,0.407,0.53,9,-6.947,1,0.0709,0.543,7.05e-06,0.0987,0.664,76.457,281160
+950,5rPAkXDhXFHfdxLjMwY1V9,Deep in Rain,Ese Pum Pata Pum,Cinemacinco,0.696,0.791,4,-4.133,0,0.0481,0.445,0.000474,0.0873,0.6,161.883,286904
+951,2LyNql7yzPQ8cW4tpWFzVK,Deep in Rain,Llévame en un Beso,Paté de Fuá,0.598,0.323,11,-10.238,0,0.269,0.388,0.00104,0.125,0.86,200.378,303532
+952,7KKd6mLczxaz1Jjnu6ZLBh,Deep in Rain,A Veces,Diamante Eléctrico,0.895,0.542,11,-7.885,0,0.0425,0.604,0.000765,0.116,0.81,110.048,165676
+953,0bsYD4JWWrUqXXUXDi8SYK,Deep in Rain,Guitarra y vos,Jorge Drexler,0.728,0.546,2,-7.405,1,0.189,0.488,0.000395,0.0982,0.64,70.995,235067
+954,6VuUMo1TusnqBxLTnr3hOI,Deep in Rain,Brillas,León Larregui,0.625,0.433,9,-12.963,1,0.0366,0.376,0.00103,0.248,0.274,93.041,226187
+955,4MYOJ2AhfzdoPAjwHg79LS,Deep in Rain,Dos en la ciudad,Fito Paez,0.635,0.632,7,-8.769,1,0.0305,0.0205,8.09e-05,0.197,0.547,103.022,342160
+956,4QPjGYaXenaoyE6cfHyWLh,Deep in Rain,Sabor a Mi,Monsieur Periné,0.693,0.588,4,-12.945,0,0.0606,0.355,0.0704,0.24,0.52,105.971,195749
+957,3hslPoaj7qxX7bS1Pt9lKp,Deep in Rain,Ya No Me Sabe Igual,Andrés Cepeda,0.688,0.906,5,-4.798,1,0.0387,0.335,4.02e-05,0.0625,0.89,94.987,238893
+958,1XLmoMTcipDlIDDvFp90Wn,Deep in Rain,Se Te Nota,Andrés Cepeda,0.691,0.486,7,-5.851,1,0.0948,0.767,1.79e-06,0.0801,0.511,83.706,218573
+959,2ntAdkZxS2HYLNlGPrG43u,Deep in Rain,Así de Grande,Andrés Cepeda,0.669,0.74,9,-6.153,1,0.0409,0.0188,1.19e-06,0.235,0.631,118.007,231973
+960,4lLtanYk6tkMvooU0tWzG8,Deep in Rain,Grenade,Bruno Mars,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,222091
+961,1ciwEfINEBs43X1rf881UB,Deep in Rain,Besos Usados,Andrés Cepeda,0.53,0.574,1,-6.121,0,0.0985,0.75,0.0,0.287,0.374,171.981,234507
+962,0gDrHUizlbFgRKVQeLI595,Deep in Rain,Lo mejor que hay en mi vida,Andrés Cepeda,0.398,0.519,10,-7.812,1,0.0317,0.405,0.0,0.099,0.301,70.396,214920
+963,7dS5EaCoMnN7DzlpT6aRn2,Deep in Rain,Take Me To Church,Hozier,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,241688
+964,5XzmZjXhMjDHr7ZfJ6DELQ,Deep in Rain,FourFiveSeconds,Rihanna,0.579,0.268,2,-5.65,1,0.0442,0.868,0.0,0.12,0.321,205.903,188238
+965,0nJW01T7XtvILxQgC5J7Wh,Deep in Rain,When I Was Your Man,Bruno Mars,0.612,0.28,0,-8.648,1,0.0434,0.932,0.0,0.088,0.387,72.795,213827
+966,1lTXpbq6RFcTvkNVTh8oPh,Deep in Rain,No Vale La Pena,Issac Delgado,0.588,0.908,10,-4.051,0,0.0426,0.225,2.92e-05,0.134,0.96,174.266,283160
+967,2WXizl1YycXNoN2lwVP5Fv,Deep in Rain,El Que Siempre Soñó,Issac Delgado,0.87,0.86,5,-3.373,1,0.0369,0.696,6.66e-06,0.0849,0.922,95.043,323682
+968,1gDZARp2QrP8t2IVrgdSbO,Deep in Rain,Que Nadie Sepa Mi Sufrir,Julio Jaramillo,0.718,0.408,2,-7.662,0,0.152,0.467,0.0,0.0975,0.703,165.061,162640
+969,5t1kk7lxxBjAwm1hOYZX3b,Deep in Rain,Te Esperare,Julio Jaramillo,0.508,0.452,7,-6.49,0,0.0523,0.378,0.0,0.233,0.523,168.918,153653
+970,6BSfZ5AJg5OzUXQfMgCOkI,Deep in Rain,El Aguacate,Julio Jaramillo,0.708,0.252,2,-12.475,0,0.0511,0.876,1.15e-05,0.173,0.718,95.6,181211
+971,2zhfCGN6y15c4ArUHXi9g7,Deep in Rain,This Feeling,Alabama Shakes,0.626,0.333,7,-11.413,1,0.0365,0.824,0.0103,0.107,0.318,130.835,268854
+972,432ZQ4Y80ldZKJQYhEG8xF,Deep in Rain,Older - Live,George Michael,0.522,0.392,2,-13.451,0,0.0302,0.0637,0.000129,0.941,0.108,73.935,347565
+973,51LcPhaclbiR8EAyC76M2L,Deep in Rain,Don't Wanna Fight,Alabama Shakes,0.597,0.915,10,-3.298,0,0.152,0.235,0.0865,0.106,0.555,100.444,232530
+974,1FIopLuSI1am9L8Qfn6YRR,Deep in Rain,Dunes,Alabama Shakes,0.411,0.588,8,-6.103,1,0.0376,0.674,0.0232,0.139,0.398,77.176,257930
+975,6CFJ419mkYr35Vs5D75LzV,Deep in Rain,Future People,Alabama Shakes,0.381,0.768,6,-4.314,0,0.0526,0.0997,0.125,0.0954,0.51,154.213,201612
+976,3DH42U4bDllHWK6tQc4OQF,Deep in Rain,Gimme All Your Love,Alabama Shakes,0.382,0.57,6,-5.261,0,0.044,0.218,0.194,0.316,0.188,100.754,243461
+977,6UIHk7W6LNSRsMmu5hUdjb,Deep in Rain,He pecado (feat. Bunbury y Orishas),Cabas,0.785,0.788,0,-5.857,0,0.0528,0.533,0.0,0.379,0.925,96.998,256107
+978,3X2Aw6bQ7TfMMKsTzjTlDg,Sun is shinning,Waterfall,Disclosure,0.691,0.733,11,-6.887,0,0.0572,0.0212,5.61e-05,0.0894,0.834,128.038,232120
+979,1SssFw74DdHVjRa6ADggdD,Sun is shinning,Sweat (A La La La La Long),Inner Circle,0.787,0.728,0,-7.705,1,0.218,0.0124,0.0,0.157,0.94,173.026,227067
+980,22NcOU25UOwmGlr6kSdFHk,Sun is shinning,Uptown Funk,Tony Succar,0.785,0.852,0,-4.314,1,0.0586,0.484,0.0,0.317,0.89,110.546,187179
+981,1RdDDwQ5moanrkdrKFEKoZ,Sun is shinning,Un Montón de Amor,Los Caligaris,0.77,0.766,0,-5.89,1,0.0309,0.146,0.000113,0.204,0.961,137.962,233296
+982,1lq2OOQB6ayaHvsbWZhtqQ,Sun is shinning,Ciclo,Simon Grossmann,0.881,0.641,7,-6.11,1,0.0418,0.198,9.55e-05,0.274,0.92,130.055,169141
+983,4cIPLtg1avt2Jm3ne9S1zy,Sun is shinning,Killer Queen - Remastered 2011,Queen,0.535,0.651,10,-6.326,1,0.0544,0.391,0.0,0.133,0.612,117.218,179600
+984,2JlyQBk8fOVy7HfNCXrQjQ,Sun is shinning,Sin Prisa,El Caribefunk,0.729,0.684,11,-6.711,1,0.0491,0.482,7.65e-06,0.14,0.807,96.885,191472
+985,0IejbpRLIQS2NezKzMvaZz,Sun is shinning,Cuatro Elementos,El Caribefunk,0.513,0.666,3,-6.954,0,0.0684,0.319,1.48e-06,0.336,0.845,158.079,223258
+986,6sZo5nJIsFWXefRCCexpx0,Sun is shinning,Never Gonna Not Dance Again,P!nk,0.668,0.802,5,-4.005,0,0.0917,0.0273,0.0,0.163,0.769,113.796,225789
+987,1JbHO0Kx2VsukFk0tEZVJt,Sun is shinning,"Shake, Rattle And Roll",Chuck Berry,0.648,0.84,0,-10.837,1,0.0635,0.0766,1.42e-06,0.24,0.893,158.776,137573
+988,6C7aTTCUWRK7dD379yUT3W,Sun is shinning,Roll Over Beethoven,Chuck Berry,0.715,0.797,3,-10.154,1,0.193,0.837,0.0,0.209,0.841,92.739,144600
+989,2QfiRTz5Yc8DdShCxG1tB2,Sun is shinning,Johnny B. Goode,Chuck Berry,0.534,0.803,10,-9.129,1,0.0743,0.741,6.07e-05,0.307,0.969,167.983,161560
+990,1PckUlxKqWQs3RlWXVBLw3,Sun is shinning,About Damn Time,Lizzo,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,191822
+991,1l4iQsOZ5sOXZPMQLvouaB,Sun is shinning,Coast (feat. Anderson .Paak),Hailee Steinfeld,0.701,0.875,11,-4.1,1,0.0757,0.0262,7.32e-06,0.137,0.84,111.976,166720
+992,7wqh2WCkFMgS3hejAZosd8,Sun is shinning,La luz,Sonex,0.756,0.938,7,-7.382,1,0.0653,0.198,0.000415,0.0309,0.866,100.5,284120
+993,6xdLJrVj4vIXwhuG8TMopk,Sun is shinning,Crazy Little Thing Called Love - Remastered 2011,Queen,0.599,0.761,0,-6.887,1,0.0421,0.713,4.74e-06,0.349,0.712,77.015,163373
+994,2AkmdLbVKS1steeZdy8H1l,Sun is shinning,I Want To Break Free - Single Remix,Queen,0.795,0.435,4,-8.927,1,0.0324,0.0841,0.00026,0.0763,0.596,108.95,258013
+995,3na3OqxgUzZymsUWO0CDDY,Sun is shinning,Tear It Up - Remastered 2011,Queen,0.506,0.87,2,-5.05,1,0.0626,0.172,0.0,0.132,0.304,90.12,204627
+996,5NMJBgmG9ObrKwf4geqIjY,Sun is shinning,Pong,Piel Camaleón,0.7,0.692,9,-5.326,1,0.0402,0.0624,0.0,0.0617,0.895,99.991,208505
+997,1riwPlXQvWOsfT79y0eGQn,Sun is shinning,Bailando,Pedro Pastor,0.626,0.916,7,-6.555,1,0.055,0.574,7.29e-05,0.36,0.791,130.032,154520
+998,2kUaQv15d6Uh86lqwejWn6,Sun is shinning,Oye,La Derecha,0.584,0.9,0,-8.09,1,0.0463,0.00119,0.000638,0.283,0.802,139.92,157003
+999,7F6pMP39RL3eLP4SDTDHbm,Sun is shinning,Awkward,San Cisco,0.589,0.867,6,-5.791,0,0.106,0.0765,8.19e-05,0.108,0.903,161.899,153960
+1000,4pNiE4LCVV74vfIBaUHm1b,Sun is shinning,Sir Duke,Stevie Wonder,0.588,0.568,6,-9.766,1,0.0672,0.16,0.0,0.0792,0.952,106.938,232760
+1001,0RtNG9yEhEWId2c9KsYN4Z,Sun is shinning,Bare Necessities,The Jive Aces,0.786,0.617,5,-8.16,1,0.0753,0.322,1.28e-06,0.0576,0.898,107.718,128332
+1002,5X4EAUGRDw6U7D057evbQs,Sun is shinning,Asere ¿Qué Volá?,Habana Abierta,0.771,0.86,2,-6.534,1,0.0464,0.426,0.0,0.1,0.849,112.041,278187
+1003,4ZXfTIeCdWBuZCbKgicVcY,Sun is shinning,Bailala Bien,Habana Abierta,0.8,0.858,4,-8.329,1,0.11,0.559,4.3e-05,0.103,0.951,118.011,207080
+1004,7GpLrSiwgo8MdbhlYMiDE5,Sun is shinning,Como Soy Cubano,Habana Abierta,0.758,0.93,11,-7.119,0,0.0571,0.349,0.000739,0.0896,0.67,117.935,328267
+1005,3oauXpkAKyzYWkAiZAkVUH,Sun is shinning,Que Pasa Loco ?,Issac Delgado,0.735,0.728,0,-9.033,1,0.0574,0.249,1.64e-05,0.0622,0.956,87.655,378070
+1006,17IrhV0fINXu3GCA3Ssz4Y,Sun is shinning,Tot Està per Fer,Acció,0.786,0.597,4,-6.735,0,0.0341,0.192,2.37e-05,0.152,0.752,124.035,240131
+1007,0y0OzmGNjmaTHTKyZUGwY5,Sun is shinning,Me Resbala,Integracion Casanova,0.926,0.786,2,-2.903,1,0.126,0.145,0.00019,0.321,0.696,97.994,236487
+1008,7HW5WIw7ZgZORCzUxv5gW5,Sun is shinning,Don't Go Breaking My Heart,Elton John,0.729,0.844,5,-8.824,1,0.0344,0.149,2.87e-06,0.0604,0.777,131.459,275440
+1009,0j1Fh9m0wZbvTIl8xIlSKH,Sun is shinning,Pa'lante y Pa'tras - Remix,N'Klabe,0.763,0.853,0,-5.326,1,0.0584,0.622,1.67e-06,0.273,0.961,171.985,213000
+1010,4adPgo19PueMLIF65DLgVE,Sun is shinning,Pa La Pared,Darell,0.798,0.805,5,-6.787,0,0.139,0.384,0.0,0.559,0.87,94.946,257684
+1011,7bkjK7dGUaRtJEsBiSUQOO,Sun is shinning,Bámbula,La Tribu de Abrante,0.727,0.515,10,-11.812,0,0.204,0.284,0.0,0.0557,0.888,91.919,296629
+1012,35uxk7hvSZBfEgScbcagZI,Sun is shinning,Cometas,Bacalao Men,0.606,0.802,2,-4.985,1,0.0363,0.662,3e-05,0.369,0.95,179.06,256880
+1013,5jr6pG3khBcBXZRm8NogSe,Sun is shinning,Baby I'm Yours,Breakbot,0.831,0.794,2,-3.701,0,0.0752,0.705,3.4e-05,0.0978,0.735,118.075,215787
+1014,2iHr1co9ElgzHredwMNKOy,Sun is shinning,Siente El Boom,"Tito ""El Bambino""",0.804,0.745,4,-5.805,0,0.0744,0.112,0.0,0.0924,0.512,95.024,188733
+1015,0a7BloCiNzLDD9qSQHh5m7,Sun is shinning,"Dance, Dance",Fall Out Boy,0.622,0.961,11,-3.198,0,0.154,0.00523,0.0,0.0854,0.449,114.452,180267
+1016,2tTmW7RDtMQtBk7m2rYeSw,Sun is shinning,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,198938
+1017,2SDx0PooHZI1SQKR0y44bs,Sun is shinning,Grace Kelly,MIKA,0.675,0.828,0,-5.799,1,0.0454,0.0242,0.0102,0.364,0.669,122.229,187733
+1018,2pGrvFiWSrqw2POyEEeFui,Sun is shinning,Como Mi Salsa Ninguna,Pirulo y la Tribu,0.739,0.816,7,-4.885,1,0.0575,0.326,0.000922,0.0965,0.925,161.887,381160
+1019,17LtI912llWpVFvDaDCcW7,Sun is shinning,Bugalú Pa' Mi Abuela,Spanglish Fly,0.671,0.866,2,-3.684,1,0.0549,0.656,0.000245,0.0701,0.981,87.028,179861
+1020,2BJy5YrRMhVCqaLNY5cbv2,Sun is shinning,Free,Donavon Frankenreiter,0.793,0.464,5,-6.624,1,0.0386,0.112,0.0,0.109,0.851,124.994,148600
+1021,69gBnFLDtc2lub6xL0sfi9,Sun is shinning,Por Tu Olor,El Kanka,0.789,0.499,7,-10.111,1,0.0772,0.68,0.00403,0.156,0.786,161.171,221893
+1022,08xgGsYAdYs3Jcdt234xSC,Sun is shinning,Chocolate Con Churro,Habana Abierta,0.74,0.771,2,-7.25,1,0.0365,0.418,0.0,0.0746,0.942,146.053,214253
+1023,3G9LCcTMWIcm30KZq1Jf6z,Sun is shinning,Maria Claudia,Piel Camaleón,0.792,0.701,2,-5.795,1,0.0455,0.193,0.000802,0.0269,0.762,111.978,156641
+1024,1W5notTNkApwcnfgN5YnRG,Sun is shinning,Chango Blanco,Tego Calderón,0.768,0.813,7,-6.056,1,0.0507,0.397,2.74e-05,0.0897,0.966,99.408,311013
+1025,1ZBJ3u8cUW9HlcXCEibqAh,Sun is shinning,Jaguar E-Type,Piel Camaleón,0.631,0.656,9,-6.334,1,0.0398,0.0303,2.24e-05,0.174,0.6,119.943,206525
+1026,6cO3H592rPALlR3XoUG0P9,Sun is shinning,El Puñal,La Derecha,0.649,0.765,11,-6.878,0,0.0453,0.188,0.00307,0.0937,0.319,100.04,263390
+1027,2eEicg2SIEUBetcsoSg1Mf,Sun is shinning,Para Mi,Boogaloo Assassins,0.861,0.764,10,-5.051,1,0.0377,0.646,0.0,0.0803,0.925,125.045,298493
+1028,7fsj6h62aREMAE3tlZK5Uc,Sun is shinning,Mi Caribe,Systema Solar,0.738,0.852,7,-9.816,1,0.0565,0.00665,3.91e-05,0.098,0.631,116.069,206734
+1029,59LZV0gyCWITCP5QKLH7ac,Sun is shinning,1143 Tomates Contigo,Doctor Krápula,0.614,0.816,0,-4.878,1,0.209,0.269,0.0,0.226,0.903,73.237,231667
+1030,42mjQVcQnlbF3zMAEZKJYA,Sun is shinning,Ay Qué Dolor,La Derecha,0.657,0.789,6,-8.625,0,0.0423,0.0866,0.000302,0.112,0.923,108.62,250100
+1031,0ZtPZUQziFJCdfQp0uaEPd,Sun is shinning,Champetrónica (feat. Obie P),Superlitio,0.613,0.879,9,-7.914,0,0.0878,0.00027,8.95e-05,0.0435,0.769,143.02,240360
+1032,3k2qOgZygd9YxrYGqkK6Dj,Sun is shinning,Por Las Buenas,Billo's,0.574,0.562,9,-6.65,0,0.0688,0.162,9.98e-05,0.106,0.853,201.353,155539
+1033,4zOZQdgs7nSjMkqB7keSM5,Sun is shinning,Ojos Chinos,El Gran Combo De Puerto Rico,0.772,0.645,5,-8.32,0,0.0465,0.66,1.45e-05,0.142,0.968,93.876,261333
+1034,7suB6D6uKX5DfPukdGaz0W,Sun is shinning,Fly As Me,Bruno Mars,0.783,0.627,2,-8.521,1,0.102,0.00756,0.0,0.0606,0.48,100.025,219389
+1035,37pK35IDidhQIDR6WORZS1,Sun is shinning,Sexo Con Amor,Superlitio,0.539,0.892,10,-6.496,0,0.0777,0.0791,0.0,0.0747,0.852,180.105,273573
+1036,2rh3BzzunAQfnO7B0nOVYU,Sun is shinning,El Coco,Grupo Niche,0.829,0.838,2,-3.918,1,0.0538,0.696,6.47e-05,0.0741,0.704,96.707,240413
+1037,5P291ICaSH35A86TQzEqhD,Sun is shinning,La Banda (Tributo A Hector Lavoe),Frankie Vazquez,0.536,0.741,5,-8.437,1,0.0346,0.347,2.05e-05,0.331,0.919,111.713,285062
+1038,5yGzJ9gphxtII2eoI1Qj9t,Sun is shinning,Loco Pero Feliz,Pirulo y la Tribu,0.767,0.84,2,-4.205,1,0.0352,0.387,1.01e-06,0.195,0.834,101.103,383040
+1039,1InkcwnYC0hpiCQnb1mELv,Sun is shinning,Feo Pero Sabroso,Louie Ramirez,0.764,0.525,8,-15.856,1,0.0526,0.592,1.2e-05,0.0655,0.87,94.34,311640
+1040,4926s72qsm3WQEFHF62GDB,Sun is shinning,El Sabor de la Guayaba,La Mambanegra,0.716,0.772,5,-4.702,1,0.0348,0.5,0.00231,0.115,0.846,159.998,311127
+1041,47OnQIAx7QHkm1SbfXcjfP,Sun is shinning,Juice - Breakbot Mix,Lizzo,0.779,0.741,0,-5.503,1,0.0961,0.0261,0.0,0.25,0.929,119.971,172453
+1042,6p8Dt5ofRsmwhBSYhDwMRS,Sun is shinning,Arroz Con Habichuela,El Gran Combo De Puerto Rico,0.694,0.697,10,-6.521,0,0.0598,0.298,0.00027,0.0561,0.907,138.244,356640
+1043,6y0Etr2KJr0sdcEp7ajoUK,Sun is shinning,Cosmic Girl - Remastered,Jamiroquai,0.633,0.921,11,-7.719,0,0.0495,0.0261,0.00102,0.309,0.925,119.865,244147
+1044,2RlgNHKcydI9sayD2Df2xp,Sun is shinning,Mr. Blue Sky,Electric Light Orchestra,0.388,0.338,10,-10.054,1,0.0329,0.652,3.73e-06,0.248,0.478,177.765,303373
+1045,6Ac4NVYYl2U73QiTt11ZKd,Sun is shinning,Hooked On A Feeling,Blue Swede,0.547,0.82,8,-6.728,1,0.0805,0.261,0.0,0.3,0.933,118.208,172867
+1046,5yGzJ9gphxtII2eoI1Qj9t,Sun is shinning,Loco Pero Feliz,Pirulo y la Tribu,0.767,0.84,2,-4.205,1,0.0352,0.387,1.01e-06,0.195,0.834,101.103,383040
+1047,0uRr2EBqlCu2CLa8LmQc2c,Sun is shinning,Te Quiero Con Bugalú,iLe,0.702,0.813,0,-5.438,0,0.0288,0.365,0.000434,0.0787,0.889,139.993,249853
+1048,2s3TL6sMAZwaJsUfVAXbFU,Sun is shinning,I Like It Like That,Pete Rodriguez,0.596,0.7,5,-4.911,0,0.0323,0.68,0.000277,0.623,0.926,133.45,265080
+1049,6VTydycDGd62OoZGZ0morB,Sun is shinning,Me Gusta,Sanalejo,0.701,0.706,5,-5.791,1,0.028,0.591,0.00754,0.141,0.838,127.044,219867
+1050,13RP005cDlNlZD23CIRUb1,Sun is shinning,Hoy toca ser feliz,Mägo de Oz,0.569,0.806,7,-4.861,1,0.0292,0.0259,0.0,0.273,0.737,105.082,259947
+1051,0g5zRl16ebc0Fz5Ypiu8V5,Sun is shinning,Never Gonna Give You Up,Barry White,0.614,0.857,2,-8.85,0,0.0859,0.0913,0.0,0.069,0.945,85.125,286315
+1052,65CAR4xohs4mvni3rjbAUY,Sun is shinning,Ay Vida Mía,El Kanka,0.89,0.605,4,-6.99,1,0.0397,0.393,1.9e-06,0.134,0.926,134.957,223773
+1053,155XcCEwMrHE3YcJciCnvi,Sun is shinning,Juanita la Chismosa,El Caribefunk,0.761,0.606,9,-4.686,1,0.0376,0.652,0.0,0.281,0.956,90.028,298451
+1054,0WUfDJeEqscmEuSmvCkXZX,Sun is shinning,Mi Burro,El Caribefunk,0.747,0.837,2,-7.333,1,0.0664,0.497,0.00104,0.127,0.858,122.969,187481
+1055,4na0S4dyXadwQ1pIseS42Q,Sun is shinning,La Chamuyera,El Caribefunk,0.725,0.795,1,-6.795,1,0.0452,0.22,0.0,0.0348,0.962,126.03,203295
+1056,2CD5TesE5cPyhWxXxz3qIE,Sun is shinning,Qué Bello Es Vivir,El Kanka,0.625,0.651,9,-5.092,1,0.0638,0.729,0.0,0.124,0.817,104.566,238760
+1057,5FiB1uNoGZE4PenzZd7Imu,Sun is shinning,Bonito,Jarabe De Palo,0.743,0.965,6,-4.83,0,0.0536,0.211,0.0,0.449,0.741,114.23,254053
+1058,04mq28ok538qTCtlcApfs9,Sun is shinning,Fastidiado De Lo Bien,El Caribefunk,0.764,0.779,11,-7.664,0,0.0594,0.178,0.0,0.179,0.878,112.015,189543
+1059,4Vx5Uk2VezZ7UR9z3HEWJi,Sun is shinning,Yo Voy Ganao,Systema Solar,0.707,0.95,8,-5.8,1,0.0708,0.00368,0.0,0.231,0.748,124.014,323779
+1060,2CtzQv3Kr59CoYrQZggwHR,Sun is shinning,Funky Fiesta,Rawayana,0.791,0.92,0,-5.61,1,0.0445,0.0126,0.0201,0.0595,0.955,120.002,260300
+1061,0C2qACpimuetXmxOj4i2CZ,Sun is shinning,Es el Amor,Systema Solar,0.907,0.522,5,-9.835,1,0.132,0.0342,0.000235,0.043,0.856,109.967,178909
+1062,6258We1xSV3M2oLVMwhirP,Sun is shinning,La Pantera Mambo,La-33,0.782,0.791,0,-6.321,1,0.0383,0.474,0.0012,0.0555,0.819,99.992,374840
+1063,3v1DiW08A2A8SVX3XzSUME,Sun is shinning,Me Gusta,El Kanka,0.769,0.511,2,-9.44,1,0.0908,0.611,5.85e-05,0.179,0.837,102.064,219147
+1064,3XT4PeyYdBCb1qikKv0JS9,Sun is shinning,Rumbera,Systema Solar,0.793,0.834,7,-7.156,1,0.0561,0.0109,0.000343,0.0923,0.858,115.006,212521
+1065,5buBommaU2Fky8bZGd6aLW,Sun is shinning,El Boton del Pantalon,Systema Solar,0.705,0.883,3,-6.487,1,0.0393,0.177,0.000481,0.1,0.845,109.983,311981
+1066,2pQJu37iItuenYXYNSY6St,Sun is shinning,Entre Palmeras,La Garfield,0.853,0.556,7,-5.718,1,0.0632,0.122,0.00131,0.0895,0.873,132.009,258229
+1067,6ukvsBzq4d1vBsAUmz7ZVt,Sun is shinning,Daft Punk,Pentatonix,0.717,0.621,11,-7.588,0,0.0605,0.00403,0.0,0.144,0.72,133.014,248560
+1068,4kbj5MwxO1bq9wjT5g9HaA,Sun is shinning,Shut Up and Dance,WALK THE MOON,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,199080
+1069,5evx5is4W5iLY7A5zv82Ut,Sun is shinning,Qué Pasa Loco,Issac Delgado,0.789,0.727,0,-9.011,1,0.0578,0.252,1.04e-05,0.0676,0.961,87.739,378013
+1070,1yInesqVBwMaW1xT4i0TPz,Sun is shinning,Encanto Tropical,Monsieur Periné,0.624,0.659,11,-7.942,1,0.0986,0.385,2.22e-06,0.388,0.752,182.116,285987
+1071,38tuNK1B1WYVsggS3aDqLf,Guapachoso,Alejate de Mi - Versión Bachata,Camila,0.624,0.731,4,-7.383,1,0.0328,0.0652,2.37e-06,0.285,0.95,145.205,270653
+1072,3H0PlcSmQ6z4DDCBFkD7Wx,Guapachoso,Te Mentiría,La K'onga,0.651,0.731,7,-6.889,1,0.0549,0.116,0.0,0.0708,0.653,153.104,218431
+1073,22NcOU25UOwmGlr6kSdFHk,Guapachoso,Uptown Funk,Tony Succar,0.785,0.852,0,-4.314,1,0.0586,0.484,0.0,0.317,0.89,110.546,187179
+1074,14JmB4k9tBUcS5MYbi8y1M,Guapachoso,Pasaporte,Alexander Abreu,0.607,0.804,4,-5.304,0,0.104,0.418,0.0,0.167,0.694,84.552,300452
+1075,4wL59G4Nur3paBanDT6egw,Guapachoso,La Entrevista - Remasterizado,David Calzado y su Charanga Habanera,0.747,0.954,8,-2.892,1,0.0348,0.135,2.72e-06,0.434,0.87,98.007,292213
+1076,0NHt6ZbsksyTlwTcCeWDxk,Guapachoso,Mambo Con Boogaloo,La-33,0.693,0.806,0,-7.206,1,0.0647,0.53,0.000415,0.146,0.865,155.144,253120
+1077,49vB9ASoiyQH7xXLjwRbQW,Guapachoso,Beyond the Sea,Susie Hansen,0.842,0.701,5,-6.293,1,0.0333,0.217,8.22e-06,0.173,0.948,127.992,296493
+1078,3RCEkrCEWAcL8tk4f0zU63,Guapachoso,Sigue Felíz,Willie Colón,0.712,0.56,0,-10.747,1,0.0592,0.492,0.317,0.202,0.962,105.126,255173
+1079,1fIjc50dmcl9PkH3E4iG4E,Guapachoso,El Malo,Willie Colón,0.596,0.871,0,-6.007,0,0.0496,0.699,5.07e-05,0.0487,0.965,113.947,240147
+1080,16z8r9uBq6V6VkC73QnJkY,Guapachoso,Chonqui,Willie Colón,0.532,0.784,0,-6.883,0,0.0501,0.655,0.000456,0.165,0.775,145.223,250920
+1081,7qwLHOo3RImtrkb28eu1En,Guapachoso,Willie Whopper,Willie Colón,0.639,0.535,0,-7.398,0,0.0326,0.319,0.0,0.0861,0.593,128.384,160147
+1082,0IejbpRLIQS2NezKzMvaZz,Guapachoso,Cuatro Elementos,El Caribefunk,0.513,0.666,3,-6.954,0,0.0684,0.319,1.48e-06,0.336,0.845,158.079,223258
+1083,7dVAPt7flREDferVKMjWOd,Guapachoso,El Area de Noé,Rumbatá,0.823,0.527,0,-11.374,1,0.0591,0.415,1.95e-05,0.299,0.902,95.657,286267
+1084,71aOTq3nhkebf6zJxVMoZx,Guapachoso,El Vendedor Que No Fia,Tito Rojas,0.68,0.798,5,-4.032,1,0.0311,0.382,0.0,0.0586,0.963,98.72,294627
+1085,7wqh2WCkFMgS3hejAZosd8,Guapachoso,La luz,Sonex,0.756,0.938,7,-7.382,1,0.0653,0.198,0.000415,0.0309,0.866,100.5,284120
+1086,055bnEzorPcnlLq1fJqHQK,Guapachoso,Maranguango,El Caribefunk,0.644,0.868,11,-7.254,0,0.0467,0.208,0.000562,0.278,0.843,108.005,169496
+1087,2TvXEmAg9M7XbEMoYgfORy,Guapachoso,Fire,La-33,0.467,0.801,7,-5.125,1,0.121,0.756,8.25e-06,0.354,0.718,168.449,142993
+1088,0DwuNFM9PCFrxQSRDVjmuL,Guapachoso,Vente Negra,Habana con kola,0.594,0.54,7,-5.37,1,0.0581,0.164,8.46e-06,0.176,0.512,84.366,239000
+1089,2WABPhoT8arU264l7e8sdc,Guapachoso,Me Parece Perfecto,La Mambanegra,0.673,0.794,7,-5.116,1,0.0395,0.188,0.00476,0.176,0.503,119.995,345822
+1090,5K2ppB1J3f3E1z4qr2JzMs,Guapachoso,A las Mil y Quinientas,El Taiger,0.884,0.926,5,-4.449,1,0.0503,0.176,0.000342,0.0448,0.882,106.01,139481
+1091,31B1VsFz9TqTki0oEGHRPs,Guapachoso,Sos mi Cura,La Mambanegra,0.708,0.85,8,-3.995,1,0.0709,0.492,0.0,0.127,0.828,84.954,313235
+1092,468KewwnYDaGofS7CHhR3K,Guapachoso,Margie,Ray Barretto,0.484,0.503,5,-9.83,0,0.0868,0.756,1.1e-05,0.144,0.882,98.461,199560
+1093,0TrY3m2S9hlj0FnUa3WhOw,Guapachoso,72 Hacheros Pa' Un Palo,Manolito Simonet y su Trabuco,0.867,0.553,0,-8.709,1,0.0395,0.245,1.87e-05,0.0525,0.948,130.073,219350
+1094,7uQOfh1O1a6IA8g4VWFrd8,Guapachoso,Disco Azúcar,Juan Formell y Los Van Van,0.73,0.855,5,-7.902,1,0.0635,0.678,1.29e-06,0.132,0.861,109.347,324840
+1095,42LFpmFNacf6rAIZqaCiWt,Guapachoso,"Llora, Llora",Tego Calderón,0.729,0.844,10,-7.207,0,0.205,0.288,0.0,0.0839,0.872,94.846,209613
+1096,5X4EAUGRDw6U7D057evbQs,Guapachoso,Asere ¿Qué Volá?,Habana Abierta,0.771,0.86,2,-6.534,1,0.0464,0.426,0.0,0.1,0.849,112.041,278187
+1097,31Pwa4vxNUEtxYQIhZfc3B,Guapachoso,Dime Cuánto - Remasterizado,El Niño y la Verdad,0.705,0.861,5,-6.002,0,0.0419,0.181,0.0,0.0956,0.885,169.957,315520
+1098,7HJlg4JTHFXsfFGXTkkeQq,Guapachoso,Dale Lo Que Lleva (with Maykel Fonts),Maykel Blanco Y Su Salsa Mayor,0.587,0.966,4,-4.955,0,0.0678,0.532,2.68e-06,0.0841,0.901,175.739,302707
+1099,2hYMUJfIeNLMFOaZHX3m6a,Guapachoso,Pa Que Caliente,Michael Stuart,0.86,0.734,7,-6.698,0,0.034,0.519,2.35e-06,0.0508,0.934,123.994,243250
+1100,2HZ67WFKUDZkvYVfjXmfli,Guapachoso,Conga Pá Cerrar,Alexander Abreu,0.795,0.843,4,-4.377,0,0.0643,0.473,1.8e-05,0.135,0.755,124.999,333827
+1101,3oauXpkAKyzYWkAiZAkVUH,Guapachoso,Que Pasa Loco ?,Issac Delgado,0.735,0.728,0,-9.033,1,0.0574,0.249,1.64e-05,0.0622,0.956,87.655,378070
+1102,32c0IGmmv7wAFKYcFQ4mps,Guapachoso,Mi Mulata En La Habana,Maykel Blanco Y Su Salsa Mayor,0.672,0.938,7,-2.299,1,0.0386,0.616,0.0,0.129,0.908,97.111,273520
+1103,1DF9XPespiTUJKh5MRRStG,Guapachoso,Fever,La Lupe,0.506,0.547,0,-6.395,0,0.0527,0.595,1.66e-05,0.099,0.744,98.837,165213
+1104,6Ds9miFD06FwpFdAuqDo0h,Guapachoso,Amor verdadero,Afro-Cuban All Stars,0.591,0.497,2,-11.801,1,0.0397,0.354,7.09e-06,0.136,0.756,136.568,396440
+1105,7xpJQcmsnGG9ojztoCNe54,Guapachoso,Dónde Va Chichi?,Sierra Maestra,0.536,0.72,9,-9.258,1,0.0386,0.0996,0.00023,0.0502,0.838,116.183,313133
+1106,7Cukyed54aN3Cdz0KbI90f,Guapachoso,"Temba, tumba y timba",Mayito Rivera,0.574,0.894,2,-5.971,1,0.0429,0.234,0.0,0.175,0.962,108.128,412000
+1107,5v5BV2fOtSJFbMTlptSxQB,Guapachoso,El Tembla,David Calzado y su Charanga Habanera,0.571,0.898,0,-8.531,1,0.0424,0.442,0.00339,0.263,0.964,98.988,355814
+1108,7qV9aXGYDuKpBSGXxQqjQj,Guapachoso,La Cosquillita,Qva Libre,0.78,0.818,11,-8.635,0,0.108,0.193,0.0,0.919,0.738,107.946,252400
+1109,5Yz6JnzlUxvj8cix5DU6ax,Guapachoso,Olvidar Bailando,La-33,0.672,0.604,0,-6.83,0,0.298,0.632,1.61e-06,0.283,0.632,180.249,187826
+1110,1qROMoGOaag7LrXhukbDRZ,Guapachoso,Bemba Colorá - Live,Fania All Stars,0.506,0.8,5,-5.684,0,0.134,0.635,0.00385,0.959,0.839,119.452,712920
+1111,7Lln3fbuYhNpTQ9IdNXzEW,Guapachoso,El Yerberito Moderno,Sonora Matancera (En Vivo),0.599,0.934,9,-4.673,1,0.0387,0.461,0.00341,0.296,0.805,118.406,244637
+1112,6ijh9JrrEYvXsVl45ohmgJ,Guapachoso,Dulce Habanera,Osvaldo Farrés,0.579,0.737,8,-4.386,1,0.0545,0.187,0.0821,0.0324,0.847,125.542,218547
+1113,0TGLRGD4ZRp6sM5jy8EOjR,Guapachoso,Soy El Rey,Pete Rodriguez,0.51,0.643,5,-6.415,1,0.0369,0.77,0.00346,0.251,0.599,109.527,185547
+1114,0j1Fh9m0wZbvTIl8xIlSKH,Guapachoso,Pa'lante y Pa'tras - Remix,N'Klabe,0.763,0.853,0,-5.326,1,0.0584,0.622,1.67e-06,0.273,0.961,171.985,213000
+1115,7bkjK7dGUaRtJEsBiSUQOO,Guapachoso,Bámbula,La Tribu de Abrante,0.727,0.515,10,-11.812,0,0.204,0.284,0.0,0.0557,0.888,91.919,296629
+1116,5uAUdYqKxwofLV0p47ED5Y,Guapachoso,Cuenta Bien,Edwin Bonilla,0.829,0.83,9,-2.525,0,0.0367,0.37,0.000127,0.145,0.865,120.076,341760
+1117,4U9EIwcQFvQittYAsZq1HQ,Guapachoso,Bobo,C. Tangana,0.826,0.735,11,-4.33,0,0.0383,0.511,2.23e-05,0.258,0.828,124.056,160893
+1118,1dm6z1fWB0cErMszU25dy2,Guapachoso,Después de la Playa,Bad Bunny,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,230400
+1119,1lTXpbq6RFcTvkNVTh8oPh,Guapachoso,No Vale La Pena,Issac Delgado,0.588,0.908,10,-4.051,0,0.0426,0.225,2.92e-05,0.134,0.96,174.266,283160
+1120,1dT90aTETrsgoEADOg18uy,Guapachoso,Merengue de Enramada,Vicente Garcia,0.764,0.613,3,-8.257,0,0.179,0.325,0.0,0.101,0.756,118.172,208973
+1121,7gvrsINoNbkAeI7u7KV1QB,Guapachoso,Papote's Guajira,Los Hacheros,0.477,0.702,9,-5.46,0,0.0288,0.542,0.000193,0.39,0.738,99.362,416027
+1122,4FWdmE0J0qDXdjSo3FFgv5,Guapachoso,Toma Tu Pilon,Los Hacheros,0.576,0.867,6,-6.081,1,0.0576,0.613,0.0,0.155,0.777,104.061,245453
+1123,3kZZDTAz6UrHDsozwt0VlT,Guapachoso,La Conga De Magdalena,Pavel Molina,0.851,0.861,7,-2.525,1,0.0581,0.388,0.0,0.0694,0.726,112.965,314140
+1124,0QiaxF3zxOpFp0W44NYJ4e,Guapachoso,La Calle,Profetas,0.735,0.869,0,-5.798,1,0.0707,0.315,0.0,0.354,0.893,88.044,221645
+1125,0B3DaPjUGC4T7SzWZ1VO1Q,Guapachoso,La Pantera Mambo,La-33,0.539,0.697,2,-4.836,0,0.0537,0.324,0.000542,0.193,0.841,135.04,254229
+1126,3qaHzxjNtFU7QiEuhGx70x,Guapachoso,Sin Fin,Romeo Santos,0.757,0.856,0,-4.494,1,0.0605,0.192,0.0,0.065,0.764,127.993,234667
+1127,1RYGa1FRbsmqc1km08dtSO,Guapachoso,Oye Muñeca,Gabrielito y la Verdad,0.883,0.536,9,-8.055,0,0.0367,0.658,5.23e-05,0.105,0.888,130.029,266829
+1128,2pGrvFiWSrqw2POyEEeFui,Guapachoso,Como Mi Salsa Ninguna,Pirulo y la Tribu,0.739,0.816,7,-4.885,1,0.0575,0.326,0.000922,0.0965,0.925,161.887,381160
+1129,4zCsjPyHGJz8Vx0luwq4M1,Guapachoso,La negra Tomasa,Compay Segundo,0.565,0.623,6,-6.297,0,0.134,0.549,0.0,0.099,0.79,94.641,238413
+1130,3oju61MNrJYKHbPrevcF5S,Guapachoso,No Me Cambie Camino,Ray Barretto,0.73,0.82,10,-6.548,1,0.0411,0.669,0.000219,0.105,0.958,98.428,272907
+1131,17LtI912llWpVFvDaDCcW7,Guapachoso,Bugalú Pa' Mi Abuela,Spanglish Fly,0.671,0.866,2,-3.684,1,0.0549,0.656,0.000245,0.0701,0.981,87.028,179861
+1132,4jw1dCC2aLMYLwwmPdqGln,Guapachoso,Boranda,Sonora Ponceña,0.558,0.437,9,-10.763,0,0.0434,0.785,0.0562,0.173,0.658,92.344,430920
+1133,2SZ7LgvxIHzhrr6lk3vCAp,Guapachoso,Llámame,Ray Barretto,0.752,0.793,8,-6.424,1,0.0359,0.586,0.0019,0.0476,0.955,86.139,334907
+1134,0IPkxdfbTM1m9DM4B6mkIW,Guapachoso,La Receta,Johnny Polanco Y Su Conjunto Amistad,0.857,0.808,8,-5.245,1,0.041,0.493,2.26e-06,0.0904,0.884,96.29,303107
+1135,5HPG44CDiAAEMX8e3TS7Tx,Guapachoso,Mi Maria Luisa,La Tribu de Abrante,0.577,0.757,10,-8.446,0,0.164,0.391,7.5e-05,0.272,0.913,160.716,288720
+1136,1W5notTNkApwcnfgN5YnRG,Guapachoso,Chango Blanco,Tego Calderón,0.768,0.813,7,-6.056,1,0.0507,0.397,2.74e-05,0.0897,0.966,99.408,311013
+1137,4gdISO3RFEVnxJB5uR5rkF,Guapachoso,Yare,Sonora Ponceña,0.555,0.557,8,-9.28,1,0.0365,0.664,0.000813,0.0677,0.701,92.142,351547
+1138,21Ww3CUJF8PJ6zzhbxjoO2,Guapachoso,La Salsa Dura,Spanish Harlem Orchestra,0.597,0.812,0,-6.651,1,0.0332,0.211,0.00217,0.261,0.937,106.501,356267
+1139,3P1I7yZQKx90T3PpMsKdeO,Guapachoso,Cuando Te Veo - Salsa Version,ChocQuibTown,0.663,0.744,11,-5.671,1,0.069,0.426,1.86e-06,0.139,0.808,184.828,224347
+1140,6aO3n7OS7mwG16POvsWsGw,Guapachoso,Ya no sé,Toño Barrio,0.754,0.88,10,-6.502,0,0.0489,0.361,0.000638,0.0725,0.918,99.874,224707
+1141,2eEicg2SIEUBetcsoSg1Mf,Guapachoso,Para Mi,Boogaloo Assassins,0.861,0.764,10,-5.051,1,0.0377,0.646,0.0,0.0803,0.925,125.045,298493
+1142,3exaU0zwq9PgWsMITKfSRI,Guapachoso,La Mojarra,Mojarra Electrica,0.732,0.875,10,-6.538,0,0.0738,0.202,3.47e-06,0.226,0.931,111.086,245347
+1143,1COMe7d1Y8nsW6ycdyHu9x,Guapachoso,Oilo,La Mambanegra,0.761,0.876,1,-6.668,1,0.0736,0.59,0.0,0.356,0.785,89.991,295333
+1144,7dyFEN92wbeOgDVw1yphDZ,Guapachoso,La Esquina del Movimiento,Systema Solar,0.716,0.889,4,-5.885,0,0.141,0.00895,2.91e-06,0.352,0.739,110.029,231108
+1145,4fjAwglloV7DpTCIk8d8YM,Guapachoso,Chica buena,Interactivo,0.846,0.663,9,-5.713,0,0.211,0.714,4.16e-06,0.326,0.712,97.99,329267
+1146,4l5OJLb3AsvfEyeAYAJHpe,Guapachoso,Venga Mi Vida,Juanafé,0.698,0.542,9,-5.923,0,0.0276,0.639,0.000261,0.104,0.724,88.058,311453
+1147,0pj3zahwh1kZfEVicMhq87,Guapachoso,Mayor Que Yo,Michael Stuart,0.803,0.862,9,-3.261,0,0.0471,0.692,0.000969,0.0814,0.929,98.047,264373
+1148,3wcf4fu7vwe4KfV0fFWgBT,Guapachoso,Asi Es La Vida,Orquesta Klandestinos,0.781,0.713,2,-7.058,1,0.0592,0.215,1.02e-06,0.0777,0.89,99.902,252682
+1149,3MzFajDZWphrdC2uIkStjD,Guapachoso,Azucar,Los Hacheros,0.621,0.884,0,-5.296,1,0.0731,0.476,0.000374,0.233,0.805,103.539,292827
+1150,4R5iTlxCrIvUIvaN8uSWAQ,Guapachoso,Ave Maria Que Calor,TIMBALIVE,0.856,0.711,9,-6.548,0,0.14,0.579,0.0,0.104,0.826,116.031,277213
+1151,14EzoWtIRKeX5dpbTjAgrP,Guapachoso,Lo Que Dijo La Gitana,Ismael Rivera Y Sus Cachimbos,0.733,0.784,9,-4.344,1,0.0713,0.626,0.00072,0.0324,0.948,95.829,213373
+1152,1iQ5vLbx9JYL34Nv69lH5t,Guapachoso,Otro Ladrillo en la Pared,Tromboranga,0.744,0.754,7,-5.424,0,0.0592,0.574,0.0,0.334,0.867,91.609,373678
+1153,4purbARwOU1mq6b47c3w3k,Guapachoso,Qué Te Pasa A Ti,Ismael Rivera Y Sus Cachimbos,0.627,0.488,7,-7.057,0,0.0829,0.271,0.00321,0.031,0.88,100.291,285000
+1154,5BNo5Gh9L7dqa4xthE4Hfv,Guapachoso,La Calle Linda,Pirulo y la Tribu,0.753,0.892,4,-3.874,0,0.126,0.282,1.09e-06,0.105,0.368,106.001,365853
+1155,0dDiYaZsD2gnf7AxUJQXMB,Guapachoso,Me Gusta Boogaloo,German Villareal,0.692,0.781,1,-4.023,1,0.0625,0.553,0.119,0.0385,0.958,197.007,188000
+1156,1qAMY7p9Z9KuZxlZ6jjOXu,Guapachoso,La Salsa Nunca Se Acaba (The Salsa Never Ends),Susie Hansen,0.854,0.753,4,-5.815,0,0.0746,0.485,0.00148,0.0643,0.921,99.109,297667
+1157,0ZtPZUQziFJCdfQp0uaEPd,Guapachoso,Champetrónica (feat. Obie P),Superlitio,0.613,0.879,9,-7.914,0,0.0878,0.00027,8.95e-05,0.0435,0.769,143.02,240360
+1158,3k2qOgZygd9YxrYGqkK6Dj,Guapachoso,Por Las Buenas,Billo's,0.574,0.562,9,-6.65,0,0.0688,0.162,9.98e-05,0.106,0.853,201.353,155539
+1159,0e7tqfuxXB9ig8QLmwkmLT,Guapachoso,Calle Luna Calle Sol,Toño Barrio,0.57,0.788,8,-8.096,1,0.0552,0.172,0.00187,0.0821,0.927,93.066,269250
+1160,1iPo3AoRC036zbbvkVROZw,Guapachoso,Arranca en Fa,Sonora Carruseles,0.76,0.661,10,-10.165,0,0.0434,0.353,0.366,0.318,0.89,117.905,216093
+1161,4fE7huq0D1AUHr87vVrPXG,Guapachoso,Permiso Que Llego Van Van,Los Van Van,0.535,0.897,7,-4.833,1,0.0979,0.34,1.21e-06,0.14,0.829,92.232,345360
+1162,7exCBOwlqRbyoITYlDU9qd,Guapachoso,Mamacita Mi Conga,Interactivo,0.864,0.812,7,-5.481,1,0.0626,0.249,4.85e-05,0.256,0.897,95.006,220593
+1163,4zOZQdgs7nSjMkqB7keSM5,Guapachoso,Ojos Chinos,El Gran Combo De Puerto Rico,0.772,0.645,5,-8.32,0,0.0465,0.66,1.45e-05,0.142,0.968,93.876,261333
+1164,3lfWaQLyg71Uar9gAgFVWV,Guapachoso,Casi Te Envidio,Andy Montañez,0.67,0.567,7,-10.418,1,0.0888,0.496,0.0,0.0703,0.883,95.926,321200
+1165,6k7PMYzDB52ozmq5ptnsHJ,Guapachoso,Remenea,Seo Fernandez,0.762,0.891,2,-7.594,1,0.135,0.325,0.0,0.143,0.638,100.041,223556
+1166,4HLmjOEJgDx4RtuwRjr7aq,Guapachoso,No Estás En Nada,Justo Betancourt,0.599,0.723,7,-5.309,0,0.0596,0.745,6.98e-05,0.0963,0.928,105.247,365489
+1167,1FbwbKzs9Qrg9ZXaYlP164,Guapachoso,Yambeque,Sonora Ponceña,0.664,0.75,5,-6.439,1,0.0405,0.677,0.0163,0.0576,0.954,172.271,383533
+1168,3d2O38xlPzQRHo98Brb6Xn,Guapachoso,Chacha Me - Español,Mauro Castillo,0.892,0.832,9,-3.812,0,0.0381,0.277,0.0,0.39,0.961,118.054,200687
+1169,7821oQTHTcvw2zcgVDkqgy,Guapachoso,Elegua,La Pambelé,0.66,0.57,11,-9.703,0,0.0546,0.804,0.0951,0.225,0.779,122.971,524667
+1170,2iO0sbavGWJ39v1dhiGHZE,Guapachoso,Somos Cubanos,Los Van Van,0.57,0.878,1,-4.582,1,0.118,0.273,1.16e-06,0.0529,0.896,107.33,280200
