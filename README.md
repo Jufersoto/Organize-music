@@ -15,3 +15,4 @@ Finalmente, para la afinidad se desarrolló una técnica, para poder encontrar l
 Además de la implementación de este sistema, también se evalúa si dentro de las listas sacadas está la que es correcta utilizando el f1_score. Finalmente se entrega un dataframe, que tiene las tres primeras columnas los datos de identificación de las canciones, las siguientes columnas las playlists afines, y después las probabilidades de esas playlists, claramente va a haber el numero de columnas acorde a la canción que más afín sea a varias canciones, y algunos datos quedarán vacíos.
 ## Video de Youtube
 https://youtu.be/Q8HelD-icyw
+Se hicieron cambios del cliente de la app por temas de privacidad.
