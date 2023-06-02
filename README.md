@@ -13,3 +13,5 @@ Para la revisión del mejor modelo, se hizo el típico desarrollo de datos, en u
 Finalmente, para la afinidad se desarrolló una técnica, para poder encontrar las listas con mayor afinidad por medio de la predicción de probabilidad por etiquetas, la idea en este, es que la suma de las mayores probabilidades, de lo justo para pasar un umbral, por ejemplo si el umbral es del 70% y una lista es del 80% solo se guarde esa lista, pero si las mayores probabilidades son del 35%, 34% y 20%, entonces se guardan esas tres playlists.
 
 Además de la implementación de este sistema, también se evalúa si dentro de las listas sacadas está la que es correcta utilizando el f1_score. Finalmente se entrega un dataframe, que tiene las tres primeras columnas los datos de identificación de las canciones, las siguientes columnas las playlists afines, y después las probabilidades de esas playlists, claramente va a haber el numero de columnas acorde a la canción que más afín sea a varias canciones, y algunos datos quedarán vacíos.
+## Video de Youtube
+https://youtu.be/Q8HelD-icyw
